@@ -133,6 +133,9 @@ table {
         display: block;
     }
 }
+mark[data-markjs="true"] {
+    background-color: rgba(get-color('yellow'), 0.4);
+}
 
 @media screen and #{breakpoint(xlarge)} {
     .container {
