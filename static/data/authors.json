@@ -1,0 +1,42 @@
+{
+    "authors" : [{
+        "name": "Andrew Yeung",
+        "email": "andrew@comboink.com",
+        "status": "active"
+    },
+    {
+        "name": "Alexa Bigornia",
+        "email": "alexab@compandsave.com",
+        "status": "locked"
+    },
+    {
+        "name": "Ariel Lathrom",
+        "email": "ariell@compandsave.com",
+        "status": "locked"
+    },
+    {
+        "name": "Ashley Lipman",
+        "email": "sasha@outreachmama.com",
+        "status": "locked"
+    },
+    {
+        "name": "Denise Resendez",
+        "email": "deniser@compandsave.com",
+        "status": "locked"
+    },
+    {
+        "name": "Jessica Sillers",
+        "email": "jessicasillers@dcfreelancewriter.com",
+        "status": "locked"
+    },
+    {
+        "name": "Katy Smith",
+        "email": "katys@compandsave.com",
+        "status": "locked"
+    },
+    {
+        "name": "Stephanie Figy",
+        "email": "sksnay@gmail.com",
+        "status": "locked"
+    }]
+}

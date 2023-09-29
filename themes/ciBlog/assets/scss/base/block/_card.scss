@@ -1,0 +1,73 @@
+
+.card-post {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    overflow: hidden;
+    align-items: flex-start;
+    margin: 2rem 0 0;
+    background-color: $off-white;
+    border: $global-border;
+    box-shadow: $global-box-shadow;
+    .post-title {
+        margin-bottom: 0;
+        font-size: rem-calc(20);
+        a {
+            color: $dark-gray;
+            &:hover {
+                color: get-color('blue');
+                text-decoration: none;
+            }
+        }
+    }
+    .excerpt {
+        margin-bottom: 1rem;
+    }
+    .top-detail {
+        margin: 0.25rem 0 1rem;
+        padding-bottom: 1rem;
+        border-bottom: $global-border;
+        font-size: rem-calc(14);
+    }
+    .detail-wrapper {
+        background: $white;
+        padding: 1rem 2rem;
+    }
+    .post-detail {
+        font-size: rem-calc(14);
+        color: $medium-gray;
+    }
+    .read-more {
+        text-transform: uppercase;
+        font-size: rem-calc(15);
+    }
+    &.action {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+        .nav {
+            font-style: italic;
+        }
+    }
+}
+
+@media screen and #{breakpoint(large)} {
+    .card-post {
+        justify-content: center;
+        flex-direction: row;
+        .img-wrapper {
+            flex: 0 0 30%;
+            max-width: 30%;
+            max-height: initial;
+        }
+        .detail-wrapper {
+            flex: 1 1 0px;
+            width: auto;
+            max-width: 100%;
+            padding: 2rem;
+        }
+    }
+}

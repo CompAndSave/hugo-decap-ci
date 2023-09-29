@@ -1,0 +1,16 @@
+.search-wrapper{
+    margin-bottom: 2rem;
+}
+
+.sb-title {
+    font-size: rem-calc(20);
+    font-family: $sec-font-family;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+}
+.sb-nav {
+    margin-top: 2rem;
+    ul li {
+        margin: 0 0 0.5rem;
+    }
+}

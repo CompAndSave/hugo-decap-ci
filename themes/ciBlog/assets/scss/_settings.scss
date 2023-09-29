@@ -1,0 +1,79 @@
+@import 'utils/utils';
+
+//*--------------------------------------------------------*/
+// Color Palletes
+//*--------------------------------------------------------*/
+$color-palettes: (
+	'blue': #1E85BB,
+    'cyan': #1E85BB,
+    'magenta': #fa2a92,
+    'navy': #34495E,
+    'midnight': #22303d,
+    'green': #27AE60,
+    'violet': #A36D8F,
+    'orange': #e74c3c,
+    'light-yellow': #F39C12,
+    'sea-green': #1ABC9C,
+    'dark-yellow': #E67E22,
+    'teal': #5FAEB4,
+    'ice': #efefef,
+    'vanilla': #F1E6E5,
+    'yellow': #f9c01a,
+    'red': #ec2748
+);
+
+$black: #000000;
+$dark-gray: #3D3B3B;
+$medium-gray: #777777;
+$light-gray: #efefef;
+$ui-gray: #aaaaaa;
+$ui-light-gray: mix($light-gray, $ui-gray, 50%);
+$white: #ffffff;
+$off-white: #f7f7f7;
+
+$breakpoints: (
+        small: 0,
+        medium: 768px,
+        large: 1024px,
+        xlarge: 1200px
+);
+
+//*--------------------------------------------------------*/
+// Default Styles
+//*--------------------------------------------------------*/
+$global-font-size: 100%;
+$global-width: 1200px;
+$global-lineheight: 1.5;
+$body-font-family: "open-sans", "Segoe UI", Arial, Tahoma, sans-serif;
+$sec-font-family: 'factoria', "open-sans", Georgia, serif;
+$font-color: $dark-gray;
+$global-radius: 5px;
+$global-border: 1px solid #cccccc;
+$global-box-shadow: 0px 1px 4px 0 rgba(0, 0, 0, 0.3);
+$global-word-spacing: .06em !default;
+
+//*--------------------------------------------------------*/
+// button
+//*--------------------------------------------------------*/
+$button-padding : rem-calc(14 20);
+$button-background-hover-lightness: -24%;
+$button-background: darken(get-color('blue'), 5%);
+$button-background-hover: scale-color($button-background, $lightness: $button-background-hover-lightness);
+$button-radius: 0;
+$button-hollow-border-width: 1px;
+$button-hollow-hover-lightness: 10%;
+$button-transition: 0.3s;
+$button-box-shadow: 0px 1px 2px 0 rgba($black, 0.6);
+$button-hover-box-shadow: 0px 1px 4px 0 rgba($black, 0.6);
+$button-active-box-shadow: 0px 1px 4px 0 rgba($black, 0.6);
+$button-hollow-border: 2px solid lighten($button-background, 20%);
+$button-hollow-box-shadow: none;
+$button-hollow-hover-box-shadow: none;
+
+//*--------------------------------------------------------*/
+// Form
+//*--------------------------------------------------------*/
+$input-border: $global-border;
+$input-border-focus: 1px solid change-color(get-color('blue'), $lightness: 57.45%);
+$input-shadow: inset none;
+$input-shadow-focus: $input-shadow;

@@ -1,0 +1,19 @@
+baseURL = 'https://alpha.comboink.com/blog/'
+title = 'ComboInk Blog | Ink, Toner, Business, Printing, and More'
+theme = 'ciBlog'
+publishDir = 'blog'
+uglyURLs = true
+summaryLength= 25
+paginate = 9
+
+[params]
+    name= 'ComboInk'
+    description = 'ComboInk Blog brings you the latest on ink, toner, and printing essentials for home and business. Get DIY tips, SMB advice, and more.'
+    dateFormat = "Jan 02, 2006"
+
+[taxonomies]
+	authors = "authors"
+	tags = "tags"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

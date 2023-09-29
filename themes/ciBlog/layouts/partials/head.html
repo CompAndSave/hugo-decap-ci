@@ -1,0 +1,18 @@
+<meta charset="utf-8">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
+{{ partial "head/meta.html" . }}
+<link  rel="stylesheet" type="text/css" href="https://use.typekit.net/bwf5jyu.css" />
+{{ partialCached "head/css.html" . }}
+{{ if .IsHome }}
+{{ partialCached "head/home-css.html" . }}
+{{ end }}
+{{ if or (eq .Kind "term") (.IsSection) }}
+{{ partialCached "head/page-css.html" . }}
+{{ end }}
+{{ if .IsPage }}
+{{ partialCached "head/post-css.html" . }}
+{{ end }}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script>
+    window.BASE_URL = "{{ site.BaseURL }}"
+</script>

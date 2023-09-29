@@ -1,0 +1,29 @@
+.tags {
+    margin-top: 0.5rem;
+}
+.tags-list {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0.25rem 0 0;
+    padding: 0 0.75rem;
+    li {
+        &:last-child {
+            .tag:after {
+                content: " ";
+            }
+        }
+    }
+}
+.tag {
+    font-size: rem-calc(13);
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1;
+    color: $dark-gray;
+    text-transform: capitalize;
+    &:after {
+        content: ", ";
+        margin-right: 0.5rem;
+    }
+}

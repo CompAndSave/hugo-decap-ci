@@ -1,0 +1,12 @@
+<footer class="footer-wrapper">
+    <div class="social-wrapper">
+            <div class="social-media">
+                <span class="ft-title"><strong>Follow Us On</strong></span>
+                {{ partialCached "block/social" . }}
+            </div>
+        </div>
+    </div>
+    {{ $address := site.Data.MetaData.Site.address }}
+    <div class="copyright"><small>Copyright &copy; {{ now.Year }}
+        {{ site.Data.MetaData.Site.name }} &bull; {{ $address.street }} &bull; {{ $address.city }}, {{ $address.state }} {{ $address.zipCode }}</small></div>
+</footer>

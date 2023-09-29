@@ -1,0 +1,60 @@
+{
+    "Site": {
+        "name": "ComboInk",
+        "url": "https://www.comboink.com",
+        "blog_url": "https://www.comboink.com/blog",
+        "about": "<a href='https://www.comboink.com' target='_blank'>ComboInk.com</a> makes it easy and economical for you to place multiple online orders of ink and printer supplies with prompt delivery and rapid-response customer service.<br><span class='italic'>Buy More, Save More</span>",
+        "title": "ComboInk Blog | Ink, Toner, Business, Printing, and More",
+        "description": "ComboInk Blog brings you the latest on ink, toner, and printing essentials for home and business. Get DIY tips, SMB advice, and more.",
+        "address": {
+            "street": "33268 Central Ave.",
+            "city": "Union City",
+            "state": "CA",
+            "zipCode": "94587"
+        },
+        "tollNo": "833-786-1266",
+        "hours": "Mon-Fri, 6am-6pm PT"
+    },
+    "HeaderLink": [
+        {
+            "name": "Shop Ink & Toner",
+            "url": "https://www.comboink.com"
+        },
+        {
+            "name": "Contact Us",
+            "url": "https://www.comboink.com/contact"
+        }
+    ],
+    "Social": [
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/comboink"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/comboink"
+        },
+        {
+            "name": "pinterest",
+            "url": "https://www.pinterest.com/ComboInk/"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/c/Comboink"
+        }
+    ],
+    "FooterLink": [
+        {
+            "name": "Ink Troubleshooting",
+            "url": "https://www.comboink.com/help/categories/4411997394061/troubleshoot"
+        },
+        {
+            "name": "Ink Knowledge Base",
+            "url": "https://www.comboink.com/help/categories/4411992978445/ink-knowledge"
+        },
+        {
+            "name": "Printer Support",
+            "url": "https://www.comboink.com/printer-drivers-support"
+        }
+    ]
+}

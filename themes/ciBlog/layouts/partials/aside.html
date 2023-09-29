@@ -1,0 +1,8 @@
+<div class="about">
+    <span class="sb-title"><strong>About Us</strong></span>
+    <p>{{ site.Data.MetaData.Site.about | safeHTML }}</p>
+</div>
+<div class="sb-nav">
+    <span class="sb-title"><strong>Some Helpful Links</strong></span>
+    {{ partialCached "block/sidebar-nav" . }}
+</div>

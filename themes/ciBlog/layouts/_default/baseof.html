@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <main class="page-wrapper">
+      {{ partialCached "header.html" . }}
+    <section class="container main">
+      <div class="main-content">
+        {{ block "main" . }}{{ end }}
+      </div>
+      <aside class="sidebar">
+        {{ partialCached "aside.html" . }}
+      </aside>
+    </section>
+    {{ partialCached "footer.html" . }}
+  </main>
+  {{ partialCached "foot/js.html" . }}
+  {{ block "footer" . }}{{ end }}
+</body>
+</html>

@@ -1,0 +1,71 @@
+@import '../components/search';
+
+.header-wrapper {
+    background: $white;
+}
+.logo-wrapper {
+    margin-top: rem-calc(5);
+    a {
+        display: inline-block;
+        line-height: 1;
+        border: 0;
+    }
+}
+.header {
+    border-bottom: $global-border;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    .search-wrapper {
+        margin: 1rem 0;
+    }
+}
+.nav-wrapper {
+    .nav {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: -1rem;
+        li {
+            margin: 0 1rem;
+            cursor: pointer;
+            font-size: 1rem;
+            border: 0;
+        }
+        a {
+            color: $dark-gray;
+            &:hover {
+                color: get-color('blue');
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+@media screen and #{breakpoint(medium)} {
+    .header {
+        justify-content: flex-start;
+        .search-wrapper {
+            margin-left: 2rem;
+        }
+    }
+    .nav-wrapper {
+        flex: 0 0 100%;
+    }
+}
+
+@media screen and #{breakpoint(large)} {
+    .header {
+        justify-content: space-between;
+        padding: 1rem;
+    }
+    .nav-wrapper {
+        flex: 1 1 0px;
+    }
+    .nav-wrapper {
+        .nav {
+            justify-content: flex-end;
+        }
+    }
+}

@@ -1,0 +1,57 @@
+@import '../settings';
+
+
+
+.content-title {
+    margin-bottom: 1rem;
+}
+.top-detail {
+    margin: 0 0 2rem;
+    padding: 1rem 0;
+    border-top: $global-border;
+    border-bottom: $global-border;
+}
+
+.tags {
+    display: flex;
+    .tags-list {
+        margin: 0;
+    }
+    .tag {
+        font-size: 1rem;
+    }
+}
+
+.content-body {
+    margin-top: 1.5rem;
+    h1 {
+        margin-top: 1rem;
+    }
+    h2 {
+        margin-top: 2rem;
+    }
+    img {
+        margin: 0 auto 2rem;
+    }
+    li {
+        p {
+            margin-bottom: 0;
+        }
+    }
+    ul {
+        li {
+            list-style-type: disc;
+        }
+    }
+    ol, ul {
+        margin-left: 1rem;
+        li {
+            margin: rem-calc(8 0);
+        }
+    }
+    ol {
+        li {
+            list-style-type: decimal;
+        }
+    }
+}
