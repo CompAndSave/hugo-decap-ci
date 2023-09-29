@@ -7,7 +7,7 @@ const PostPreview = createClass({
   componentDidMount() {
     const { document } = this.props;
     const link = document.createElement("link");
-    link.href = "https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600;700;800&family=Work+Sans:wght@700&display=swap";
+    link.href = "https://use.typekit.net/bwf5jyu.css";
     link.rel = "stylesheet";
     link.type = "text/css";
     document.head.appendChild(link);
@@ -28,23 +28,23 @@ const PostPreview = createClass({
         "section",
         { className: "post-full-content" },
         h("h1", { className: "content-title" }, title),
-        h("span", { className: "author" }, 
-            h("a", {href: "#"}, author)
-        ),
-        h("span", { className: "date" }, separator + formattedDate.toLocaleDateString('en-us', { month:"short", day:"numeric", year:"numeric" }) + ""),
-        h("div", { className: "tags" }, 
-            h("span", {}, "Tags: "),
-            h("ul", { className: "tags-list"}, 
-                this.props.widgetsFor('tags').map((tag, index) => {
-                    if(tag) {
-                      return h('li', {key: index}, 
-                        h('a', {className: "tag"}, tag.getIn(['data']))
-                      )
-                    }
-                    return '';
-                })
-            )
-        ),
+        h("div", { className: "top-detail"}, h("span", { className: "author" }, 
+        h("a", {href: "#"}, author)
+    ),
+    h("span", { className: "date" }, separator + formattedDate.toLocaleDateString('en-us', { month:"short", day:"numeric", year:"numeric" }) + ""),
+    h("div", { className: "tags" }, 
+        h("span", {}, "Tags: "),
+        h("ul", { className: "tags-list"}, 
+            this.props.widgetsFor('tags').map((tag, index) => {
+                if(tag) {
+                  return h('li', {key: index}, 
+                    h('a', {className: "tag"}, tag.getIn(['data']))
+                  )
+                }
+                return '';
+            })
+        )
+    ),),
         h("section", { className: "content-body" }, this.props.widgetFor("body"))
       )
     );

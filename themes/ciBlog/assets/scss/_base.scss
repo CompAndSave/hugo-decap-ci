@@ -137,6 +137,10 @@ mark[data-markjs="true"] {
     background-color: rgba(get-color('yellow'), 0.4);
 }
 
+.margin-2 {
+    margin: 2rem;
+}
+
 @media screen and #{breakpoint(xlarge)} {
     .container {
         padding: 0;
