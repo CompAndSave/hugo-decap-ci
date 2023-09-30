@@ -1,4 +1,4 @@
-baseURL = 'https://alpha.comboink.com/blog/'
+baseURL = 'https://www.comboink.com/blog/'
 title = 'ComboInk Blog | Ink, Toner, Business, Printing, and More'
 theme = 'ciBlog'
 publishDir = 'blog'
