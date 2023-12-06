@@ -1,13 +1,16 @@
 ---
-title: "Say Cheese! Top Tips for Taking Your Family Photos"
+title: Say Cheese! Top Tips for Taking Your Family Photos
 date: 2018-01-21T20:00:04.000Z
-slug: say-cheese-top-tips-taking-family-photos
-description: "Say Cheese! Top Tips for Taking Your Family Photos"
-featured_image: /blog/images/archive/2018/01/familyphoto.jpg
 authors: Stephanie Figy
-tags: [digital photography,photo paper,tips,photo printing]
+slug: say-cheese-top-tips-taking-family-photos
+featured_image: /blog/images/archive/2018/01/familyphoto.jpg
+description: Say Cheese! Top Tips for Taking Your Family Photos
+tags:
+  - digital photography
+  - photo paper
+  - tips
+  - photo printing
 ---
-
 In today's high-tech, selfie-dominated world, we see more photos on a Facebook wall than a dining room wall. And with the hustle and bustle, it can be hard to find time to schedule family portraits. But with growing families, precious moments are gone in a flash. Learn how to capture family memories and turn them into beautiful keepsakes that you will enjoy for years to come with these tips for taking family photos.
 
 # Tips to Take Perfect Family Photos
@@ -32,12 +35,12 @@ You can have the perfect backdrop and camera on a tripod, but without proper pos
 
 Taking family photos can be stressful, especially with young ones who have trouble sitting still or looking at the camera. Remember the reason you are taking the photos in the first place — to capture family memories. The pictures do not have to be perfect. In fact, it is better if they aren't. They should reflect your family's personality. Don't sweat the small stuff.
 
-_**Pro Tip:**_ Have kids who don't want to sit still? Bring along some toys to play with. Those candid action shots sometimes make the sweetest photos! You also can try the ever-popular jump photo. Take action shots somewhere in the middle of the photoshoot to re-energize your family members who may be fatigued with photo taking and burn off energy for those with too much.
+***Pro Tip:*** Have kids who don't want to sit still? Bring along some toys to play with. Those candid action shots sometimes make the sweetest photos! You also can try the ever-popular jump photo. Take action shots somewhere in the middle of the photoshoot to re-energize your family members who may be fatigued with photo taking and burn off energy for those with too much.
 
 ### Print Photos from Home
 
-Don't let your hard work sit on a flash drive for years! After going through the effort of taking family photos, the only thing left to do is print, frame, and hang them. Did you know you can print high quality photos from home? Just buy [photo paper for your printer](https://www.comboink.com/paper). With a number of options, including [canvas](https://www.comboink.com/paperphoto-paper/canvas-photo-paper), [glossy](https://www.comboink.com/paperphoto-paper/glossy-photo-paper), and [matte](https://www.comboink.com/paperphoto-paper/matte-photo-paper), there's a style suited for everyone's home décor! Print, frame the masterpiece, and voila!
+Don't let your hard work sit on a flash drive for years! After going through the effort of taking family photos, the only thing left to do is print, frame, and hang them. Did you know you can print high quality photos from home? Just buy [photo paper for your printer](https://www.comboink.com/paper). With a number of options, including [canvas](https://www.comboink.com/paper/photo-paper/canvas-photo-paper), [glossy](https://www.comboink.com/paper/photo-paper/glossy-photo-paper), and [matte](https://www.comboink.com/paper/photo-paper/matte-photo-paper), there's a style suited for everyone's home décor! Print, frame the masterpiece, and voila!
 
 If you are in search of a unique gift or just want to find a creative way to display your photos, then check out magnet sheets, sticker sheets, or printable fabric!
 
-_Do you have any family photography tips and tricks to share? Let us know in the comments section below._
+*Do you have any family photography tips and tricks to share? Let us know in the comments section below.*
