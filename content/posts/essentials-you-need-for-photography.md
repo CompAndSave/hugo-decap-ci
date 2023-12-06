@@ -1,13 +1,21 @@
 ---
-title: "4 Essentials You Need for Photography"
+title: 4 Essentials You Need for Photography
 date: 2016-08-08T20:30:00.000Z
-slug: essentials-you-need-for-photography
-description: "4 Essentials You Need for Photography"
-featured_image: /blog/images/archive/2016/08/digitalcamera_home-1.jpg
 authors: Katy Smith
-tags: [digital photography,photo paper,photo printing,Photo Prints,photographer,professional photo printing,photo editing,digital camera,DSLR]
+slug: essentials-you-need-for-photography
+featured_image: /blog/images/archive/2016/08/digitalcamera_home-1.jpg
+description: 4 Essentials You Need for Photography
+tags:
+  - digital photography
+  - photo paper
+  - photo printing
+  - Photo Prints
+  - photographer
+  - professional photo printing
+  - photo editing
+  - digital camera
+  - DSLR
 ---
-
 ![Camera](/blog/images/digitalcamera_home.jpg "Photography essentials")
 
 ### Camera
@@ -34,7 +42,7 @@ If your camera doesn't have a built-in flash, you'll need to invest in one for p
 
 [![Glossy Photo Paper](/blog/images/PH-4x6-GLOSSY-20PK-2.jpg "Premium Glossy Inkjet Photo Paper ")](/blog/images/PH-4x6-GLOSSY-20PK-2.jpg)So now that you've taken and edited your photo, it's time to choose the right [photo paper for printing](http://blog.comboink.local/photo-printing-guide-for-professional-prints/). You need a high-quality, heavy-weighted paper designed specifically for photos. Pick a resin-coated paper, which is water resistant and resists scratches.
 
-[Glossy photo paper](https://www.comboink.com/paperphoto-paper/glossy-photo-paper) offers a bright, detailed appearance while [matte photo paper](https://www.comboink.com/paperphoto-paper/matte-photo-paper) provides a smudge-free, non-reflective finish. If you're looking for a color-saturated, somewhat glossy finish with fingerprint resistance, then try [luster photo paper](https://www.comboink.com/paperphoto-paper/lustre-photo-paper). Often used in fine art reproduction, [canvas photo paper](https://www.comboink.com/paperphoto-paper/canvas-photo-paper) is a good selection if you'd like to frame your photo. 
+[Glossy photo paper](https://www.comboink.com/paper/photo-paper/glossy-photo-paper) offers a bright, detailed appearance while [matte photo paper](https://www.comboink.com/paper/photo-paper/matte-photo-paper) provides a smudge-free, non-reflective finish. If you're looking for a color-saturated, somewhat glossy finish with fingerprint resistance, then try [luster photo paper](https://www.comboink.com/paper/photo-paper/lustre-photo-paper). Often used in fine art reproduction, [canvas photo paper](https://www.comboink.com/paper/photo-paper/canvas-photo-paper) is a good selection if you'd like to frame your photo. 
 
 ### Accessories
 
