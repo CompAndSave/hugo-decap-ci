@@ -1,13 +1,17 @@
 ---
-title: "Photo Printing Guide for Professional Prints"
+title: Photo Printing Guide for Professional Prints
 date: 2014-12-13T08:20:00.000Z
-slug: photo-printing-guide-for-professional-prints
-description: "Photo Printing Guide for Professional Prints"
-featured_image: null
 authors: Denise Resendez
-tags: [photo paper,professional photo printing,photo printing,photo printer,Photo Prints]
+slug: photo-printing-guide-for-professional-prints
+featured_image: null
+description: Photo Printing Guide for Professional Prints
+tags:
+  - photo paper
+  - professional photo printing
+  - photo printing
+  - photo printer
+  - Photo Prints
 ---
-
 | [![photo paper matte glossy](/blog/images/IMG_2977.jpg "Different Types of Photo Paper")](/blog/images/IMG%5F2977.jpg) |
 | ---------------------------------------------------------------------------------------------------------------------- |
 | Via PIKTO                                                                                                              |
@@ -24,19 +28,19 @@ Plus, you can have a lot of fun editing, adding text and photo-shopping your ima
 
 Depending upon the resolution of the images and the size of the photo prints you want, you can pick photo papers of the following dimensions and can most typically be bought in convenient 20 sheet packages, 100 sheet packages and so on:
 
-* [4 x 6 Photo Paper](https://www.comboink.com/4x6-Photo-Paper-for-InkJet-Printer) \- this gives you regular sized photos which will fit into most photo frames,
-* [5 x 7 Photo Paper](https://www.comboink.com/5-x-7-Photo-Paper-for-InkJet-Printer) – this size of photo paper gives you a slightly larger size of print
-* [8.5 x 11 Photo Paper](https://www.comboink.com/8-5-x-11-Photo-Paper-for-InkJet-Printer) – this photo-paper dimension is great for printing detailed landscapes or quality, high resolution portraits
-* [11 x 17 Photo Paper](https://www.comboink.com/11-x-17-Photo-Paper-for-InkJet-Printer) – this photo paper size gives you extra large sized pictures or fair sized posters that you can frame and put up on your walls, use for school projects or for in house advertising purposes
+* [4 x 6 Photo Paper](https://www.comboink.com/paper?paper_size=1) - this gives you regular sized photos which will fit into most photo frames,
+* [5 x 7 Photo Paper](https://www.comboink.com/paper?paper_size=2) – this size of photo paper gives you a slightly larger size of print
+* [8.5 x 11 Photo Paper](https://www.comboink.com/paper?paper_size=3) – this photo-paper dimension is great for printing detailed landscapes or quality, high resolution portraits
+* [11 x 17 Photo Paper](https://www.comboink.com/paper?paper_size=4) – this photo paper size gives you extra large sized pictures or fair sized posters that you can frame and put up on your walls, use for school projects or for in house advertising purposes
 
-### Photo Paper Finishes 
+### Photo Paper Finishes
 
 Each of the above dimensions can be opted for in various different paper finishes –
 
-* [Matte Photo Paper](https://www.comboink.com/paperphoto-paper/matte-photo-paper)
-* [Glossy Photo Paper](https://www.comboink.com/paperphoto-paper/glossy-photo-paper)
-* [Luster Photo Paper](https://www.comboink.com/paperphoto-paper/lustre-photo-paper)
-* [Canvas Photo Paper](https://www.comboink.com/paperphoto-paper/canvas-photo-paper)
+* [Matte Photo Paper](https://www.comboink.com/paper/photo-paper/matte-photo-paper)
+* [Glossy Photo Paper](https://www.comboink.com/paper/photo-paper/glossy-photo-paper)
+* [Luster Photo Paper](https://www.comboink.com/paper/photo-paper/lustre-photo-paper)
+* [Canvas Photo Paper](https://www.comboink.com/paper/photo-paper/canvas-photo-paper)
 
 You can choose either a matte finish or glossy photo paper depending on the look you're going for or occasion (i.e. wedding). While matte paper produces high quality photos, the finish is not as vibrant or bright as the results of glossy photo papers. Glossy prints also show up more detail in the images.
 
