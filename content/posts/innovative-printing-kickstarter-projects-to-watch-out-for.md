@@ -1,13 +1,16 @@
 ---
-title: "Innovative Printing Kickstarter Projects to Watch Out For"
+title: Innovative Printing Kickstarter Projects to Watch Out For
 date: 2015-03-03T08:29:00.000Z
-slug: innovative-printing-kickstarter-projects-to-watch-out-for
-description: "Innovative Printing Kickstarter Projects to Watch Out For"
-featured_image: null
 authors: Denise Resendez
-tags: [3D Printing,Printing projects,Innovative,Kickstarter]
+slug: innovative-printing-kickstarter-projects-to-watch-out-for
+featured_image: null
+description: Innovative Printing Kickstarter Projects to Watch Out For
+tags:
+  - 3D Printing
+  - Printing projects
+  - Innovative
+  - Kickstarter
 ---
-
 [![Kickstart printing projects](/blog/images/2.jpg "Innovative Printing Kickstarter Projects to Watch Out For")](/blog/images/2.jpg)
 
 Bacon flavored soap, a giant inflatable sculpture of Lionel Richie's head and a drink flask hidden inside a fake baby… these may not be things that instantly come to mind when you think of practical new inventions. However, the global crowdfunding platform Kickstarter helps bring these rather bizarre ventures to fruition as well as creative new ideas and inventions that will actually have an impact on our daily lives. 
@@ -18,7 +21,7 @@ For a great many of us, funding a project that hopes to create the world's large
 
 There are some terrific new inventions in the pipeline; 3D printing truly seems to have come of age in an affordable, practical and usable way. This is not pie in the sky; these are inventions that you and I may actually be using in our homes and offices soon if we aren't doing so already:
 
-### Successful 3D Pinter Kickstarter Projects 
+### Successful 3D Pinter Kickstarter Projects
 
 [The Affordable Professional 3D Printer ](https://www.kickstarter.com/projects/formlabs/form-1-an-affordable-professional-3d-printer)project is an easy to use, professional grade system that replicates high end product output at a fraction of the cost. The project attracted 2,068 backers who ended up pledging nearly 3 million dollars for a project with a $100,000 goal. 
 
@@ -32,7 +35,7 @@ There are some terrific new inventions in the pipeline; 3D printing truly seems 
 
 ### 3D Pinter Kickstarter Projects in the Pipeline
 
-[The 3D printer program for High Schools](https://www.kickstarter.com/projects/415070184/3d-printer-program-for-high-school) hope so get students interested in their study material. The program with an $8,750 goal includes curriculum for high school kids, a 3D printer and materials.   
+[The 3D printer program for High Schools](https://www.kickstarter.com/projects/415070184/3d-printer-program-for-high-school) hope so get students interested in their study material. The program with an $8,750 goal includes curriculum for high school kids, a 3D printer and materials.\
 The Pancake Printer is, well, a pancake printer! Draw a desired pancake shape on a touch screen and ‘print' the pancake you want!
 
 [ World's First Professionally Recycled 3D Printing Filament](https://www.kickstarter.com/projects/952621887/sustainable-3d-printing-filament) helps you go green. The project hopes to create printing earth friendly printing filament from recycled ABS plastic material; offering high quality print output at a fraction of the carbon footprint. 
