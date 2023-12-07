@@ -1,13 +1,14 @@
 ---
-title: "The Ultimate Guide to DIY Custom Printing at Home"
+title: The Ultimate Guide to DIY Custom Printing at Home
 date: 2015-07-07T22:00:00.000Z
-slug: the-ultimate-guide-to-diy-custom-printing-at-home
-description: "The Ultimate Guide to DIY Custom Printing at Home"
-featured_image: null
 authors: Denise Resendez
-tags: [Custom Printing,printer cartridges]
+slug: the-ultimate-guide-to-diy-custom-printing-at-home
+featured_image: null
+description: The Ultimate Guide to DIY Custom Printing at Home
+tags:
+  - Custom Printing
+  - printer cartridges
 ---
-
 [![](/blog/images/ciblog.jpg)](/blog/images/ciblog.jpg)
 
 If you've been putting your home printer through its paces, good for you! You probably know what a clever little gadget it is, and how very useful it can be! But if your printer is only occasionally used to print out a receipt here or maybe a letter there, you might not have discovered its full potential just yet. There are so many DIY custom printing projects you can accomplish using nothing but your trusty printer. Not only can you make yourself truly personalized stationery, invites and so on, you can create custom printed fabrics and t-shirts, wall décor, and even create DIY screen printing effects! Here are some ideas and some inspiration to help you get started:
@@ -32,7 +33,7 @@ You currently use your office printer for the usual document printing: letters, 
 * If your office décor is more contemporary and modern you could opt for some edgier, urban wall art featuring city-scapes, stark graffiti and so on.
 * You could also announce bonuses for targets set and achieved via printouts and print out pictures of outstanding employees to increase motivation. Perhaps you could also hand out personalized printed certificates of appreciation from time to time.
 
-Experiment with premium papers, and other processes such as foil stamping, lamination or specialized coatings, framing or mounting to create more impressive results. If you want some more ideas to get the creative juices going, you may want to check out some of these [custom print ideas at Etsy. ](https://www.etsy.com/market/custom%5Fprint)
+Experiment with premium papers, and other processes such as foil stamping, lamination or specialized coatings, framing or mounting to create more impressive results. If you want some more ideas to get the creative juices going, you may want to check out some of these [custom print ideas at Etsy. ](https://www.etsy.com/market/custom_print)
 
 #### Our Special July Coupon Code
 
