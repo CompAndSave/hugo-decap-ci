@@ -1,13 +1,14 @@
 ---
-title: "Solid Ink Printers"
+title: Solid Ink Printers
 date: 2010-12-29T08:05:00.000Z
-slug: solid-ink-printers
-description: "Solid Ink Printers"
-featured_image: null
 authors: Andrew Yeung
-tags: [solid ink,solid ink printer]
+slug: solid-ink-printers
+featured_image: null
+description: Solid Ink Printers
+tags:
+  - solid ink
+  - solid ink printer
 ---
-
 [![](/blog/images/solid-ink.jpg)](/blog/images/solid-ink.jpg)
 
 Solid ink printers, as the name suggests, are printers that use solid inks. Their way of printing is different because of the different types of ink they use. These printers were first introduced in the market in the 1990's. They were very advantageous due to different types of printing and ink, and were very well received in the market. Since then, the solid ink printer has undergone many changes. The current printer version is an excellent piece of technology and is being used by many printing houses and other businesses. 
@@ -22,4 +23,4 @@ The main advantage of solid ink printers is its variety of ink. Solid ink gives 
 
 Some of its disadvantages are closely linked to its advantages. The ink that gives great prints can easily come off the page if you scrape it with a fingernail. Such printers are not apt for printing letterheads or pages that have to pass through another printer. The heat from laser printers and the like can melt the ink on the page. The ink also fades on exposure to UV or the sun's rays due to the use of organic colorants. If you get a bad ink block, which has impurities the inkjet could easily get clogged. Because of the ink's characteristic of freezing and melting, sudden stops and interruptions in printing result in ink wastage. The machine itself uses great amount of power. Due to the complexity of the machine with its rolling drum rotating at high speeds, the belt of the drum needs to be replaced periodically and can prove to be a costly affair.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
