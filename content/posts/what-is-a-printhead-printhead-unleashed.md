@@ -1,13 +1,14 @@
 ---
-title: "What Is A Printhead - Printhead Unleashed!"
+title: What Is A Printhead - Printhead Unleashed!
 date: 2010-11-23T04:03:00.000Z
-slug: what-is-a-printhead-printhead-unleashed
-description: "What Is A Printhead - Printhead Unleashed!"
-featured_image: null
 authors: Andrew Yeung
-tags: [inkjet printer,printhead]
+slug: what-is-a-printhead-printhead-unleashed
+featured_image: null
+description: What Is A Printhead - Printhead Unleashed!
+tags:
+  - inkjet printer
+  - printhead
 ---
-
 [![](/blog/images/Printhead.jpg)](/blog/images/Printhead.jpg)
 
 Today being a very tech savvy environment, it pays to know more about how things work and what they are made up of. For example, a basic computer printer has many moving parts in it. Simply using it is not enough. It is important to thoroughly understand its working and what components are important to it. Their cost and usage all varies according to the printer components and the kind of ink used. Components of an inkjet printer include a single printed circuit board, the printhead, printhead motor, ink cartridge, paper feed rollers and a belt. One of the most important components of the modern day printer (ink jet) is the printhead. 
@@ -20,4 +21,4 @@ The advantage of disposable printhead over fixed printhead is that the damage to
 
 It is a fact that disposable heads are used more in consumer products while the fixed head printers are found in high end industrial products. Printers with disposable heads cost less and are low maintenance when compared to printers with fixed heads. When purchasing a printer the usage of the printer need to be considered. Based on that, the printerhead need to be decided upon. The budget is also important as high end printers are costlier when compared to the consumer printers.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
