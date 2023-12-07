@@ -1,13 +1,14 @@
 ---
-title: "Saving Money Tips For This Holiday Season"
+title: Saving Money Tips For This Holiday Season
 date: 2010-11-10T01:06:00.000Z
-slug: saving-money-tips-for-this-holiday-season
-description: "Saving Money Tips For This Holiday Season"
-featured_image: null
 authors: Andrew Yeung
-tags: [holiday shopping,saving money tips]
+slug: saving-money-tips-for-this-holiday-season
+featured_image: null
+description: Saving Money Tips For This Holiday Season
+tags:
+  - holiday shopping
+  - saving money tips
 ---
-
 [![](/blog/images/Female-Christmas-Present-2.jpg)](/blog/images/Female-Christmas-Present-2.jpg)
 
 Everyone gets tempted to go on spending sprees during the holiday season. Sales are on in stores and it is the gifting season and you have so many parties to attend. You want to go shopping, buy gifts and clothes at the discounted sales. There are so many opportunities to spend! All this has a negative impact on your bank balance. How do you save in such a scenario?
@@ -29,4 +30,4 @@ Eating food at home and preparing special festive food at home can reduce your e
 
 Festive time is a great time for enjoying yourself with your family and friends. You can enjoy without going all out spending a lot of money. Family and friends gatherings with games, singing carols, taking a drive around town, or even watching a film together is fun and entertaining. Additionally, you will feel good knowing that you have saved and not gone over the top on spending your resources.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
