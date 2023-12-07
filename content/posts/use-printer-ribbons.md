@@ -1,13 +1,13 @@
 ---
-title: "Use Printer Ribbons"
+title: Use Printer Ribbons
 date: 2011-01-01T08:19:00.000Z
-slug: use-printer-ribbons
-description: "Use Printer Ribbons"
-featured_image: null
 authors: Andrew Yeung
-tags: [printer ribbons]
+slug: use-printer-ribbons
+featured_image: null
+description: Use Printer Ribbons
+tags:
+  - printer ribbons
 ---
-
 [![](/blog/images/ribbon.jpg)](/blog/images/ribbon.jpg)
 
 **Printer ribbons** allow you to print on almost any type of ribbon directly from your computer using a ribbon printer. Ribbons used in a printer are a critical element of the printing process. It has utmost importance for maintaining the integrity of the printer and the application. 
@@ -36,4 +36,4 @@ Three types of printer cartridges laser toner, inkjet, and ribbon are similar in
 
 Whether you use printer ribbon, laser, or inkjet, all depends on personal choice, budget, and use. It is entirely a matter of personal preference. Modern ribbon printers have the capability to deliver with options like color, security, quick-dry, and very suitable for bar code and text applications. Each type have their flaws and plus points. Use the one that suits your demand in the best ways.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
