@@ -1,14 +1,16 @@
 ---
-title: "Buy Inkjet Cartridges"
+title: Buy Inkjet Cartridges
 date: 2010-12-29T07:48:00.000Z
-slug: buy-inkjet-cartridges
-description: "Buy Inkjet Cartridges"
-featured_image: null
 authors: Andrew Yeung
-tags: [inkjet cartridges,compatible ink cartridges,remanufactured ink cartridges]
+slug: buy-inkjet-cartridges
+featured_image: null
+description: Buy Inkjet Cartridges
+tags:
+  - inkjet cartridges
+  - compatible ink cartridges
+  - remanufactured ink cartridges
 ---
-
-[![](/blog/images/inkjet_cartridges.jpg)](/blog/images/inkjet%5Fcartridges.jpg)
+[![](/blog/images/inkjet_cartridges.jpg)](/blog/images/inkjet_cartridges.jpg)
 
 There are many benefits if you use **[inkjet cartridges](https://www.comboink.com/)** at home or work from top manufacturers. At any workplace, there is a whole lot of printing to be done, so you must use high quality cartridges for the best results. 
 
@@ -40,4 +42,4 @@ The advantages of these cartridges are that it costs fifty percent less than reg
 
 The disadvantages of **refilling your inkjet cartridges** are that if you try to do it yourself, it can turn into a mess and you will spill some of the ink. Keep the ink out of reach from kids and pets. The ink is not toxic but can make you sick if you drink enough. Some may be allergic to the ink which could cause reactions. In addition it should not get into anyone's eyes. Another disadvantage may be the cartridges.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
