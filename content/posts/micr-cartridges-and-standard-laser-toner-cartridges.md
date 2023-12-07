@@ -1,13 +1,15 @@
 ---
-title: "MICR Cartridges And Standard Laser Toner Cartridges"
+title: MICR Cartridges And Standard Laser Toner Cartridges
 date: 2010-11-19T01:41:00.000Z
-slug: micr-cartridges-and-standard-laser-toner-cartridges
-description: "MICR Cartridges And Standard Laser Toner Cartridges"
-featured_image: null
 authors: Andrew Yeung
-tags: [magentic ink,micr,laser toner cartridges]
+slug: micr-cartridges-and-standard-laser-toner-cartridges
+featured_image: null
+description: MICR Cartridges And Standard Laser Toner Cartridges
+tags:
+  - magentic ink
+  - micr
+  - laser toner cartridges
 ---
-
 [![](/blog/images/micr.jpg)](/blog/images/micr.jpg)
 
 MICR cartridges contain magnetic components, especially iron oxide. This technology is used primarily by banking industry to make the processing of checks easy. MICR stands for Magnetic Ink Character Reader. This technology allows printers to print important information such as account numbers and check numbers in special typefaces. MICR characters can be easily read by computers as well as humans. MICR cartridges are also used in printing banking exams. The main reason to use them is to enable machines to study exams and other documents appropriately. 
@@ -30,4 +32,4 @@ MICR printing has the ability to mark all information on negotiable documents, i
 
 MICR cartridges do not have much importance in printing daily official documents. But yes, they are very important in printing out checks, certificates, deeds, and other special documents that need to be verified. A [laser printer cartridge](https://www.comboink.com/) is much more useful for official printing purposes. Both technologies are different from each other and have their own advantages and disadvantages.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
