@@ -1,13 +1,15 @@
 ---
-title: "HP PhotoSmart D7460 inkjet printer Review"
+title: HP PhotoSmart D7460 inkjet printer Review
 date: 2012-03-26T11:28:00.000Z
-slug: hp-photosmart-d7460-inkjet-printer-review
-description: "HP PhotoSmart D7460 inkjet printer Review"
-featured_image: null
 authors: Andrew Yeung
-tags: [HP,PhotoSmart Ink,reviews]
+slug: hp-photosmart-d7460-inkjet-printer-review
+featured_image: null
+description: HP PhotoSmart D7460 inkjet printer Review
+tags:
+  - HP
+  - PhotoSmart Ink
+  - reviews
 ---
-
 The HP D7460 is a part of the HP range of PhotoSmart printer. It holds both wireless and Touchscreen technology as a part of its arsenal, and for the price you are able to purchase them on the market, they are an investment well worth taking on. If you are looking for a printer, which is able to print high quality images as well as take on other printing roles, then the HP D7460 maybe the printer you have been waiting for. 
 
 As we have mentioned this printer is one of the cheaper HP models of printer, we think you get a lot more than what you had paid for. The installation process with this printer has been deemed to be very simple even to the complete newbie to the printer, and it has been commented on a being one of the easiest models of printer to install. The fact that it does use wireless technology means that after installation, there is no need for the printer to be connected to your computer, to make it able to print your pictures. 
@@ -18,4 +20,4 @@ The Touchscreen makes it so much easier to look through the various features and
 
 The PhotoSmart also comes with an integrated memory card slot, so you can transfer your images direct from your digital camera, to the printer using a complete hassle free method. Simply taker the memory card from your camera and insert it into your Printer. All that is left to do is to select the pictures you wish to print. 
 
-You can find replacement [PhotoSmart D7460 ink](https://www.comboink.com/hp-photosmart-d7460-printer-ink-cartridges) online for low prices. It is recommended that you seek to use the compatible ink cartridge to aid you in saving even more money, especially if you use your printer on a day to day basis.
+You can find replacement [PhotoSmart D7460 ink](https://www.comboink.com/hp-photosmart-d7460-ink-cartridges) online for low prices. It is recommended that you seek to use the compatible ink cartridge to aid you in saving even more money, especially if you use your printer on a day to day basis.
