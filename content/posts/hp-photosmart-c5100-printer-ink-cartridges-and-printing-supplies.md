@@ -1,13 +1,16 @@
 ---
-title: "HP PhotoSmart C5100 Printer Ink Cartridges and Printing Supplies"
+title: HP PhotoSmart C5100 Printer Ink Cartridges and Printing Supplies
 date: 2012-04-23T07:04:00.000Z
-slug: hp-photosmart-c5100-printer-ink-cartridges-and-printing-supplies
-description: "HP PhotoSmart C5100 Printer Ink Cartridges and Printing Supplies"
-featured_image: null
 authors: Andrew Yeung
-tags: [Ink Cartridges,PhotoSmart Ink,office supplies,Printer Ink]
+slug: hp-photosmart-c5100-printer-ink-cartridges-and-printing-supplies
+featured_image: null
+description: HP PhotoSmart C5100 Printer Ink Cartridges and Printing Supplies
+tags:
+  - Ink Cartridges
+  - PhotoSmart Ink
+  - office supplies
+  - Printer Ink
 ---
-
 If it has come to that time where you need to purchase a new Printer, then it is highly recommended that you take a look at the new range of HP PhotoSmart printers. They have been specifically designed to be able to produce only the finest quality images, for you and your family. Printing your own images has become a process that many of us would prefer as opposed to the more traditional method, of paying over the odds for a professional developing service.
 
 Many of us will carry our own digital camera, and will use it on every opportunity that we get. Memories are always there to be remembered through the use if a camera, and what better way to remember the happier days in your life, than to place a perfect representation of the memories on a wall in your house.
@@ -18,4 +21,4 @@ The PhotoSmart C5100 is an all in one printer, this means that it can not only p
 
 The PhotoSmart C5100 uses only the finest quality inks, and although it's recommended that you use the genuine ink cartridges from the original manufacturer, you will find that using a compatible ink cartridge will cater exactly to your needs, at a fraction of the cost. These compatible cartridges are available from many online retailers, however you should make sure you know the exact cartridge you need, as there will be many similar to the cartridge you need. 
 
-HP [PhotoSmart C5100 ink](https://www.comboink.com/hp-photosmart-c5100-printer-ink-cartridges) will ensure your printed images maintain that glossy and fresh look for many years to come. Enjoy using your printer to print family images from the comfort of your own home, through using a HP PhotoSmart Printer.
+HP [PhotoSmart C5100 ink](https://www.comboink.com/hp-photosmart-c5100-ink-cartridges) will ensure your printed images maintain that glossy and fresh look for many years to come. Enjoy using your printer to print family images from the comfort of your own home, through using a HP PhotoSmart Printer.
