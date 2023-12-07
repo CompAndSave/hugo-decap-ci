@@ -1,14 +1,20 @@
 ---
-title: "Eco-Friendly Fonts – Cost Saving For Business"
+title: Eco-Friendly Fonts – Cost Saving For Business
 date: 2010-11-10T01:25:00.000Z
-slug: eco-friendly-fonts-cost-saving-for-business
-description: "Eco-Friendly Fonts – Cost Saving For Business"
-featured_image: null
 authors: Andrew Yeung
-tags: [business,eco-friendly fonts,save money,chicory,othello,capitals,signs]
+slug: eco-friendly-fonts-cost-saving-for-business
+featured_image: null
+description: Eco-Friendly Fonts – Cost Saving For Business
+tags:
+  - business
+  - eco-friendly fonts
+  - save money
+  - chicory
+  - othello
+  - capitals
+  - signs
 ---
-
-[![](/blog/images/spranq_ecofont.jpg)](/blog/images/spranq%5Fecofont.jpg)
+[![](/blog/images/spranq_ecofont.jpg)](/blog/images/spranq_ecofont.jpg)
 
 If you are getting environmentally conscious these days, try eco-friendly fonts which are designed to save [ink and toner](https://www.comboink.com/). Along with recycled paper and soy inks, these fonts are purposely punctuated with holes so that they use less of printing ink. It generally enables you to use 20 percent less ink.
 
@@ -44,4 +50,4 @@ Eco-friendly fonts are available in a variety of styles and are very economicall
 
 You can integrate the eco-friendly font into your printing easily by simply downloading the software. It can be used in any operating system. Once it is installed, you can start printing using the typefaces of your choice from your normally used applications. There are paid versions as well, which are very reasonably priced. More and more people using these fonts will have environmental benefits on a larger scale.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
