@@ -1,13 +1,15 @@
 ---
-title: "Soy Ink Cartridges for Eco-friendly Printing"
+title: Soy Ink Cartridges for Eco-friendly Printing
 date: 2010-10-12T00:40:00.000Z
-slug: soy-ink-cartridges-for-eco-friendly-printing
-description: "Soy Ink Cartridges for Eco-friendly Printing"
-featured_image: null
 authors: Andrew Yeung
-tags: [eco-friendly printing,soy ink,soy ink cartridges]
+slug: soy-ink-cartridges-for-eco-friendly-printing
+featured_image: null
+description: Soy Ink Cartridges for Eco-friendly Printing
+tags:
+  - eco-friendly printing
+  - soy ink
+  - soy ink cartridges
 ---
-
 [![](/blog/images/spray-soy-insulation-foam.jpg)](/blog/images/spray-soy-insulation-foam.jpg)
 
 **Soy Ink Cartridges for Eco-friendly Printing**
@@ -38,4 +40,4 @@ Soy ink may take longer to dry than normal inks, so don't stack freshly printed 
 
 Using soy ink cartridges is an excellent alternative to petroleum-based inks. It is an effective solution to environmental health and safety concerns in the printing industry.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
