@@ -1,13 +1,14 @@
 ---
-title: "Advantages Of Using Continuous Ink Systems"
+title: Advantages Of Using Continuous Ink Systems
 date: 2011-07-05T07:29:00.000Z
-slug: advantages-of-using-continuous-ink-systems
-description: "Advantages Of Using Continuous Ink Systems"
-featured_image: null
 authors: Andrew Yeung
-tags: [ciss,continuous ink systems]
+slug: advantages-of-using-continuous-ink-systems
+featured_image: null
+description: Advantages Of Using Continuous Ink Systems
+tags:
+  - ciss
+  - continuous ink systems
 ---
-
 [![](/blog/images/ip1980wciss.gif)](/blog/images/ip1980wciss.gif)
 
 The best way to save money is to decrease the amount of cash you spend on ink cartridges. If a person prints a lot, the total bill can go up to thousands of dollars a year. A great way to save on hard-earned money is by Continuous Ink Flow System.
@@ -22,7 +23,7 @@ Continuous ink flow systems are known by several names, for example, CISS, CIS, 
 * The cost of maintenance is extremely low and the function of printing is continuous as there is no reliance on changing the cartridge.
 * It provides a good volume of prints in far lesser time.
 
-**Criteria For Inkjet Printers That Use Continuous Ink System**  
+**Criteria For Inkjet Printers That Use Continuous Ink System**\
 It is very easy to find CIS kits for inkjet printers if the following criteria are met:
 
 * The printer must have a completely separate cartridge for every color.
@@ -33,4 +34,4 @@ The cartridges from original manufacturers are extremely expensive. This usually
 
 The usual operating cost in CIS is one-tenth of the normal cost. There is a huge selection of CIS kits that are available in the market.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
