@@ -1,13 +1,14 @@
 ---
-title: "Why Printer Is Selling That Cheap?"
+title: Why Printer Is Selling That Cheap?
 date: 2010-11-18T05:08:00.000Z
-slug: why-printer-is-selling-that-cheap
-description: "Why Printer Is Selling That Cheap?"
-featured_image: null
 authors: Andrew Yeung
-tags: [cheap printer,printer manufacturers]
+slug: why-printer-is-selling-that-cheap
+featured_image: null
+description: Why Printer Is Selling That Cheap?
+tags:
+  - cheap printer
+  - printer manufacturers
 ---
-
 [![](/blog/images/cheap-printer.jpg)](/blog/images/cheap-printer.jpg)
 
 Most manufacturers do not earn profit from printers, but they earn it from cartridges. They successfully cash in on the consumer psychology. They count on the user to play safe and pay top dollar for their trusty brand name ink jet cartridge. Most of the consumer-based industries use this marketing tactic. The original instrument is sold at cost price or some times even lower and the profits are made only in the aftermarket.
@@ -24,4 +25,4 @@ The printer companies also offer supposedly great deals to lure the customers. I
 
 This is the normal marketing plan in many consumer-based industries and it helps the manufacturer to have the last laugh. The printer companies initially sell cheap printers and rip off the customers with their expensive cartridges.
 
-**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hp-compatible-toner-cartridge). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
+**About the Author:** Andrew Yeung is the Marketing Director of ComboInk, a leading online provider of premium [printer ink cartridges](https://www.comboink.com/), including [Canon cartridges](https://www.comboink.com/canon-printer-ink-cartridges) and [HP deskjet cartridges](https://www.comboink.com/hewlett-packard-hp-ink-toner-cartridges). By purchasing a large volume from factory, ComboInk is able to sell [laser toner cartridges](https://www.comboink.com/) at steep discounts, saving small businesses thousands in operating costs each year.
