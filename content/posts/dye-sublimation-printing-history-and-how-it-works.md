@@ -12,7 +12,7 @@ tags:
 ---
 ![Dye Sublimation Printing](/blog/images/archive/2018/06/Sublimation_Examples-300x210.jpg)
 
-Dye sublimation printing requires [heat to transfer dye onto paper](https://www.comboink.com/paper/transfer-paper/transfer-paper-inkjet), card, [fabric](https://www.comboink.com/paperprintable-fabric/printable-fabric-cotton?utm%5Fmedium=social&utm%5Fsource=blog) and other similar materials. Apparel, photos, and even ceramic tiles make use of this method of printing. Dye sublimation printing got its name because it was first believed that the dye went through the solid and gas states without undergoing a liquid stage. When that proved to be incorrect, it was too late to change the name due to its popularity. The term dye-diffusion is the factually correct term.
+Dye sublimation printing requires [heat to transfer dye onto paper](https://www.comboink.com/paper/transfer-paper/transfer-paper-inkjet), card, [fabric](https://www.comboink.com/paper/printable-fabric/printable-fabric-cotton) and other similar materials. Apparel, photos, and even ceramic tiles make use of this method of printing. Dye sublimation printing got its name because it was first believed that the dye went through the solid and gas states without undergoing a liquid stage. When that proved to be incorrect, it was too late to change the name due to its popularity. The term dye-diffusion is the factually correct term.
 
 ## History of Dye Sublimation Printing
 
