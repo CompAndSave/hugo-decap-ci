@@ -1,13 +1,17 @@
 ---
-title: "Easy Ways to Go Green at the Office"
+title: Easy Ways to Go Green at the Office
 date: 2018-02-18T20:00:53.000Z
-slug: sustainable-green-office-tips
-description: "Easy Ways to Go Green at the Office"
-featured_image: /blog/images/archive/2018/02/recyclingarrows.png
 authors: Stephanie Figy
-tags: [eco-friendly printing,Office,recycle ink cartridges,Remanufactured Cartridges,tips]
+slug: sustainable-green-office-tips
+featured_image: /blog/images/archive/2018/02/recyclingarrows.png
+description: Easy Ways to Go Green at the Office
+tags:
+  - eco-friendly printing
+  - Office
+  - recycle ink cartridges
+  - Remanufactured Cartridges
+  - tips
 ---
-
 Through recycling, composting, using energy efficient appliances, and much more, people are more eco-minded than ever in their homes and daily lives. But with one-third of every day spent at work, it is well worth considering how to create a sustainable office. Green office habits help protect the environment and the company's bottom line, which is a win-win situation. Read on to learn how to lower your office footprint and get your employees on board to do the same.
 
 # How You Can Make a Sustainable, Green Office
@@ -18,7 +22,7 @@ Office breakrooms typically offer plastic utensils, cups, paper plates, and othe
 
 ### Eco Printing
 
-Did you know that the average [office worker prints 10,000 sheets of paper a year](https://www.epa.gov/sites/production/files/2013-09/documents/fec%5Fautomatic%5Fduplexing.pdf)? Imagine if all your office computers and printers defaulted to double-sided printing. Those stacks of paper would be cut in half! Printing double-sided also saves 30 to 50 percent of paper costs.
+Did you know that the average [office worker prints 10,000 sheets of paper a year](https://www.epa.gov/sites/default/files/2013-09/documents/fec_automatic_duplexing.pdf)? Imagine if all your office computers and printers defaulted to double-sided printing. Those stacks of paper would be cut in half! Printing double-sided also saves 30 to 50 percent of paper costs.
 
 Your printer ink can be eco-friendly too! Instead of throwing away empty cartridges, which can take 450 to 1,000 years to decompose in a landfill, buy a [printer ink refill kit](https://www.comboink.com/refill-kit). The packages come with refill accessories and detailed instructions to refill the ink yourself. If you are not refilling your ink, you can at least find the appropriate location to [recycle the cartridge](https://www.comboink.com/ink-toner-recycling-guide/) so it does not become one of the 350 million old ink and toner cartridges that contribute 254 million tons of trash in the United States every year. After recycling, consider buying [remanufactured cartridges](https://www.comboink.com/environmentally-friendly-green-ink-and-toner-cartridges), which can cut your ink expenses by 80 percent.
 
@@ -40,4 +44,4 @@ Offering green suggestions is great, but how do you get employees to buy in? Con
 
 By doing the items above, you can lower your office footprint and expenses, while encouraging employees to make greener choices daily. Start with one or two items at a time — even small changes make a big impact. Make sustainability one of your new office initiatives!
 
-_Do you have any green office tips to share? Let us know in the comments section below._
+*Do you have any green office tips to share? Let us know in the comments section below.*
