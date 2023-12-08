@@ -1,22 +1,24 @@
 ---
-title: "Printing Your Business Cards at Home"
+title: Printing Your Business Cards at Home
 date: 2015-01-20T01:43:00.000Z
-slug: printing-your-business-cards-at-home
-description: "Printing Your Business Cards at Home"
-featured_image: null
 authors: Denise Resendez
-tags: [ComboInk,diy business cards,professional photo printing]
+slug: printing-your-business-cards-at-home
+featured_image: null
+description: Printing Your Business Cards at Home
+tags:
+  - ComboInk
+  - diy business cards
+  - professional photo printing
 ---
-
 | [![DIY business cards](/blog/images/10475966555_dc2a7d5afc_b.jpg "Business Card Ideas")](/blog/images/10475966555%5Fdc2a7d5afc%5Fb.jpg) |
 | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Via [BVKGraphicDesign](https://www.flickr.com/photos/khanhvu9000/10475966555/sizes/l)                                                   |
+| Via BVKGraphicDesign                                                                                                                    |
 
 Having a printer at home facilitates so much of what you had to get done professionally earlier: you can print season's greetings at home, you can print your own photos, even print some great looking brochures for your home business. If follows then; that you can also use your printer to print your own business cards as well!
 
 You can print as many as you want, use a typeface, color combination, layout and design that you like… printing your own business cards can be quite a fun DIY project for you.
 
-### Create Your Own Design 
+### Create Your Own Design
 
 | [![diy business cards](/blog/images/13-Sommelier-DIY-Business-Card-d.jpg "How To Print Your Own Business Cards")](/blog/images/13-Sommelier-DIY-Business-Card-d.jpg) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
