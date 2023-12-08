@@ -1,20 +1,23 @@
 ---
 title: "How to Write Work Emails: The Dos and Don'ts"
 date: 2018-03-25T19:00:10.000Z
-slug: how-to-write-work-emails-the-dos-and-donts
-description: "How to Write Work Emails: The Dos and Don'ts"
-featured_image: /blog/images/archive/2018/03/writtingemails.jpg
 authors: Jessica Sillers
-tags: [work,writing tips,emails,business]
+slug: how-to-write-work-emails-the-dos-and-donts
+featured_image: /blog/images/archive/2018/03/writtingemails.jpg
+description: "How to Write Work Emails: The Dos and Don'ts"
+tags:
+  - work
+  - writing tips
+  - emails
+  - business
 ---
-
 It's tough to remember (or for many workers, even to imagine) what office life was like before email. Checking and sending emails may eat up as much as [a third of your typical workday](https://globalnews.ca/news/3395457/this-is-how-much-time-you-spend-on-work-emails-every-day-according-to-a-canadian-survey/). Mastering email etiquette and efficacy is a powerful communication skill so we'll explain how to write work emails properly.
 
 # The Dos and Don'ts of Writing Work Emails
 
 ### Do: Use a Subject Line
 
-How many work emails[do you receive daily](https://www.templafy.com/blog/how-many-emails-are-sent-every-day-top-email-statistics-your-business-needs-to-know/)? If you're an average office employee, it's probably somewhere around 121\. So if you're sending an email to a higher-level decision-maker, yours may be one of several hundred they're skimming.
+How many work emails[do you receive daily](https://www.templafy.com/blog/how-many-emails-are-sent-every-day-top-email-statistics-your-business-needs-to-know/)? If you're an average office employee, it's probably somewhere around 121. So if you're sending an email to a higher-level decision-maker, yours may be one of several hundred they're skimming.
 
 Use a simple, clear subject line, every time. Good subject lines could be:
 
@@ -34,7 +37,7 @@ Less helpful subject lines are:
 
 The immediacy of email can make it feel almost like text. Now that many companies use messenger programs like Slack to keep employees in the loop, it's even easier to assume email gets the same informal treatment. But there's still value in dressing up email in a professional environment. Superiors in particular may not appreciate an email without a salutation from a member of their staff.
 
-Depending on your office, you can use "Dear Mr./Mrs. \[Last Name\]" or "Hello \[First Name\]" to open a new email thread. In some cases, especially if an email thread involves a lot of back and forth, it can start feeling more awkward to keep using a salutation. With a peer colleague, you can probably drop the salutation after a few exchanges. With a supervisor, keep using a salutation, even if they drop it on their end, unless you know this boss's personality very well. And if you start a new email chain, include the salutation again.
+Depending on your office, you can use "Dear Mr./Mrs. \[Last Name]" or "Hello \[First Name]" to open a new email thread. In some cases, especially if an email thread involves a lot of back and forth, it can start feeling more awkward to keep using a salutation. With a peer colleague, you can probably drop the salutation after a few exchanges. With a supervisor, keep using a salutation, even if they drop it on their end, unless you know this boss's personality very well. And if you start a new email chain, include the salutation again.
 
 ### Do: Proofread
 
@@ -58,4 +61,4 @@ We get it—anyone can have a rough day or a petty moment and shoot off an email
 
 What's more, even if you weren't the one who wrote the dirt, if you were the one who shared the email with the wrong audience, you'll probably get some of the flak for the mistake. The answer? For one, try to restrain yourself from putting workplace gripes into writing. And if you receive an email that's part of a long chain, make sure you're familiar with the full contents before passing it along.
 
-_Which of these tips will you use to write better work emails? We'd love to hear if you ever had an email snafu at work so let us know in the comments below!_
+*Which of these tips will you use to write better work emails? We'd love to hear if you ever had an email snafu at work so let us know in the comments below!*
