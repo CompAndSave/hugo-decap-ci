@@ -16,7 +16,7 @@ There are smartphone apps that will convert normal faces into terrifying zombies
 
 ### iTunes apps for Mother's Day greetings
 
-[JustWink ](https://itunes.apple.com/en/app/justwink-greeting-cards/id439880532?mt=8)is a free app that lets you personalize greetings which you can send via text messages, email, Facebook, Twitter and more. Send animated greetings and messages from any of various different categories. 
+JustWink is a free app that lets you personalize greetings which you can send via text messages, email, Facebook, Twitter and more. Send animated greetings and messages from any of various different categories. 
 
 [Ink Cards](https://itunes.apple.com/us/app/ink-cards-photo-greeting-cards/id477296657?mt=8) is an app that will send physical cards for you without you having to visit the store (very useful for technophobe moms who stay away from gadgets). Choose from over 500 customizable designs for all occasions, use your own photos and have personalized greetings mailed for a fee.
 
