@@ -24,7 +24,7 @@ There are smartphone apps that will convert normal faces into terrifying zombies
 
 [Someecards](https://itunes.apple.com/IN/app/id386309196?mt=8) is for the mom with a sense of humor. Send your mom a card featuring that tart, acerbic humor. The free version has limited options though, and you may have to upgrade to the paid version to gain full access.
 
-[Card Shop](https://itunes.apple.com/en/app/card-shop/id362961868?mt=8) is a paid app that even lets you print your cards via AirPrint. You can print two sided cards and multi page cards as well. You can take a print out and personally sign and send your card so your mom won't think it is an impersonal sort of missive. 
+**Card Shop** is a paid app that even lets you print your cards via AirPrint. You can print two sided cards and multi page cards as well. You can take a print out and personally sign and send your card so your mom won't think it is an impersonal sort of missive. 
 
 ### Android apps for Mother's Day greetings
 
@@ -32,13 +32,13 @@ There are smartphone apps that will convert normal faces into terrifying zombies
 
 [123 Greetings](https://play.google.com/store/apps/details?id=com.g123) is the free app for the long established eCard service that lets you send cards for all sorts of occasions including Mother's Day, Women's Day and even Mother in Law day! It lets you synch contacts for easy access to birthdays and anniversaries. Send videos, musical cards or e-postcards to anyone anywhere in the world. 
 
-The [Red Stamp app](https://play.google.com/store/apps/details?id=com.redstamp.android) is also available on Android. It lets you send cards with your own in-app photos, or select from a thousand plus templates. You can have them mailed to your mom or have them shipped to you for a fee. 
+The **Red Stamp app** is also available on Android. It lets you send cards with your own in-app photos, or select from a thousand plus templates. You can have them mailed to your mom or have them shipped to you for a fee. 
 
-[Greeting Cards ](https://play.google.com/store/apps/details?id=greetingcards.mobilechamps)lets you customize greetings for Mother's Day and also has a built in print functionality. Add your own photo and text, play with different styles, share with friends and family. It even lets you add your own signature (a finger doodle) and lets you save your greetings to a local photo album. 
+**Greeting Cards** lets you customize greetings for Mother's Day and also has a built in print functionality. Add your own photo and text, play with different styles, share with friends and family. It even lets you add your own signature (a finger doodle) and lets you save your greetings to a local photo album. 
 
 [Pringo](http://play.google.com/store/apps/details?id=com.hiti.pringo) is a popular photo editing and printing app. It isn't a dedicated greeting card app, though it does have many greeting card templates and can very easily be adapted to your greeting card requirements, including for Mother's Day. Add special effects, frames, borders, text enjoy auto online photo backup. 
 
-If your phone runs on Windows, you could opt for this [Hallmark Greetings ](https://play.google.com/store/apps/details?id=greetingcards.mobilechamps)app – this lets you add your own photos, access the message library and add addresses form your contacts list. It them mails personalized greetings to the recipients you specify. 
+If your phone runs on Windows, you could opt for this Hallmark Greetings app – this lets you add your own photos, access the message library and add addresses form your contacts list. It them mails personalized greetings to the recipients you specify. 
 
 Of course there are a host of websites that will let you create your own cards and print them so you can send them to mom the old fashioned way. We're doing our bit so you can send your mom a personalized card this mother's day. All this May, we're giving you an **$10 OFF any $65 or more discount** on your printer cartridge purchases. So don't forget to use coupon code **FREE15** when you make a purchase any time up to 31st May. 
 
