@@ -1,13 +1,17 @@
 ---
-title: "iPhone and Android Apps for Printing Mother's Day Greeting Cards"
+title: iPhone and Android Apps for Printing Mother's Day Greeting Cards
 date: 2015-05-04T21:34:00.000Z
-slug: iphone-and-android-apps-for-printing-mothers-day-greeting-cards
-description: "iPhone and Android Apps for Printing Mother's Day Greeting Cards"
-featured_image: null
 authors: Denise Resendez
-tags: [DIY,Mother's Day Cards,Mother's Day,Print,Greeting Cards]
+slug: iphone-and-android-apps-for-printing-mothers-day-greeting-cards
+featured_image: null
+description: iPhone and Android Apps for Printing Mother's Day Greeting Cards
+tags:
+  - DIY
+  - Mother's Day Cards
+  - Mother's Day
+  - Print
+  - Greeting Cards
 ---
-
 There are smartphone apps that will convert normal faces into terrifying zombies that growl and snap, there is a bowel movement tracking app, there is the annoy-a-teen app, there is a game for cats, a fake-an-excuse-hang-up-now app and there is even a pimple popping app! So there is a plethora of seemingly useless mobile apps out there. Fortunately though, there are some very useful and practical apps out there as well, such as the apps that help you create greeting cards for Mother's Day which falls on the second Sunday of every May (on May 10th this year). Send physical cards, animated messages, musical ecards and more:
 
 ### iTunes apps for Mother's Day greetings
@@ -24,7 +28,7 @@ There are smartphone apps that will convert normal faces into terrifying zombies
 
 ### Android apps for Mother's Day greetings
 
-[Mother's Day Cards](https://play.google.com/store/apps/details?id=mother.day.reh) is an app especially for Mother's Day cards. Choose a template, personalize and send the card via Facebook, Whatsapp and more. 
+**Mother's Day Cards** is an app especially for Mother's Day cards. Choose a template, personalize and send the card via Facebook, Whatsapp and more. 
 
 [123 Greetings](https://play.google.com/store/apps/details?id=com.g123) is the free app for the long established eCard service that lets you send cards for all sorts of occasions including Mother's Day, Women's Day and even Mother in Law day! It lets you synch contacts for easy access to birthdays and anniversaries. Send videos, musical cards or e-postcards to anyone anywhere in the world. 
 
