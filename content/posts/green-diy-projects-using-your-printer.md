@@ -1,16 +1,17 @@
 ---
-title: "Green DIY Projects Using Your Printer"
+title: Green DIY Projects Using Your Printer
 date: 2015-01-27T01:46:00.000Z
-slug: green-diy-projects-using-your-printer
-description: "Green DIY Projects Using Your Printer"
-featured_image: null
 authors: Denise Resendez
-tags: [recycle printers,diy printer projects]
+slug: green-diy-projects-using-your-printer
+featured_image: null
+description: Green DIY Projects Using Your Printer
+tags:
+  - recycle printers
+  - diy printer projects
 ---
-
 | [![diy printing labels](/blog/images/green-diy-projects.png "Green DIY Projects Using Your Printer")](/blog/images/green-diy-projects.png) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Image Via [CreativeBug](http://www.creativebug.com/blog/diy-canning-jar-labels/)                                                           |
+| Image Via CreativeBug                                                                                                                      |
 
 We enjoy sharing various DIY printer projects and tips with and also other information that you may find interesting or useful via this blog of ours. Our environmentally conscious readers always like knowing about ways to reduce their respective carbon footprints, enjoy knowing about recycle printers, green DIY print projects and so on. So in this post we explore some interesting earth friendly ideas for projects you can accomplish at home with your printer.
 
