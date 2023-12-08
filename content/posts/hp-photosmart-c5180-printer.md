@@ -1,11 +1,14 @@
 ---
-title: "The HP PhotoSmart C5180 Printer"
+title: The HP PhotoSmart C5180 Printer
 date: 2012-04-19T07:09:00.000Z
-slug: hp-photosmart-c5180-printer
-description: "The HP PhotoSmart C5180 Printer"
-featured_image: null
 authors: Andrew Yeung
-tags: [PhotoSmart Ink,HP,reviews]
+slug: hp-photosmart-c5180-printer
+featured_image: null
+description: The HP PhotoSmart C5180 Printer
+tags:
+  - PhotoSmart Ink
+  - HP
+  - reviews
 ---
 
 The HP PhotoSmart C5180 printer was released from HP as a replacement for the PhotoSmart C4180\. It is a neat and compact printer which uses the very latest in printing technology to carry out al tasks you require from it. It has taken its place in the offices and homes of many individuals since its release and has been commented on as being a durable and reliable printer. It can always be relied upon, in the times in which you need to use it.
@@ -18,4 +21,4 @@ Not only can this printer provide you with high quality images, but it can print
 
 Just as important as the internal print head and other internal parts, is the ink in this is used with the printer. HP offers a fantastic quality ink to use with this printer. However this is expensive and many recommend that you look to use compatible ink cartridges as an alternative to these. Compatible ink cartridges are simple to install and will also give you the exact same quality as the genuine more expensive HP cartridges. The PhotoSmart C5180 printer requires the use of sic ink cartridges, this could become expensive for you if you purchase only genuine ink cartridges.
 
-[Ink for an PhotoSmart C5180](https://www.comboink.com/hp-photosmart-c5180-printer-ink-cartridges) is available from many online retailers, when looking to buy replacement ink for your printer, ensure you purchase the correct model for your printer. There are many similar ink cartridges; however it will have to be a certain type to become compatible with your printer.
+[Ink for an PhotoSmart C5180](https://www.comboink.com/hp-photosmart-c5180-printer-ink-cartridges) is available1 from many online retailers, when looking to buy replacement ink for your printer, ensure you purchase the correct model for your printer. There are many similar ink cartridges; however it will have to be a certain type to become compatible with your printer.
