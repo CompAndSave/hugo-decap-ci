@@ -1,14 +1,17 @@
 ---
-title: "Make Your Business More Energy Efficient This Winter"
+title: Make Your Business More Energy Efficient This Winter
 date: 2017-01-10T21:30:00.000Z
-slug: make-your-business-energy-efficient
-description: "Make Your Business More Energy Efficient This Winter"
-featured_image: /blog/images/archive/2017/01/businessinwinter-1.jpg
 authors: Katy Smith
-tags: [business,DIY,save money,saving money tips]
+slug: make-your-business-energy-efficient
+featured_image: /blog/images/archive/2017/01/businessinwinter-1.jpg
+description: Make Your Business More Energy Efficient This Winter
+tags:
+  - business
+  - DIY
+  - save money
+  - saving money tips
 ---
-
-[![Make your business energy efficient this winter](/blog/images/archive/2017/01/businessinwinter-1-300x224.jpg "City in winter")](/blog/images/archive/2017/01/businessinwinter-1.jpg)
+[![Make your business energy efficient this winter](/blog/images/archive/2017/01/businessinwinter-1-300x224.jpg "City in winter")](/blog/images/archive/2017/01/businessinwinter-1-300x224.jpg)
 
 If you're a small business owner, you can save money by doing a lot of things yourself, including winterizing your workplace. You want to make sure your building is ready to handle wintry weather. Follow these steps to save your business energy and money this winter.
 
@@ -38,10 +41,10 @@ Whether you're a business owner or home owner, everyone should weatherstrip thei
 
 ### Inspect Your Gutters and Roof
 
-Live in a location likely to get snow? Make sure your roof is cleared and your gutters are free of debris. Gutters and roofs could sag due to snow or ice accumulation. [Ice dams](https://www.amfam.com/resources/articles/at-home/whats-up-with-ice-dams) on clogged gutters can even lead to water leaking in your building. You also want the gutter downspouts to point away both from your building so water doesn't build up and from sidewalks so customers and employees don't slip.
+Live in a location likely to get snow? Make sure your roof is cleared and your gutters are free of debris. Gutters and roofs could sag due to snow or ice accumulation. Ice dams on clogged gutters can even lead to water leaking in your building. You also want the gutter downspouts to point away both from your building so water doesn't build up and from sidewalks so customers and employees don't slip.
 
 ### Get a Generator
 
 In case power goes out in a snowstorm, consider purchasing a generator so that your business operations stay on track. Depending on the size of your building, you could stick with a personal generator or upgrade to a commercial one starting at $6000.
 
-_How do you make sure your business is ready for winter? Let us know below or on Facebook and Twitter._
+*How do you make sure your business is ready for winter? Let us know below or on Facebook and Twitter.*
