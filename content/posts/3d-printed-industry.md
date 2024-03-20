@@ -1,18 +1,24 @@
 ---
-title: "3D Printed Car Parts, Human Parts, Oh My!"
+title: 3D Printed Car Parts, Human Parts, Oh My!
 date: 2016-07-25T20:30:00.000Z
-slug: 3d-printed-industry
-description: "3D Printed Car Parts, Human Parts, Oh My!"
-featured_image: /blog/images/archive/2016/07/bmw3D-1.jpg
 authors: Katy Smith
-tags: [3D printers,printer manufacturers,Technology,3D Printed Prosthetics,3D Technology,3D Printing]
+slug: 3d-printed-industry
+featured_image: /blog/images/archive/2016/07/bmw3D-1.jpg
+description: 3D Printed Car Parts, Human Parts, Oh My!
+tags:
+  - 3D printers
+  - printer manufacturers
+  - Technology
+  - 3D Printed Prosthetics
+  - 3D Technology
+  - 3D Printing
 ---
-
 ## The 3D Industry Shows No Signs of Slowing
 
-[![BMW M4 with 3D Design Parts](/blog/images/bmw3D.jpg "MM-Performance BMW M4 with 3D Design Parts")](http://www.motorward.com/2014/12/mm-performance-bmw-m4-with-3d-design-parts/)Is the 3D printing industry slumping? Not so, according to the [_Wohlers Report 2016_](http://wohlersassociates.com/2016report.htm). Major industrial players, such as Alcoa, are still substantially investing in 3D printing, also known as additive manufacturing. For each of the past two years, the [industry has grown by $1 billion](http://www.forbes.com/sites/tjmccue/2016/04/25/wohlers-report-2016-3d-printer-industry-surpassed-5-1-billion/). And it doesn't look like that number will decline much, as automobile manufacturers boost their use of 3D printing methods.
+[![BMW M4 with 3D Design Parts](/blog/images/bmw3D.jpg "MM-Performance BMW M4 with 3D Design Parts")](http://www.motorward.com/2014/12/mm-performance-bmw-m4-with-3d-design-parts/)Is the 3D printing industry slumping? Not so, according to the *[Wohlers Report 2016](http://wohlersassociates.com/2016report.htm)*. Major industrial players, such as Alcoa, are still substantially investing in 3D printing, also known as additive manufacturing. For each of the past two years, the [industry has grown by $1 billion](http://www.forbes.com/sites/tjmccue/2016/04/25/wohlers-report-2016-3d-printer-industry-surpassed-5-1-billion/). And it doesn't look like that number will decline much, as automobile manufacturers boost their use of 3D printing methods.
 
-### Your Car May Have a 3D Printed Part  
+### Your Car May Have a 3D Printed Part
+
 Now or in the Future
 
 The shipment of vehicle parts around the world could become archaic in the near future as additive manufacturing is taking hold in the automobile industry.
@@ -27,7 +33,7 @@ Other sectors, particularly the aerospace and [medical industries](http://blog.c
 
 Catherine Wood, the founder, CEO, and CIO of ARK Invest, explains, "ARK's research shows that the 3D printing industry has one of the highest growth projections in the economy. As the technology evolves and costs continue to decline, the 3D printing industry has the potential to steal market share from traditional manufacturing and transform every sector of the economy."
 
-To that point, Alcoa, Inc. recently opened a [3D printing metal powder production facility](https://agmetalminer.com/2016/07/18/alcoa-value-added-business-opens-3d-printing-center-ahead-of-spinoff/) that will produce proprietary titanium, nickel, and aluminum powders optimized for 3D printed aerospace parts. Alcoa is also testing their new Ampliforge process, which combines additive and traditional manufacturing. This hybrid technique strengthens the properties of 3D printed parts and reduces material input.
+To that point, Alcoa, Inc. recently opened a 3D printing metal powder production facility that will produce proprietary titanium, nickel, and aluminum powders optimized for 3D printed aerospace parts. Alcoa is also testing their new Ampliforge process, which combines additive and traditional manufacturing. This hybrid technique strengthens the properties of 3D printed parts and reduces material input.
 
 Also looking to revolutionize the industrial supply chain, the software company SAP SE and APWorks, a subsidiary of Airbus Defense and Space GmbH, are working together on the adoption and standardization of [industrial 3D printing for the aerospace and defense industry](https://www.zacks.com/stock/news/223307/sapapworks-team-up-to-accelerate-industrial-3d-printing). Their collaboration aims to reduce supply chain issues as well as manufacturing and logistical costs in safety-critical situations.
 
