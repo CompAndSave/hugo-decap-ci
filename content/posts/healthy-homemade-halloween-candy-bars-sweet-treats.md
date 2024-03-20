@@ -1,13 +1,16 @@
 ---
-title: "Healthy Homemade Halloween Candy Bars & Sweet Treats"
+title: Healthy Homemade Halloween Candy Bars & Sweet Treats
 date: 2014-10-21T02:50:00.000Z
-slug: healthy-homemade-halloween-candy-bars-sweet-treats
-description: "Healthy Homemade Halloween Candy Bars & Sweet Treats"
-featured_image: null
 authors: Andrew Yeung
-tags: [DIY,ComboInk,Holiday,Halloween]
+slug: healthy-homemade-halloween-candy-bars-sweet-treats
+featured_image: null
+description: Healthy Homemade Halloween Candy Bars & Sweet Treats
+tags:
+  - DIY
+  - ComboInk
+  - Holiday
+  - Halloween
 ---
-
 Health experts and nutritionists typically caution people against the dangers of over-indulging that sweet tooth with store about chocolates, candies and sweets. Come Halloween, a time of year synonymous with sweet treats, the temptation (and the opportunity) to indulge is very high. 
 
 So how can you, your family, and guests avoid these snacks that are so high in calories, sugar, fat, preservatives and artificial additives while keeping up with the Halloween candy tradition? Here are some ideas for healthy homemade treats to help you celebrate Halloween a wee bit differently this year:
@@ -21,7 +24,7 @@ These chocolate covered peanut bars taste just as good as the store brands but a
 * ½ cup peanut butter - use a natural brand without salt, sugar or preservatives
 * 1 cup almond milk
 * 1 cup oat flour
-* 10 tbsp [rice protein powder](http://astore.amazon.com/chockohlawtay-20/detail/B002IKKRYO)
+* 10 tbsp rice protein powder
 * 1 cup sugar or 1 tsp of stevia extract
 * ½ cup caramel sauce
 * Peanuts (as per taste)
@@ -51,4 +54,4 @@ Put the butter (softened) and the sugar (powdered) in a bowl, and blend it well 
 
  Pour the mixture into a lined pan and top it with the chopped walnuts (a very healthy addition, but you may want to avoid this because many kids don't like nuts or may be allergic to it). Bake at sponge cake temperature for 30 minutes, or until you are able to insert a knife into it and the tip of the knife comes out clean. Let it cool, cut it into squares can pack it into cling film – ready to be served for trick & treating!
 
-We hope you have a fun and healthy Halloween this year, and that you enjoy making and indulging in these tasty treats. To keep track of future posts and great deals on [**ink & toner**](https://www.comboink.com/), **[subscribe to our newsletter](https://www.comboink.com/coupon)** or like us on **[Facebook](https://www.facebook.com/comboink/)**. .
+We hope you have a fun and healthy Halloween this year, and that you enjoy making and indulging in these tasty treats. To keep track of future posts and great deals on **[ink & toner](https://www.comboink.com/)**, **[subscribe to our newsletter](https://www.comboink.com/coupon)** or like us on **[Facebook](https://www.facebook.com/comboink/)**. .
