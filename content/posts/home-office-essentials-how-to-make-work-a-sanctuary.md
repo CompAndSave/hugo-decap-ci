@@ -1,13 +1,18 @@
 ---
 title: "Home Office Essentials: How to Make Work a Sanctuary"
 date: 2018-04-22T19:00:25.000Z
-slug: home-office-essentials-how-to-make-work-a-sanctuary
-description: "Home Office Essentials: How to Make Work a Sanctuary"
-featured_image: /blog/images/archive/2018/04/homeprinter.jpg
 authors: Stephanie Figy
-tags: [Home Office,tips,work,Home Printer,organization,remote working]
+slug: home-office-essentials-how-to-make-work-a-sanctuary
+featured_image: /blog/images/archive/2018/04/homeprinter.jpg
+description: "Home Office Essentials: How to Make Work a Sanctuary"
+tags:
+  - Home Office
+  - tips
+  - work
+  - Home Printer
+  - organization
+  - remote working
 ---
-
 Whether you are a full-time freelancer pumping out [work emails](http://blog.comboink.local/how-to-write-work-emails-the-dos-and-donts/) 9-5, hustling on the side, or pursuing creative passions, the home office serves as a sanctuary. A place where you don't have to consider the dishes or the laundry; you aren't tempted to take a nap or turn on Netflix… at least that's the goal. If you are planning to carve out a space that's all your own or simply spruce up your existing space, gather inspiration from the following home office essentials.
 
 # Home Office Essentials Checklist
@@ -32,7 +37,7 @@ When you walk through a place of business, you see personal flair on each of the
 
 ### Natural Light
 
-If at all possible, choose a workplace with a view. [Exposure to natural light](https://onlinemba.unc.edu/blog/how-lighting-affects-productivity/) can increase overall health, as well as boost alertness and productivity. Views to outside and nature are also known to increase focus. Use a room that gets ample natural light as your home office.
+If at all possible, choose a workplace with a view. [Exposure to natural light](https://onlinemba.unc.edu/news/how-lighting-affects-productivity/) can increase overall health, as well as boost alertness and productivity. Views to outside and nature are also known to increase focus. Use a room that gets ample natural light as your home office.
 
 **Pro tip:** Home offices use a lot of energy. By having yours in a room with natural light, you can often go without turning the light switch on, which results in energy and money savings. And when the weather is nice, you can open the window for some relaxing fresh air.
 
@@ -44,4 +49,4 @@ Offices clutter quickly with books, papers, reports, etc., and disarray can crea
 
 Hopefully by embracing the tips above, you create a space with order. Even when you love what you do, work can be chaotic at times. By cultivating a calm and clean environment, you start your workday energized and in a clear headspace. Take some time to reorganize the space at the end of every day so you can continue to love "going" to work.
 
-_What do you consider to be home office essentials? Let us know in the comments section below._
+*What do you consider to be home office essentials? Let us know in the comments section below.*
