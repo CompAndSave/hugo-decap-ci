@@ -12,7 +12,7 @@ tags:
 ---
 Imagine you are in the middle of printing out your final proposal that is due to your boss by noon today. It is 11:48 A.M. and you are almost to the finish line. Then the unthinkable happens: your hard work starts to fade and you are running out of printer ink!
 
-[![](/blog/images/archive/2016/08/Printer-ink-problems-590x350-1-300x178.jpg)](/blog/images/archive/2016/08/Printer-ink-problems-590x350-1.jpg)Nothing infuriates someone more in this technology-driven world than the lack of printer ink when you need it the most. Not only does the[high price of printer ink](http://www.consumerreports.org/cro/news/2014/08/pricey-printer-ink-has-consumers-seeing-red/index.htm)drive people to the edge, but not having backups for when the worse comes to worst is close to the top of the list of annoyances.
+[![](/blog/images/archive/2016/08/Printer-ink-problems-590x350-1-300x178.jpg)](/blog/images/archive/2016/08/Printer-ink-problems-590x350-1.jpg)Nothing infuriates someone more in this technology-driven world than the lack of printer ink when you need it the most. Not only does the[high price of printer ink](https://www.consumerreports.org/cro/news/2014/08/pricey-printer-ink-has-consumers-seeing-red/index.htm)drive people to the edge, but not having backups for when the worse comes to worst is close to the top of the list of annoyances.
 
 There are ways to save on ink, and it begins with what you have purchased. Let's pretend that it is too late and move on to what we can do to make your ink cartridges last a little longer.
 
