@@ -28,12 +28,12 @@ Small wonder then, that OEMs are either going to court! As well as trying out in
 
 The Impression Products v. Lexmark suit is a case in point. Here Lexmark has sued 40 to 50 companies as well as customers in a toner cartridge remanufacturing dispute. The outcome of this litigation, which pivots on the First Sale Doctrine, is likely to have far-reaching implications for the printer cartridge market.
 
-OEMs are also trying to stay competitive by developing new products such as the newly announced [EcoTank printers announced by Epson](http://www.techtimes.com/articles/17075/20141003/epson-rolls-out-ecotank-printers-goodbye-ink-cartridges-hello-ink-tanks.htm). Assuming that one household printer prints about 200 pages per month, the ‘ink tank' (as opposed to traditional cartridges) would last for about 2 years. In fact the company also offers a 1 year guarantee along with an assurance of 30,000 printed pages.  
+OEMs are also trying to stay competitive by developing new products such as the newly announced [EcoTank printers announced by Epson](http://www.techtimes.com/articles/17075/20141003/epson-rolls-out-ecotank-printers-goodbye-ink-cartridges-hello-ink-tanks.htm). Assuming that one household printer prints about 200 pages per month, the ‘ink tank' (as opposed to traditional cartridges) would last for about 2 years. In fact the company also offers a 1 year guarantee along with an assurance of 30,000 printed pages.
 One key change we see here is that printers are priced high (about $400). The company looks to make its profit from the printer rather than repeated cartridge replacements. This is a significant departure from the normal way OEMs make their profit.
 
 #### The Seemingly Endless Possibilities of 3D Printing
 
-The future of printing is quickly moving towards [3D printing](http://blog.comboink.local/tag/3d-printing/)! Imagine creating personalized objects, buildings, food and perhaps human tissue with the help of these printers.
+The future of printing is quickly moving towards [3D printing](https://www.comboink.com/blog/tag/3d-printing/)! Imagine creating personalized objects, buildings, food and perhaps human tissue with the help of these printers.
 
 These 3D printers use various plastics and other items to create brand new objects layer by layer. Makers and inventors, designers and medical professionals alike are constantly finding new ways to use these printers for good. Often, these new inventions cost a fraction of the cost of traditional manufacturing processes.
 

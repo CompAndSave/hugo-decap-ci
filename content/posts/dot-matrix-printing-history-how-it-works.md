@@ -30,7 +30,7 @@ Surpassing typewriters, these printers are capable of intricate symbols and are 
 
 Though dot matrix printers follow a similar formula when building every model, they vary in their purpose. Different needs such as speed, quality, and quantity are met with different model variations.
 
-If the person has to work with hundreds of documents every day, a model that handles continuous paper feeding would be ideal. Most of these printers can handle printing large quantities throughout the day with little to no paper jams. However, it should be noted that not all models print in high quality or high resolution.Here are some tips on [how to troubleshoot common dot-matrix printer problems](http://blog.comboink.local/easy-troubleshooting-for-common-dot-matrix-printer-problems/).
+If the person has to work with hundreds of documents every day, a model that handles continuous paper feeding would be ideal. Most of these printers can handle printing large quantities throughout the day with little to no paper jams. However, it should be noted that not all models print in high quality or high resolution.Here are some tips on [how to troubleshoot common dot-matrix printer problems](https://www.comboink.com/blog/easy-troubleshooting-for-common-dot-matrix-printer-problems/).
 
 ## Popular Dot Matrix Printers
 
@@ -40,4 +40,4 @@ The bygone era of dot matrix printers had its stars. At the peak of popularity, 
 
 Of course, there are more budget-friendly models such as the Proprinter from IBM, the C. Itoh ProWiter Jr., and the Panasonic KX-P1091.
 
-There are still [a lot of advantages](http://blog.comboink.local/advantages-and-disadvantages-of-dot/) presented by the once popular impact printer model. Even though it's now viewed as something of the past, Many businesses still use dot matrix printers for their day-to-day operations.
+There are still [a lot of advantages](https://www.comboink.com/blog/advantages-and-disadvantages-of-dot/) presented by the once popular impact printer model. Even though it's now viewed as something of the past, Many businesses still use dot matrix printers for their day-to-day operations.

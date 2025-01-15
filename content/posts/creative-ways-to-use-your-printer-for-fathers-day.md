@@ -30,8 +30,6 @@ Your dad probably has his favorite food, or drink; hobby or sport based on which
 
 ### Printable gifts for Father's Day
 
-### 
-
 * A photo collage of all the special photos of you and your father. It could be a kind of timeline from the time when he was dandling you on his knee to all your special moments together, to the present time.
 * A then and now photo frame or poster – you and your dad then; when you were just a little baby and you and your dad today. A lovely contrast picture full of nostalgia and happy memories that is sure to moisten a few eyes!
 * A DIY t-shirt featuring a clever father quote or simply one that says "Superman DAD!"
@@ -50,4 +48,4 @@ Now that you got the gift part sorted, you can add some personal touches such as
 * Home printed gift tags specially for father's day: something like "Dad you're the bomb!" with a happy stick of dynamite
 * Gift tags or cake toppers in the shape of a bow tie or a regular tie with a Happy Father's day caption or something cure such as "Tie-riffic Dad!"
 
-You will find some more ideas for gift wraps and greetings for Father's Day in our post[ Eco Friendly Gift Wrap and Greetings](http://blog.comboink.local/green-diy-projects-using-your-printer/). If you have more Father's Day gift or printable ideas, do share these with us too!
+You will find some more ideas for gift wraps and greetings for Father's Day in our post[ Eco Friendly Gift Wrap and Greetings](https://www.comboink.com/blog/green-diy-projects-using-your-printer/). If you have more Father's Day gift or printable ideas, do share these with us too!

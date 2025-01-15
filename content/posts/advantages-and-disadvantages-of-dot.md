@@ -12,11 +12,11 @@ tags: [dot matrix printer,printer ribbons]
 
 A printer is a hardware device that is connected to computer to obtain output. Nowadays it can also be connected to a digital camera to take print outs of pictures directly. The output here is called the hard copy output.
 
-Apart from printers, there are other output devices also like monitor, plotter, speakers, headphones, projectors, and so on. Printers are generally classified into two categories – impact and non-impact. [Impact printers](http://blog.comboink.local/history-of-computer-printing/) print by establishing a direct physical contact with the paper, but non-impact printer's work otherwise.
+Apart from printers, there are other output devices also like monitor, plotter, speakers, headphones, projectors, and so on. Printers are generally classified into two categories – impact and non-impact. [Impact printers](https://www.comboink.com/blog/history-of-computer-printing/) print by establishing a direct physical contact with the paper, but non-impact printer's work otherwise.
 
 [![Okidata Dot Matrix](/blog/images/3122515976_116811493d_m.jpg)](https://www.comboink.com/v/mp/save10/special%5Fink%5Fdeal.asp)
 
-A [**Dot Matrix Printer**](http://blog.comboink.local/dot-matrix-printing-history-how-it-works/) is the oldest type of printer and one of the good examples of computer printer that prints by direct impact of an ink-soaked cloth ribbon against the paper. Much like the print mechanism of a typewriter, the printer head moves in an up and down motion or runs back and forth on the paper. These are called impact printers because printing involves the use of mechanical pressure where the pins against the ink ribbon strike on the paper.
+A [**Dot Matrix Printer**](https://www.comboink.com/blog/dot-matrix-printing-history-how-it-works/) is the oldest type of printer and one of the good examples of computer printer that prints by direct impact of an ink-soaked cloth ribbon against the paper. Much like the print mechanism of a typewriter, the printer head moves in an up and down motion or runs back and forth on the paper. These are called impact printers because printing involves the use of mechanical pressure where the pins against the ink ribbon strike on the paper.
 
 The prints can be produced in varied fonts and arbitrary graphics in the form of dots. These dots are produced by tiny metal pins or wires driven back and forth or up and down by the power of a tiny electromagnet or solenoid. The printer head continuously moves and prints only one vertical text line at a time.
 
@@ -40,7 +40,7 @@ The prints can be produced in varied fonts and arbitrary graphics in the form of
 
 The pros and cons are fairly equal in number. It only depends on users' requirements. Dot Matrix is the best when cost is a consideration and print quality can be compromised upon. In print outs that require high resolution, it can be disastrous. Nowadays, dot matrix printers are found in devices such as ATM's, cash registers, and POS terminals in shopping outlets.
 
-Given the popularity of buying newer printer models and the novelty 3D printing, there's not much outside help for dot matrix printer troubleshooting. After a reader left us a question on where the best place to take a Dot Matrix printer for repair, we wrote an [article on how fix common Dot Matrix issues ](http://blog.comboink.local/easy-troubleshooting-for-common-dot-matrix-printer-problems/)at home.
+Given the popularity of buying newer printer models and the novelty 3D printing, there's not much outside help for dot matrix printer troubleshooting. After a reader left us a question on where the best place to take a Dot Matrix printer for repair, we wrote an [article on how fix common Dot Matrix issues ](https://www.comboink.com/blog/easy-troubleshooting-for-common-dot-matrix-printer-problems/)at home.
 
 Speaking of printing, in need of replacement ink or toner? We have a special **10% off discount** for any printer cartridge order on our site. You can start finding your cartridge or printer model by click the button below:
 

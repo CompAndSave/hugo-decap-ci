@@ -14,7 +14,7 @@ tags: [3D Printing,Innovative]
 
 Where a common printer will print text and images on surfaces such as paper, plastic sheets and so on, a 3D printer actually creates three dimensional objects. The output of a regular printer is something you can look at, read or file away; 3D printing creates objects that you can hold and actually use.
 
-#### How Does a 3D Printer Work?
+## How Does a 3D Printer Work?
 
 You probably noticed how in a regular printer, the print nozzles extrude ink on to sheets of paper to create printed documents or images as per the print commands you've given. Now in a 3D printer, you would use photogrammetry software, a 3D scanner or a computer aided design package to create 3D printable models to collect information and analyze the shape and appearance of an object.
 
@@ -24,19 +24,15 @@ This digital information is conveyed to the printer and the print command is giv
 
 So you can see the object literally taking shape right in front of you in minutes or hours; depending upon what is being created. Theoretically this printing technology lets us print virtually any geometric feature or shape. The understanding is, that perhaps in the future, you could ‘print' out a plate and then ‘print' out the breakfast you want to eat off it.
 
-#### What 3D printers Can Do Right Now
+## What 3D printers Can Do Right Now
 
 | [![](/blog/images/china-winsun-3d-printed-villa-six-floor-building-3d-printing-3ders-22.JPG)](/blog/images/china-winsun-3d-printed-villa-six-floor-building-3d-printing-3ders-22.JPG) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3D Printed Apartment Building (Image via [3ders](http://www.3ders.org/articles/20150118-winsun-builds-world-first-3d-printed-villa-and-tallest-3d-printed-building-in-china.html))    |
 
-3D printing is already being used in design, automotive, space, medical and educational sectors. We've seen 3d printed prosthetics, toys, clothes, chocolate, educational aids and so on. We've also heard of an entire 3D printed car and a [$5,000 3D printed house](http://blog.comboink.local/build-your-own-house-for-5000-using-3d/)! The number of [3D printing Kickstarter projects](http://blog.comboink.local/innovative-printing-kickstarter-projects-to-watch-out-for/) in the pipeline points to the undoubtedly bright future of the technology. We are also being told that it is possible to print a working [firearm, acoustic guitar, medical models](http://www.hongkiat.com/blog/3d-printings/) and a whole lot besides. Basically, this genie cannot and will not go back in the bottle.
+3D printing is already being used in design, automotive, space, medical and educational sectors. We've seen 3d printed prosthetics, toys, clothes, chocolate, educational aids and so on. We've also heard of an entire 3D printed car and a [$5,000 3D printed house](https://www.comboink.com/blog/build-your-own-house-for-5000-using-3d/)! The number of [3D printing Kickstarter projects](https://www.comboink.com/blog/innovative-printing-kickstarter-projects-to-watch-out-for/) in the pipeline points to the undoubtedly bright future of the technology. We are also being told that it is possible to print a working [firearm, acoustic guitar, medical models](http://www.hongkiat.com/blog/3d-printings/) and a whole lot besides. Basically, this genie cannot and will not go back in the bottle.
 
-#### What Next – 3D Printed Drugs & Explosives?
-
-| [![](/blog/images/antkjyslwkwsg4aljkw4.gif)](/blog/images/antkjyslwkwsg4aljkw4.gif)                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Currently, 3D printing too costly for these objects (Image via [Gizmodo](http://gizmodo.com/3d-printed-guns-are-only-getting-better-and-scarier-1677747439)) |
+## What Next – 3D Printed Drugs & Explosives?
 
 It sounds like the natural progression of things, doesn't it? What I mean by that, is that if you have such an amazing invention you can print anything you like, including illicit materials such as banned substances, counterfeit objects guns and explosive devices. Will people be able to print objects with hidden voids for potential smuggling and transportation of such illicit items? Will people be able to simply printout a designer dress or handbag at home instead of buying it; will these printers destroy the world economy? And to take things to their natural conclusion, will we have a 3D printer to print a 3d printer?
 

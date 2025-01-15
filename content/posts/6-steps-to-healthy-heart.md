@@ -16,7 +16,7 @@ First off, it's important that you recognize the signs of a heart attack. Someti
 
 #### Stress Less
 
-High levels of stress are not healthy for your heart. In fact, those that are happier and focus on good things in their life have less of a chance of getting heart disease. To [decrease stress levels](http://blog.comboink.local/easy-ways-to-prevent-stress-at-work-lower-stroke-risk/), make sure to check your blood pressure regularly, prioritize your most important tasks daily, don't sweat the small stuff and schedule time on a weekly basis to do things YOU enjoy.
+High levels of stress are not healthy for your heart. In fact, those that are happier and focus on good things in their life have less of a chance of getting heart disease. To [decrease stress levels](https://www.comboink.com/blog/easy-ways-to-prevent-stress-at-work-lower-stroke-risk/), make sure to check your blood pressure regularly, prioritize your most important tasks daily, don't sweat the small stuff and schedule time on a weekly basis to do things YOU enjoy.
 
 #### Sleep Better
 
@@ -34,6 +34,6 @@ Portion control is an easy, effective way to lower your risk of heart disease. R
 
 Exercise is key to a healthy lifestyle. And it doesn't have to be exhaustive! Doing at least 2.5 hours a week will significantly improve your overall well-being and reduce your risk of heart disease…that's only 30 minutes each weekday, you have time for that!
 
-This is just the start of you heart health journey! For more on information on American Heart Month and what you can do to stay heart healthy, [check out our Pinterest page](https://www.pinterest.com/ComboInk/american-heart-month/)where you'll find a variety of tips, recipes, facts and much more!  
-  
+This is just the start of you heart health journey! For more on information on American Heart Month and what you can do to stay heart healthy, [check out our Pinterest page](https://www.pinterest.com/ComboInk/american-heart-month/)where you'll find a variety of tips, recipes, facts and much more!
+
 _If you liked this post, be sure to tell us about it. To keep track of future interesting posts like this one, [subscribe to our newsletter](https://www.comboink.com/coupon). To find the best ink and toner cartridge deals, like us on [Facebook](https://www.facebook.com/comboink/) or check out the [best printer cartridge deals](https://www.comboink.com/coupon) currently available._

@@ -8,3 +8,4 @@ static/admin/local-config.yml
 /resources/_gen/*
 .vscode/*
 *.sh
+/resources/

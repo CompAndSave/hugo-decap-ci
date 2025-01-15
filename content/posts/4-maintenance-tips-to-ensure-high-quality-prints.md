@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: [ComboInk.com,Remanufactured Cartridges,Technology,inkjet cartridges installation,Printer Maintenance,inkjet printer]
 ---
 
-If there's one thing more frustrating than running out of ink at the most inconvenient time, it's having the ink and STILL not being able to print. There are a few reasons as to why your printer may be producing sub par pages. When you see the paper is skipping, banding or producing no print at all, it is likely that your [ink cartridge](http://blog.comboink.local/where-printers-printer-cartridges-are-headed-in-the-next-decade/) is clogged, blocked or dried up. Although situations like this can cause some project delays, there are some relatively easy fixes. Here are a few tips for getting your printer to start producing high-quality prints again:
+If there's one thing more frustrating than running out of ink at the most inconvenient time, it's having the ink and STILL not being able to print. There are a few reasons as to why your printer may be producing sub par pages. When you see the paper is skipping, banding or producing no print at all, it is likely that your [ink cartridge](https://www.comboink.com/blog/where-printers-printer-cartridges-are-headed-in-the-next-decade/) is clogged, blocked or dried up. Although situations like this can cause some project delays, there are some relatively easy fixes. Here are a few tips for getting your printer to start producing high-quality prints again:
 
 ### 1\. Try running a self-cleaning program on your printer:
 
@@ -28,10 +28,9 @@ _Note: Specific functions may vary among printer models, for further instruction
 | ------------------------------------------------------------- |
 | Image source: support.hp.com                                  |
 
-If you have ran the self-cleaning program multiple times and the print quality is still unsatisfactory, you may have a clogged or blocked [printhead](http://blog.comboink.local/clean-your-printers-printhead-in-seconds/) (the part that actually applies the ink onto the paper). Printer models vary and some ink cartridges and printheads are separate, whereas some come as a single unit.
+If you have ran the self-cleaning program multiple times and the print quality is still unsatisfactory, you may have a clogged or blocked [printhead](https://www.comboink.com/blog/clean-your-printers-printhead-in-seconds/) (the part that actually applies the ink onto the paper). Printer models vary and some ink cartridges and printheads are separate, whereas some come as a single unit.
 
-###   
-2\. When your printhead is in the printer:
+### 2\. When your printhead is in the printer:
 
 1\. Remove the cartridge from the printer.
 
@@ -45,8 +44,8 @@ If you have ran the self-cleaning program multiple times and the print quality i
 
 5\. Reinsert the cartridge and run the printhead self-cleaning program.
 
-###   
-3\. When your printhead is in the cartridge (like most Inkjet printers):
+
+### 3\. When your printhead is in the cartridge (like most Inkjet printers):
 
 1\. Remove cartridge/printhead.
 
@@ -80,7 +79,7 @@ Follow steps 1-2 above.
 
 2\. Use compressed air in the ventilation hole (this will force the ink to flow through the printhead).
 
-**Caution: Use this method in open air and preferably over a sink or trash can, as ink may leak as a result.**  
+**Caution: Use this method in open air and preferably over a sink or trash can, as ink may leak as a result.**
 
 To keep your printer working properly, keep these regular maintenance tips in mind:
 
@@ -90,13 +89,13 @@ To keep your printer working properly, keep these regular maintenance tips in mi
 
 3\. Keep area around the printer clean and free of dust.
 
-4\. Run the self-cleaning program regularly. 
+4\. Run the self-cleaning program regularly.
 
 For further assistance, check out these tutorials:
 
-<http://blog.comboink.local/clean-your-printers-printhead-in-seconds/>
+<https://www.comboink.com/blog/clean-your-printers-printhead-in-seconds/>
 
-<http://www.wikihow.com/Clean-Print-Heads>  
-  
-  
+<http://www.wikihow.com/Clean-Print-Heads>
+
+
 _If you liked this post, be sure to tell us about it. To keep track of future interesting posts like this one, [subscribe to our newsletter](https://www.comboink.com/coupon). To find the best ink and toner cartridge deals, like us on [Facebook](https://www.facebook.com/comboink) or check out the [best printer cartridge deals](https://www.comboink.com/) currently available._

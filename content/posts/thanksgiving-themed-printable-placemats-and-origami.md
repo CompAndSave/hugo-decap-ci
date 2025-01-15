@@ -28,7 +28,7 @@ It's thanksgiving, time to sit back, relax, unbuckle and indulge your appetite i
 * Click "PRINT" to print out the images in your desired size (make sure to print out a substantial amount for everyone and remember that the placemats should be double sided)
 * Once everything is downloaded, printed out and passed around, it's time to get creative… and form your own little colony of turkey origami!
 
-Once the placemats are colored, have them place their unique designs where they want to sit for dinner. After dinner, you can all have more fun solving the puzzles on the reverse side of the placemats or making more origami turkeys. 
+Once the placemats are colored, have them place their unique designs where they want to sit for dinner. After dinner, you can all have more fun solving the puzzles on the reverse side of the placemats or making more origami turkeys.
 
 Togetherness is the theme, so make sure everyone is enjoying their special time together. Remember to retain the individually colored placemats and origamis as a token of this happy occasion.
 
@@ -36,11 +36,11 @@ As your leading provider of printer supplies, ComboInk is dedicated to serving o
 
 From our family to yours, ComboInk wishes you a Happy Thanksgiving!
 
-Be sure to [subscribe to our mailing list](https://www.comboink.com/coupon) and [connect with us on Facebook](https://www.facebook.com/comboink) for more fun family activities and discount offers.  
+Be sure to [subscribe to our mailing list](https://www.comboink.com/coupon) and [connect with us on Facebook](https://www.facebook.com/comboink) for more fun family activities and discount offers.
 **Download Here:**
 
-[Turkey Origami](http://blog.comboink.local/wp-content/themes/comboink/files/2013-thanksgiving-origami-CI.pdf)
+[Turkey Origami](https://www.comboink.com/blog/wp-content/themes/comboink/files/2013-thanksgiving-origami-CI.pdf)
 
-[Large Thanksgiving Placemat](http://blog.comboink.local/wp-content/themes/comboink/files/placemat-CI.pdf)
+[Large Thanksgiving Placemat](https://www.comboink.com/blog/wp-content/themes/comboink/files/placemat-CI.pdf)
 
-[Small Thanksgiving Placemat](http://blog.comboink.local/wp-content/themes/comboink/files/ci-small-placemat.pdf)
+[Small Thanksgiving Placemat](https://www.comboink.com/blog/wp-content/themes/comboink/files/ci-small-placemat.pdf)

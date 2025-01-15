@@ -12,13 +12,11 @@ It looks a little like syrup being poured to create spirals and other spectacula
 
 ## 3D Printing Glass Objects
 
-## 
-
 https://www.youtube.com/watch?v=IvcpbtpWpGY
 
-It isn't candy or honey, as this video tells you, this is a glass object being created right in front of your eyes, using ancient techniques and blending them with modern technology. MIT's Department of Mechanical Engineering and MIT's Glass Lab collaborated with the Mediated Matter Group to create beautiful glass objects. The team unveiled a new printing process to create optically transparent glass; a first of its kind process called G3DP. This manufacturing platform makes it possible create glass with different transparencies, colors and forms and could therefore impact glass making processes significantly in times to come. 
+It isn't candy or honey, as this video tells you, this is a glass object being created right in front of your eyes, using ancient techniques and blending them with modern technology. MIT's Department of Mechanical Engineering and MIT's Glass Lab collaborated with the Mediated Matter Group to create beautiful glass objects. The team unveiled a new printing process to create optically transparent glass; a first of its kind process called G3DP. This manufacturing platform makes it possible create glass with different transparencies, colors and forms and could therefore impact glass making processes significantly in times to come.
 
-The machine has dual chambers: the upper chamber is the kiln ‘cartridge' that operates at about 1900°F and a lower chamber that helps the material cool down slowly to prevent cracking. The molten material is then extruded via an alumina-zircon-silica nozzle into shapes and designs required. Read more about [3D printing of glass](http://news.mit.edu/2015/3-d-printing-transparent-glass-0914) at the MIT website. 
+The machine has dual chambers: the upper chamber is the kiln ‘cartridge' that operates at about 1900°F and a lower chamber that helps the material cool down slowly to prevent cracking. The molten material is then extruded via an alumina-zircon-silica nozzle into shapes and designs required. Read more about [3D printing of glass](http://news.mit.edu/2015/3-d-printing-transparent-glass-0914) at the MIT website.
 
 ## The Potential Of 3D Glass Printing
 

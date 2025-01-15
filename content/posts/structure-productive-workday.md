@@ -53,6 +53,6 @@ Imagine you had to leave work two hours early, but your boss still expected you 
 
 The other question you should ask is, "What would I do if I had an extra two hours in my workday?" Most of us have projects we've been meaning to get to but never seem to find time for. Make another list. Maybe you've wanted to organize your workspace, prepare a new marketing pitch, or start a blog for your business. Decide in advance which project you'll devote your "extra" hours to so that you don't end up down the social media rabbit hole.
 
-If you work from home and need even more advice, check out our [remote working productivity tips](http://blog.comboink.local/productive-work-from-home/). Here's to a productive workday and new year!
+If you work from home and need even more advice, check out our [remote working productivity tips](https://www.comboink.com/blog/productive-work-from-home/). Here's to a productive workday and new year!
 
 _Got productivity tips to share? Add yours in the comments below or share on Facebook and Twitter!_

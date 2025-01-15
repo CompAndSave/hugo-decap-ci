@@ -10,7 +10,7 @@ tags: [Halloween,office party,Printable Decorations]
 
 ![Halloween office party](/blog/images/halloween-pumpkins.jpg "Halloween feast")
 
-You don't have to relegate Halloween celebrations to your home. Bring the party to the office! Halloween decorations and festivities can liven up a dreary office environment and support team building. Below are our top ideas to make your Halloween office party a monster (s)mash.  
+You don't have to relegate Halloween celebrations to your home. Bring the party to the office! Halloween decorations and festivities can liven up a dreary office environment and support team building. Below are our top ideas to make your Halloween office party a monster (s)mash.
 
 ## 1\. Sponsor a Costume Contest
 
@@ -18,7 +18,7 @@ Encourage employees to dress up on Halloween. Then at the end of the day everyon
 
 ## 2\. Decorate the Office
 
-You can easily decorate the office with simple Halloween [printables](http://blog.comboink.local/this-halloween-you-can-really-get-into/). Employees can also adorn their desks with pumpkins, cobwebs, spiders, or other spooky décor. Instead of a costume contest, have a desk contest: whoever has the creepiest desk decorations wins.
+You can easily decorate the office with simple Halloween [printables](https://www.comboink.com/blog/this-halloween-you-can-really-get-into/). Employees can also adorn their desks with pumpkins, cobwebs, spiders, or other spooky décor. Instead of a costume contest, have a desk contest: whoever has the creepiest desk decorations wins.
 
 ## 3\. Bring Fun Food and Drinks
 

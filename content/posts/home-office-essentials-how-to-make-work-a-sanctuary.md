@@ -13,13 +13,13 @@ tags:
   - organization
   - remote working
 ---
-Whether you are a full-time freelancer pumping out [work emails](http://blog.comboink.local/how-to-write-work-emails-the-dos-and-donts/) 9-5, hustling on the side, or pursuing creative passions, the home office serves as a sanctuary. A place where you don't have to consider the dishes or the laundry; you aren't tempted to take a nap or turn on Netflix… at least that's the goal. If you are planning to carve out a space that's all your own or simply spruce up your existing space, gather inspiration from the following home office essentials.
+Whether you are a full-time freelancer pumping out [work emails](https://www.comboink.com/blog/how-to-write-work-emails-the-dos-and-donts/) 9-5, hustling on the side, or pursuing creative passions, the home office serves as a sanctuary. A place where you don't have to consider the dishes or the laundry; you aren't tempted to take a nap or turn on Netflix… at least that's the goal. If you are planning to carve out a space that's all your own or simply spruce up your existing space, gather inspiration from the following home office essentials.
 
 # Home Office Essentials Checklist
 
 ### The Home Office
 
-OK, this may seem like an obvious one. But having a space dedicated to your work can minimize distractions and also increase efficiency by allowing you to have all of your home office essentials in one space. Ideally you want a room with a door, but don't let small spaces hinder [your work-from-home productivity](http://blog.comboink.local/productive-work-from-home/). Find a quiet corner to set up a desk armoire. What looks like a storage space from the outside opens into a computer closet turned cubicle.
+OK, this may seem like an obvious one. But having a space dedicated to your work can minimize distractions and also increase efficiency by allowing you to have all of your home office essentials in one space. Ideally you want a room with a door, but don't let small spaces hinder [your work-from-home productivity](https://www.comboink.com/blog/productive-work-from-home/). Find a quiet corner to set up a desk armoire. What looks like a storage space from the outside opens into a computer closet turned cubicle.
 
 **Pro tip:** If it can be controlled, avoid placing your home office in the bedroom. It becomes difficult to relax or fall asleep once you view the bedroom as a place to get work done. Vice versa, concentrating on work while in your bedroom can be quite distracting.
 

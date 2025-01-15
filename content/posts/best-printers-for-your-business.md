@@ -10,10 +10,10 @@ tags: [Compatible ink and Toner Cartridge,laser toner cartridges,Laserjet Printe
 
 ![HP Printer](/blog/images/HPprinter.png "HP LaserJet Enterprise M604n ")
 
-Time for a new printer at work? There are so many [printer options](http://blog.comboink.local/how-to-choose-best-printer/) that choosing which one is right for your business can be daunting.
+Time for a new printer at work? There are so many [printer options](https://www.comboink.com/blog/how-to-choose-best-printer/) that choosing which one is right for your business can be daunting.
 
-First, you need to determine how much printing you do. If your business does quite a bit of printing, you'll want to check out [laser printers](http://blog.comboink.local/advantages-of-laser-printer/). These kinds of printers can handle a large volume of printing and produce high-quality results. However, a laser printer sometimes requires some warm-up time before you can use it.  
-  
+First, you need to determine how much printing you do. If your business does quite a bit of printing, you'll want to check out [laser printers](https://www.comboink.com/blog/advantages-of-laser-printer/). These kinds of printers can handle a large volume of printing and produce high-quality results. However, a laser printer sometimes requires some warm-up time before you can use it.
+
 Inkjet printers are more common in home offices as they tend to be less expensive. An inkjet printer, though, can still generate smooth, photographic-quality results and doesn't have the warm-up time of a laser printer.
 
 Keep reading below to see the best laser and inkjet printer choices for your business. Which one will you choose?
