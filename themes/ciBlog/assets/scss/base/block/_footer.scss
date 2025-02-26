@@ -1,6 +1,10 @@
+@use "../../settings";
+@use "../../utils/base";
+@use "../../utils/breakpoints";
+
 .footer-wrapper {
     background: #222;
-    color: $white;
+    color: settings.$white;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -16,8 +20,8 @@
 
 .ft-title {
     display: inline-block;
-    font-family: $sec-font-family;
-    font-size: rem-calc(21);
+    font-family: settings.$sec-font-family;
+    font-size: base.rem-calc(21);
     margin-bottom: 0.5rem;
 }
 
@@ -44,7 +48,7 @@
                 line-height: 1;
             }
             img {
-                max-height: rem-calc(25);
+                max-height: base.rem-calc(25);
             }
         }
     }
@@ -63,11 +67,11 @@
 
 .info {
     a {
-        color: $white;
+        color: settings.$white;
     }
 }
 
-@media screen and #{breakpoint(medium)} {
+@media screen and (min-width: 768px) {
     .footer {
         justify-content: space-between;
     }
@@ -76,7 +80,7 @@
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (min-width: 1024px) {
     .footer {
         padding: 2rem 1rem;
     }
@@ -84,7 +88,7 @@
         margin-bottom: 0;
         flex: 0 0 auto;
         padding-right: 5rem;
-        border-right: 2px solid $medium-gray;
+        border-right: 2px solid settings.$medium-gray;
     }
     .social-wrapper {
         flex: 0 0 40%;
@@ -95,7 +99,7 @@
     }
 }
 
-@media screen and #{breakpoint(xlarge)} {
+@media screen and (min-width: 1200px) {
     .footer {
         padding: 2rem 0;
     }

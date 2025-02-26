@@ -1,5 +1,7 @@
-@import '../settings';
-
+@use "sass:meta";
+@use '../utils/colors';
+@use '../utils/base';
+@use '../settings';
 
 
 .content-title {
@@ -8,8 +10,8 @@
 .top-detail {
     margin: 0 0 2rem;
     padding: 1rem 0;
-    border-top: $global-border;
-    border-bottom: $global-border;
+    border-top: settings.$global-border;
+    border-bottom: settings.$global-border;
 }
 
 .tags {
@@ -28,7 +30,11 @@
         margin-top: 1rem;
     }
     h2 {
+        color: colors.get-color('blue');
         margin-top: 2rem;
+    }
+    h3 {
+        margin-top: 2.5rem;
     }
     img {
         margin: 0 auto 2rem;
@@ -44,9 +50,10 @@
         }
     }
     ol, ul {
-        margin-left: 1rem;
+        margin-left: 1.25rem;
+        margin-bottom: 2rem;
         li {
-            margin: rem-calc(8 0);
+            margin: base.rem-calc(8 0);
         }
     }
     ol {
@@ -54,5 +61,31 @@
             list-style-type: decimal;
         }
     }
+    table {
+        border-collapse: collapse;
+        margin: 2rem 0;
+        th, td {
+            padding: 0.75rem;
+            border: settings.$global-border;
+        }
+        th {
+            color: settings.$medium-gray;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 90%;
+        }
+    }
+    .image {
+        &-left {
+            text-align: left;
+        }
+        &-center {
+            text-align: center;
+        }
+        &-right {
+            text-align: right;
+        }
+    }
 }
-@import '../base/block/sharing-buttons';
+
+@include meta.load-css('../base/block/sharing-buttons');

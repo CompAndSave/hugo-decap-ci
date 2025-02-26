@@ -1,3 +1,6 @@
+@use "../../settings";
+@use "../../utils/base";
+
 .tags {
     margin-top: 0.5rem;
 }
@@ -16,11 +19,11 @@
     }
 }
 .tag {
-    font-size: rem-calc(13);
+    font-size: base.rem-calc(13);
     font-style: italic;
     font-weight: normal;
     line-height: 1;
-    color: $dark-gray;
+    color: settings.$dark-gray;
     text-transform: capitalize;
     &:after {
         content: ", ";

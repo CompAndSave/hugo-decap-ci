@@ -1,3 +1,6 @@
+@use "../../settings";
+@use "../../utils/base";
+@use "../../utils/colors";
 
 .card-post {
     display: flex;
@@ -6,16 +9,16 @@
     overflow: hidden;
     align-items: flex-start;
     margin: 2rem 0 0;
-    background-color: $off-white;
-    border: $global-border;
-    box-shadow: $global-box-shadow;
+    background-color: settings.$off-white;
+    border: settings.$global-border;
+    box-shadow: settings.$global-box-shadow;
     .post-title {
         margin-bottom: 0;
-        font-size: rem-calc(20);
+        font-size: base.rem-calc(20);
         a {
-            color: $dark-gray;
+            color: settings.$dark-gray;
             &:hover {
-                color: get-color('blue');
+                color: colors.get-color('blue');
                 text-decoration: none;
             }
         }
@@ -26,20 +29,20 @@
     .top-detail {
         margin: 0.25rem 0 1rem;
         padding-bottom: 1rem;
-        border-bottom: $global-border;
-        font-size: rem-calc(14);
+        border-bottom: settings.$global-border;
+        font-size: base.rem-calc(14);
     }
     .detail-wrapper {
-        background: $white;
+        background: settings.$white;
         padding: 1rem 2rem;
     }
     .post-detail {
-        font-size: rem-calc(14);
-        color: $medium-gray;
+        font-size: base.rem-calc(14);
+        color: settings.$medium-gray;
     }
     .read-more {
         text-transform: uppercase;
-        font-size: rem-calc(15);
+        font-size: base.rem-calc(15);
     }
     &.action {
         display: flex;
@@ -54,7 +57,7 @@
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (min-width: 1024px) {
     .card-post {
         justify-content: center;
         flex-direction: row;

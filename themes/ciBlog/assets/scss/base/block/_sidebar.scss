@@ -1,10 +1,13 @@
+@use "../../settings";
+@use "../../utils/base";
+
 .search-wrapper{
     margin-bottom: 2rem;
 }
 
 .sb-title {
-    font-size: rem-calc(20);
-    font-family: $sec-font-family;
+    font-size: base.rem-calc(20);
+    font-family: settings.$sec-font-family;
     margin-bottom: 0.5rem;
     display: inline-block;
 }

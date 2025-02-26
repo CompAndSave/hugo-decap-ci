@@ -1,10 +1,14 @@
-@import '../components/search';
+@use '../components/search';
+@use "../../settings";
+@use "../../utils/base";
+@use "../../utils/breakpoints";
+@use "../../utils/colors";
 
 .header-wrapper {
-    background: $white;
+    background: settings.$white;
 }
 .logo-wrapper {
-    margin-top: rem-calc(5);
+    margin-top: base.rem-calc(5);
     a {
         display: inline-block;
         line-height: 1;
@@ -12,7 +16,7 @@
     }
 }
 .header {
-    border-bottom: $global-border;
+    border-bottom: settings.$global-border;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -34,16 +38,16 @@
             border: 0;
         }
         a {
-            color: $dark-gray;
+            color: settings.$dark-gray;
             &:hover {
-                color: get-color('blue');
+                color: colors.get-color('blue');
                 text-decoration: none;
             }
         }
     }
 }
 
-@media screen and #{breakpoint(medium)} {
+@media screen and (min-width: 768px) {
     .header {
         justify-content: flex-start;
         .search-wrapper {
@@ -55,7 +59,7 @@
     }
 }
 
-@media screen and #{breakpoint(large)} {
+@media screen and (min-width: 1024px) {
     .header {
         justify-content: space-between;
         padding: 1rem;

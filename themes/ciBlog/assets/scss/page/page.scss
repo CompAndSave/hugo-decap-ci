@@ -1,5 +1,6 @@
-@import '../settings';
-@import '../base/block/card';
+@use '../settings';
+@use '../utils/colors';
+@use '../base/block/card';
 
 
 .pagination {
@@ -13,7 +14,7 @@
         &.disabled {
             a {
                 cursor: not-allowed;
-                color: $ui-gray;
+                color: settings.$ui-gray;
             }
         }
         a{
@@ -21,13 +22,13 @@
             border-bottom: 3px solid transparent;
             &:hover {
                 text-decoration: none;
-                border-bottom-color: get-color('red');
-                color: $dark-gray;
+                border-bottom-color: colors.get-color('red');
+                color: settings.$dark-gray;
             }
             &[aria-current="page"] {
                 font-weight: 700;
-                color: $dark-gray;
-                border-bottom-color: get-color('red');
+                color: settings.$dark-gray;
+                border-bottom-color: colors.get-color('red');
             }
         }
     }
