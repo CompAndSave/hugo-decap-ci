@@ -9,7 +9,7 @@ backend:
   repo: CompAndSave/hugo-decap-ci
   branch: master # Branch to update (optional; defaults to master)
   site_domain: www.comboink.com
-  base_url: https://www.comboink.com
+  base_url: https://alpha.compandsave.com
   auth_endpoint: lambda/sveltia-cms-auth/auth
 
 site_url: https://www.comboink.com/blog/

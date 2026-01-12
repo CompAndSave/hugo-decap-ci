@@ -20,8 +20,7 @@ Now, without further ado, please keep reading to learn more about our contributo
 
 #### Stephanie Figy
 
-Stephanie is a business + marketing writer at an A/E firm by day, and a freelance writer by night. In her free time she enjoys traveling with her husband, drinking craft beer, and taking care of her cats and rabbits. You can find out more about her at [stephaniefigy.com](http://www.stephaniefigy.com/) or [@SKFigy](https://twitter.com/skfigy).
-
+Stephanie is a business + marketing writer at an A/E firm by day, and a freelance writer by night. In her free time she enjoys traveling with her husband, drinking craft beer, and taking care of her cats and rabbits.
 #### Jessica Sillers
 
 Jessica writes about business, finance, and parenting for various companies and publications. Her favorite things include outings with her husband and daughter, Elena Ferrante novels, and perfecting the chocolate chip cookie. Read more of her work at [www.dcfreelancewriter.com/portfolio](http://www.dcfreelancewriter.com/portfolio).
