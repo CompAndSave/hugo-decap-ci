@@ -11,6 +11,9 @@ tags:
   - HP
   - reviews
 ---
+
+## Overview of the HP PhotoSmart C8183 Printer
+
 The HP PhotoSmart C8183 printer is one of the leading printers on the market today; here in this review we will take a look at just how this printer has got its status and just how good it really is. One of the first things that you will notice about this printer is the futuristic look and the modern design of it. The look of the printer sends a clear message to the industry, it looks modern and it also contains all of the latest in modern printing technology. Like other printers in the PhotoSmart range, it has been engineered expertly and it will only take up a small amount of space, whether you are looking to use it in your family household or in the modern workplace and office.
 
 It comes with an LCD screen, which again is compact however is large enough to provide a quality service. The LCD screen can be used to search through the printers many options, and will help you to successfully choose the settings that you wish the printer to use. The printer is very quiet when it is in use; this is a feature that is not common on other brands of printer. The All in one printer is generally quite a loud machine when it is in use, HP have worked on this and as a result you will find that this printer, is significantly quieter than others of a similar type. The printer has been designed for heavy use, and will therefore always produce the results that you need, for many years to come after the initial purchase.

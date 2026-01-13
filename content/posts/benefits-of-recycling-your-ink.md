@@ -8,6 +8,8 @@ authors: Andrew Yeung
 tags: [recycle ink cartridges]
 ---
 
+## Why Recycling Ink Cartridges Matters More Than You Think
+
 Protecting the environment has been a subject that we see on a regular basis throughout the world news. It has come as no surprise that we have been told, over recent years, it is us that are ruining the global climate, that in the end will surly demise to such an extent, that the world will one day, cease to exist.
 
 There are countless ways, which we can help in reducing our own global pollution; his can range from using our cars less or car sharing to using more energy efficient appliances. What most people do not think about is the smaller ways in which we can help, that will actually take a little no effort at all.

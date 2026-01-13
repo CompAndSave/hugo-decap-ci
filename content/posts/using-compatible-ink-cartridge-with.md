@@ -10,6 +10,9 @@ tags:
   - printer
   - PhotoSmart Ink
 ---
+
+## Cost Savings and Performance Explained
+
 If you are one of the millions of households which own a printer worldwide, then you should be using a compatible ink cartridge. There are many reasons for this, and if you have never heard of them, then you will not be alone. There are thousands of people who are still paying over the top prices for genuine or OEM ink cartridges; it must be made known that you do not have to pay this kind of money, just so that you can use your printer.
 
 Compatible ink cartridges hold several benefits; these are benefits that you may not know about. The main advantage of using a compatible ink cartridge is the fact that they are much cheaper to purchase. Every person who already uses the compatible cartridge will tell you that this is the main reason that they actually decided to start using the compatible cartridge, rather than the much more highly priced OEM type. There are other benefits though, and one which makes the compatible ink cartridge significantly better that the genuine types is the fact that they actually have a larger ink content.

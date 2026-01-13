@@ -37,9 +37,3 @@ Before you even click on the PDF link below to view the t-shirt designs, be sure
 Now if you like how your t-shirt turned out, don't thank us – or do actually, we'd like to hear what you think in the comments below.
 
  Remember to wash the tee in cold water only, on a gentle cycle, and inside out. This way your t-shirt transfer will stay on longer and look better. [Subscribe to our mailing list](https://www.comboink.com/coupon) and join our [Facebook page](https://www.facebook.com/comboink) to see what else we have coming up in terms of DIY projects, discount offers and events.
-
-**Download t-shirt designs here:**
-[Anti-Cupid](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/diy-anti-valentines%5Fday-1.pdf)
-[Happy Anti-Valentine's Day](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/diy-anti-valentines%5Fday-2.pdf)
-[Danger](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/diy-anti-valentines%5Fday-3.pdf)
-[Broken Heart](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/diy-anti-valentines%5Fday-4.pdf)

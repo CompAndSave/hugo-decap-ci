@@ -38,6 +38,5 @@ Traditionally, these lanterns are hung out on doors and windows during the festi
 * You can further embellish the lanterns by adding glitter, streamers, beads and so on
 * You can printout several of these lanterns and string them all up using a ribbon or some string – they will help create a really festive atmosphere
 
-**[Download Here](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/2014-chinese-new-year-CI.pdf)**
 
 It can be a good idea to celebrate different festivals and holidays along with kids because it can help to increase their awareness of other cultures and people. Getting kids involved in such craft activities are fun and also helps stimulate their creativity. So keep track of all our events and activities by [subscribing to our newsletter](https://www.comboink.com/coupon) or by following us on [Facebook](https://www.facebook.com/comboink).

@@ -12,6 +12,9 @@ tags:
   - printer
   - reviews
 ---
+
+## Overview of the HP PhotoSmart D7100 Printer
+
 [![PhotoSmart D7100](https://assets.comboink.com/stock-photo/printers/3749.JPG)](https://assets.comboink.com/stock-photo/printers/3749.JPG)
 
 When you are looking for a new printer to use within your family home, how do we know which printers are best suited to the needs and wants of our family. Printers are commonly used in many worldwide households, and it goes without saying that we now need a printer that is both reliable and effective.

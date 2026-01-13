@@ -29,7 +29,7 @@ More automakers are now using [3D printing in customized components and spare pa
 
 ### Expansion of 3D Printing in Industrial and Medical Applications
 
-Other sectors, particularly the aerospace and [medical industries](https://www.comboink.com/blog/3d-printed-prosthetics-exceptional-affordable/), continue to drive growth in 3D printing.
+Other sectors, particularly the aerospace and [medical industries](https://www.comboink.com/blog/3d-printed-prosthetics-exceptional-affordable.html), continue to drive growth in 3D printing.
 
 Catherine Wood, the founder, CEO, and CIO of ARK Invest, explains, "ARK's research shows that the 3D printing industry has one of the highest growth projections in the economy. As the technology evolves and costs continue to decline, the 3D printing industry has the potential to steal market share from traditional manufacturing and transform every sector of the economy."
 
