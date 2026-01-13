@@ -48,4 +48,4 @@ Now that you got the gift part sorted, you can add some personal touches such as
 * Home printed gift tags specially for father's day: something like "Dad you're the bomb!" with a happy stick of dynamite
 * Gift tags or cake toppers in the shape of a bow tie or a regular tie with a Happy Father's day caption or something cure such as "Tie-riffic Dad!"
 
-You will find some more ideas for gift wraps and greetings for Father's Day in our post[ Eco Friendly Gift Wrap and Greetings](https://www.comboink.com/blog/green-diy-projects-using-your-printer/). If you have more Father's Day gift or printable ideas, do share these with us too!
+You will find some more ideas for gift wraps and greetings for Father's Day in our post[ Eco Friendly Gift Wrap and Greetings](https://www.comboink.com/blog/green-diy-projects-using-your-printer.html). If you have more Father's Day gift or printable ideas, do share these with us too!

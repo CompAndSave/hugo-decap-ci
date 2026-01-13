@@ -24,7 +24,7 @@ Once you have all your stuff in place, take a look at the various St. Paddy's Da
 
 Simply click on the link to print out the PDF's. Now carefully cut along the dashed lines provided to get the right shape.
 **Download Here:**
-[St. Patrick's Day Decorations](https://www.comboink.com/blog/wp-content/themes/comboink/files/st-patrick-decoration.pdf)
+[St. Patrick's Day Decorations](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/st-patrick-decoration.pdf)
 
 You can now use these decorations in various different ways: you can punch holes in each printout and string them together across the office, or you can use double sided tape to put them up on walls. You can even paste them on to individuals' desks or work stations to create a lovely green theme for the day. You can also encourage people in office to bring along their own little green hats or leprechauns.
 

@@ -33,7 +33,7 @@ One key change we see here is that printers are priced high (about $400). The co
 
 #### The Seemingly Endless Possibilities of 3D Printing
 
-The future of printing is quickly moving towards [3D printing](https://www.comboink.com/blog/tag/3d-printing/)! Imagine creating personalized objects, buildings, food and perhaps human tissue with the help of these printers.
+The future of printing is quickly moving towards [3D printing](https://www.comboink.com/blog/tag.html3d-printing/)! Imagine creating personalized objects, buildings, food and perhaps human tissue with the help of these printers.
 
 These 3D printers use various plastics and other items to create brand new objects layer by layer. Makers and inventors, designers and medical professionals alike are constantly finding new ways to use these printers for good. Often, these new inventions cost a fraction of the cost of traditional manufacturing processes.
 

@@ -8,7 +8,7 @@ authors: Jessica Sillers
 tags: [management,work]
 ---
 
-When you read about a job search, the first guides that you'll probably encounter offer tips on polishing a [résumé](https://www.comboink.com/blog/resume-tips-every-stage-career/), writing a stronger [cover letter](https://www.comboink.com/blog/top-6-cover-letter-mistakes-avoid/), and nailing tricky [interview questions](https://www.comboink.com/blog/5-best-interview-questions-ask-prospective-employees/). In other words, these articles focus on the prospective employee. But there's someone else sitting on the other side of the table, too.
+When you read about a job search, the first guides that you'll probably encounter offer tips on polishing a [résumé](https://www.comboink.com/blog/resume-tips-every-stage-career.html), writing a stronger [cover letter](https://www.comboink.com/blog/top-6-cover-letter-mistakes-avoid.html), and nailing tricky [interview questions](https://www.comboink.com/blog/5-best-interview-questions-ask-prospective-employees.html). In other words, these articles focus on the prospective employee. But there's someone else sitting on the other side of the table, too.
 
 Understanding the qualities that make a great boss serves two important functions. Your company will attract more talented applicants if you demonstrate effective leadership. When it's time to hire for a senior position, you'll also have clear parameters to bring in a new boss who will succeed in the role.
 

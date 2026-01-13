@@ -12,7 +12,7 @@ The history of computer printing began in 1983 when Chester Carlson invented the
 
 ## Origins of Impact and Non-impact Printers
 
-Though line printers were technically the first of its kind in printing technology, it was the [dot matrix printer](https://www.comboink.com/blog/dot-matrix-printing-history-how-it-works/) that made the jump from typewriters seem viable. They print characters by pushing pins onto an ink ribbon that is then applied over the paper. Unlike typewriters, these printers produce any character or graphic. They weren't limited to a set of letters and numbers designed by the manufacturer.
+Though line printers were technically the first of its kind in printing technology, it was the [dot matrix printer](https://www.comboink.com/blog/dot-matrix-printing-history-how-it-works.html) that made the jump from typewriters seem viable. They print characters by pushing pins onto an ink ribbon that is then applied over the paper. Unlike typewriters, these printers produce any character or graphic. They weren't limited to a set of letters and numbers designed by the manufacturer.
 
 When Remington-Rand introduced the high-speed printer for the Universal Automatic Computer (Univac), it was a big and bulky machine that only modernized offices used. Typewriters were still the popular way of printing characters during that time. Though high-speed, users had to go through a lot of processes in order to print one piece of paper.
 
@@ -22,7 +22,7 @@ Daisy wheel, line printers, and dot matrix printers are impact printers as they 
 
 ### BONUS! Printer Fun Fact
 
-#### Did you know that it takes around 135 fluid ounces of oil to make a printer cartridge? This accounts for oil used from manufacturing to its transportation to your locality. Luckily, [recycled ink cartridges](https://www.comboink.com/blog/benefits-of-recycling-your-ink/) reduce this waste.
+#### Did you know that it takes around 135 fluid ounces of oil to make a printer cartridge? This accounts for oil used from manufacturing to its transportation to your locality. Luckily, [recycled ink cartridges](https://www.comboink.com/blog/benefits-of-recycling-your-ink.html) reduce this waste.
 
 ## High-speed Printer Race
 
@@ -34,4 +34,4 @@ At this time, inkjet printers rose in popularity for being lightweight. The comp
 
 ## Printing Today
 
-Whether it's a [daisy wheel printer](https://www.comboink.com/blog/daisy-wheel-printers-history-design/), line printer, [dye sublimation printing](https://www.comboink.com/blog/dye-sublimation-printing-history-and-how-it-works/),[inkjet printer](https://www.comboink.com/blog/understanding-your-ink-jet-printer/) or [laser printer](https://www.comboink.com/blog/advantages-of-laser-printer/), printing is still a major part of today's world, especially for businesses. Many companies still rely on physical documents with digital copies only serving as the backup in the cloud. Computer printing saw its start as a noisy, bulky machine producing low-quality images, but advanced to a sophisticated device capable of being tweaked to the greatest detail.
+Whether it's a [daisy wheel printer](https://www.comboink.com/blog/daisy-wheel-printers-history-design.html), line printer, [dye sublimation printing](https://www.comboink.com/blog/dye-sublimation-printing-history-and-how-it-works.html),[inkjet printer](https://www.comboink.com/blog/understanding-your-ink-jet-printer.html) or [laser printer](https://www.comboink.com/blog/advantages-of-laser-printer.html), printing is still a major part of today's world, especially for businesses. Many companies still rely on physical documents with digital copies only serving as the backup in the cloud. Computer printing saw its start as a noisy, bulky machine producing low-quality images, but advanced to a sophisticated device capable of being tweaked to the greatest detail.

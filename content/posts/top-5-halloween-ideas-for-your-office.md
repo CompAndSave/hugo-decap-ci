@@ -18,7 +18,7 @@ Encourage employees to dress up on Halloween. Then at the end of the day everyon
 
 ## 2\. Decorate the Office
 
-You can easily decorate the office with simple Halloween [printables](https://www.comboink.com/blog/this-halloween-you-can-really-get-into/). Employees can also adorn their desks with pumpkins, cobwebs, spiders, or other spooky décor. Instead of a costume contest, have a desk contest: whoever has the creepiest desk decorations wins.
+You can easily decorate the office with simple Halloween [printables](https://www.comboink.com/blog/this-halloween-you-can-really-get-into.html). Employees can also adorn their desks with pumpkins, cobwebs, spiders, or other spooky décor. Instead of a costume contest, have a desk contest: whoever has the creepiest desk decorations wins.
 
 ## 3\. Bring Fun Food and Drinks
 

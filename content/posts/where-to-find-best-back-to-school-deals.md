@@ -46,4 +46,4 @@ So we are all tightening our belts this year and some states are offering tax ho
 
 So go ahead and be a savvy shopper! Get all the back to school stuff you need including ink and toner cartridges, printing paper and so on. Grab your free gift and save big simply by using **coupon code STYL13** at checkout.
 
-To keep track of future offers and deals, follow **[our blog](https://www.comboink.com/blog/)** or [**subscribe to our mailing list**](https://www.comboink.com/coupon)**.** You can also connect to us on **[Facebook](https://www.facebook.com/comboink)** to know more.
+To keep track of future offers and deals, follow **[our blog](https://www.comboink.com/blog/)** or [**subscribe to our mailing list**](https:.html/www.comboink.com/coupon)**.** You can also connect to us on **[Facebook](https://www.facebook.com/comboink)** to know more.

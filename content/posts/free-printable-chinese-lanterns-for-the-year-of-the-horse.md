@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [Chinese New Year Printables,Printable Chinese Lanterns,Year of the Horse]
 ---
 
-As always, [ComboInk](https://www.comboink.com/) bring you good cheer and a simple fun way to enter into the festivities for the upcoming Chinese New Year. As with our free printables for [Christmas](https://www.comboink.com/blog/christmas-decoration-printables-from-comboink-com/) and [Halloween](https://www.comboink.com/blog/this-halloween-you-can-really-get-into/) , we've created some beautiful Chinese Lanterns, as part of the traditional décor for Chinese New Year celebrations.
+As always, [ComboInk](https://www.comboink.com/) bring you good cheer and a simple fun way to enter into the festivities for the upcoming Chinese New Year. As with our free printables for [Christmas](https://www.comboink.com/blog/christmas-decoration-printables-from-comboink-com.html) and [Halloween](https://www.comboink.com/blog/this-halloween-you-can-really-get-into.html) , we've created some beautiful Chinese Lanterns, as part of the traditional décor for Chinese New Year celebrations.
 
 As many of us may know, the Chinese calendar has a 12 year cycle, with each year being dedicated to a particular animal. The upcoming year will be the Year of the Horse and this year, the Chinese New Year will begin on the 31st of January.
 
@@ -38,6 +38,6 @@ Traditionally, these lanterns are hung out on doors and windows during the festi
 * You can further embellish the lanterns by adding glitter, streamers, beads and so on
 * You can printout several of these lanterns and string them all up using a ribbon or some string – they will help create a really festive atmosphere
 
-**[Download Here](https://www.comboink.com/blog/wp-content/themes/comboink/files/2014-chinese-new-year-CI.pdf)**
+**[Download Here](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/2014-chinese-new-year-CI.pdf)**
 
 It can be a good idea to celebrate different festivals and holidays along with kids because it can help to increase their awareness of other cultures and people. Getting kids involved in such craft activities are fun and also helps stimulate their creativity. So keep track of all our events and activities by [subscribing to our newsletter](https://www.comboink.com/coupon) or by following us on [Facebook](https://www.facebook.com/comboink).

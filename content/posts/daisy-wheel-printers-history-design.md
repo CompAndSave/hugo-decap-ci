@@ -14,7 +14,7 @@ tags: [printer,daisy wheel printer,printer history]
 
 Daisy wheel printers were invented by David S. Lee at Diablo Data Systems in 1969\. They use 96 glyphs with a template of interchangeable elements to print high quality characters similar to high-end typewriters. When first introduced, they were two times faster than their manually operated counterparts. It received its name due to its resemblance to a daisy.
 
-Though the [dot matrix](https://www.comboink.com/blog/advantages-and-disadvantages-of-dot/) and line printers were more popular for quantity printing, daisy wheels were the choice for high quality text and graphical printing. Before [laser printers](https://www.comboink.com/blog/advantages-of-laser-printer/) became popular, daisy wheel printers were favored for precision, speed, and quantity. Nowadays, you can find them in electronic typewriters.
+Though the [dot matrix](https://www.comboink.com/blog/advantages-and-disadvantages-of-dot.html) and line printers were more popular for quantity printing, daisy wheels were the choice for high quality text and graphical printing. Before [laser printers](https://www.comboink.com/blog/advantages-of-laser-printer.html) became popular, daisy wheel printers were favored for precision, speed, and quantity. Nowadays, you can find them in electronic typewriters.
 
 ## History
 

@@ -32,7 +32,7 @@ Before school actually starts, reconnect with class mates. Work out possibilitie
 
 #### Help your Child Adjust to a New School
 
-If your child is going back to the same school, it is relatively easier to adjust to the back to school routine. But going to a new school, particularly in a new city can be rather traumatic for a child. [Help your child adjust to a new school](https://www.comboink.com/blog/is-your-child-changing-schools-heres-how-you-can-help/) by explaining the situation, discussing issues with them and reassuring your child that you're always there for them, no matter what.
+If your child is going back to the same school, it is relatively easier to adjust to the back to school routine. But going to a new school, particularly in a new city can be rather traumatic for a child. [Help your child adjust to a new school](https://www.comboink.com/blog/is-your-child-changing-schools-heres-how-you-can-help.html) by explaining the situation, discussing issues with them and reassuring your child that you're always there for them, no matter what.
 
 #### Get Back Into the Routine
 
@@ -40,7 +40,7 @@ The holidays were probably great fun when your child got to bed late, woke up la
 
 #### Some Back to School Shopping
 
-Ensure that your child is equipped with back to school supplies such as backpack, stationery, books and other stuff. Do they have enough clothes? If there is a uniform, do the uniforms and shoes still fit? Remember kids outgrow things astonishingly fast. Check out [back to school sales](https://www.comboink.com/blog/where-to-find-best-back-to-school-deals/) at online stores that offer discounts on everything from stationery to electronics. Some of the stores that have special back to school discounts and offers are: Staples, Office Depot, Office Max, Walmart, Target, Walgreens. Be sure to check out the office supplies sales as well. If you have to buy new gadgets such as a laptop or a tablet, ensure that you compare prices at various websites to find the best deals.
+Ensure that your child is equipped with back to school supplies such as backpack, stationery, books and other stuff. Do they have enough clothes? If there is a uniform, do the uniforms and shoes still fit? Remember kids outgrow things astonishingly fast. Check out [back to school sales](https://www.comboink.com/blog/where-to-find-best-back-to-school-deals.html) at online stores that offer discounts on everything from stationery to electronics. Some of the stores that have special back to school discounts and offers are: Staples, Office Depot, Office Max, Walmart, Target, Walgreens. Be sure to check out the office supplies sales as well. If you have to buy new gadgets such as a laptop or a tablet, ensure that you compare prices at various websites to find the best deals.
 
 #### Our Back to School Coupon code
 
