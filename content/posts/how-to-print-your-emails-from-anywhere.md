@@ -1,14 +1,17 @@
 ---
-title: "How to Print Your Emails from Anywhere"
+title: How to Print Your Emails from Anywhere
 date: 2015-07-23T02:04:00.000Z
-slug: how-to-print-your-emails-from-anywhere
-description: "How to Print Your Emails from Anywhere"
-featured_image: null
 authors: Denise Resendez
-tags: [emails,wifi printing]
+slug: how-to-print-your-emails-from-anywhere
+featured_image: null
+description: How to Print Your Emails from Anywhere
+tags:
+  - emails
+  - wifi printing
 ---
+[](/blog/images/07-22-2015-300x600.jpg)
 
-[![](/blog/images/07-22-2015-300x600.jpg)](/blog/images/07-22-2015-300x600.jpg)
+[![image banner](/blog/images/07-22-2015-300x600.jpg)](/blog/images/07-22-2015-300x600.jpg)
 
 More than anything else, you might spend online time over your email! With good reason, too! Sure, we have Facebook to keep us connected with friends and family. YouTube keeps us entertained with anything from cute cat videos to informative documentaries. We find out if we need an umbrella or not by checking the weather online. Then find out the news via your favorite newspaper's ePaper.
 
