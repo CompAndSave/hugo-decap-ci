@@ -1,18 +1,22 @@
 ---
-title: "Tips for fighting fatigue in the work place"
+title: Tips for fighting fatigue in the work place
 date: 2014-09-19T08:18:00.000Z
-slug: tips-on-fighting-fatigue-in-work-place
-description: "Tips for fighting fatigue in the work place"
-featured_image: null
 authors: Andrew Yeung
-tags: [Home Office,Office,Stress,Workplace Fatigue]
+slug: tips-on-fighting-fatigue-in-work-place
+featured_image: null
+description: Tips for fighting fatigue in the work place
+tags:
+  - Home Office
+  - Office
+  - Stress
+  - Workplace Fatigue
 ---
 
 Workplace fatigue is a problem that not only leaves you yawning and unenthusiastic about your work, but it can also lead to lower productivity or poor work quality. In many cases, workplace fatigue could be an actual workplace hazard, leading to injury or accidents, because it can hamper one's thinking and judgment. Here are some tips to lower fatigue in the workplace:
 
 ### Tips to control/lower workplace fatigue
 
-[![](/blog/images/82556782.jpg)](/blog/images/82556782.jpg)
+[![Image of a woman falling asleep on a stack of papers](/blog/images/82556782.jpg)](/blog/images/82556782.jpg)
 
 1. **Prioritize sleep**. This one is obvious – you need to get enough sleep each day. It is important to get quality, restful sleep that lets you awaken refreshed and alert. Cut down on avoidable activities such as late night TV viewing or internet surfing and ensure that you get to bed at a reasonable time every night. Minimize disturbances and use blackout drapes to prevent yourself from waking up too early in the morning.
 2. **Take frequent breaks, vary tasks.** By varying the type of work you do, you keep your mind from getting bored and fatigued. If you take frequent breaks this also prevents the ennui that settles due to the repetitive or unceasing nature of your work. Getting up and moving around frequently or doing a few simple exercises at your desk also helps improve blood circulation, which is something else that will help prevent tiredness.
