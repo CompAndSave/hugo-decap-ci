@@ -39,6 +39,4 @@ To print your Christmas décor, this is what you need to do:
 
 Arrange these cute and whimsical ornaments anywhere in the home or on the Christmas tree. You can even use these décor items for the exterior of the house, the windows, and doors. You can use the labels for gifts, treats, and even for indicating where your guests can be seated at the Christmas table.
 
-Download Here: [Printable Christmas Decorations](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/xmas-printable-ornament.pdf)
-
 Happy holidays from all of us at [ComboInk.com](https://www.comboink.com/)!

@@ -37,10 +37,3 @@ As your leading provider of printer supplies, ComboInk is dedicated to serving o
 From our family to yours, ComboInk wishes you a Happy Thanksgiving!
 
 Be sure to [subscribe to our mailing list](https://www.comboink.com/coupon) and [connect with us on Facebook](https://www.facebook.com/comboink) for more fun family activities and discount offers.
-**Download Here:**
-
-[Turkey Origami](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/2013-thanksgiving-origami-CI.pdf)
-
-[Large Thanksgiving Placemat](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/placemat-CI.pdf)
-
-[Small Thanksgiving Placemat](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/ci-small-placemat.pdf)

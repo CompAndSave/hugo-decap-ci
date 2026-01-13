@@ -34,7 +34,4 @@ You can take the printout of the plain outline (for coloring) or you can printou
 
 Put up these cute and whimsical ornaments anywhere in the home or the Christmas tree; you can even use these décor items for the exterior of the house, the windows and doors! You can use the little labels for gifts, treats and even for indicating where your guests can be seated at the Christmas table.
 
-**Download Here:**
-[Printable Christmas Decorations](https://www.comboink.com/blog/wp-content.htmlthemes/comboink/files/xmas-printable-ornament.pdf)
-
 For more creative and festive ways to get a good use out of your printer and ink cartridges, [subscribe to our mailing list](https://www.comboink.com/coupon) and [follow us on Facebook](https://www.facebook.com/comboink).
