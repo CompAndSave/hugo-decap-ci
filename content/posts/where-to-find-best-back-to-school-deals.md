@@ -10,9 +10,9 @@ tags: [Back to School,ComboInk.com]
 
 As a new school year approaches, now is the time for some back to school shopping- buying things like stationery, books, electronics, new clothes, dorm room stuff and so on. All of this can tot up to quite a large outlay unless you know where to do your shopping. Luckily for all of us, many online stores are currently offering great deals to help you save on back to school shopping, either because of the tax holidays offered by the government or as a marketing strategy. Check out these back to school deals from some of the most popular stores:
 
-### [![](/blog/images/girl.jpg)](/blog/images/girl.jpg)Deals from Staples
+### [![a little girl wearing glasses](/blog/images/girl.jpg)](/blog/images/girl.jpg)Deals from Staples
 
-Staples is offering a variety of items at $1 and less – pencils, notebooks, cards and more. The store also offers great deals on pen drives, external hard drives, earphones, calculators, tablets, bags, furniture and more. Check out the **[Back to School Center](http://www.staples.com/back-to-school-center/cat%5FBI783896?icid=BTS:TOPHAT:LPB:BTSCENTER::PROMO:20140629:1)** section on the website to view the deals.
+Staples is offering a variety of items at $1 and less – pencils, notebooks, cards and more. The store also offers great deals on pen drives, external hard drives, earphones, calculators, tablets, bags, furniture and more. Check out the **Back to School Center** section on the website to view the deals.
 
 ### Office Depot
 

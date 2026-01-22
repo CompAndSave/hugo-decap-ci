@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: [New Year,Technology]
 ---
 
-[![](/blog/images/tablet-2.jpg)](/blog/images/tablet-2.jpg)
+[![Tablet](/blog/images/tablet-2.jpg)](/blog/images/tablet-2.jpg)
 
 The technology available to consumers today is outstanding. Not just the amount, but the capabilities they have continue to increase. In this age of technology, it is important that your business not only keep up with trends, but try to stay ahead of them to remain competitive. Below, we've come up with a list of 5 trends to watch this year so you can stay ahead of the curve.
 

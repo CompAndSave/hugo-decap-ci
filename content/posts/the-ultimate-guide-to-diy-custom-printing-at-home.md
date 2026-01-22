@@ -9,7 +9,7 @@ tags:
   - Custom Printing
   - printer cartridges
 ---
-[![](/blog/images/ciblog.jpg)](/blog/images/ciblog.jpg)
+[![DIY custom printing at home](/blog/images/ciblog.jpg)](/blog/images/ciblog.jpg)
 
 If you've been putting your home printer through its paces, good for you! You probably know what a clever little gadget it is, and how very useful it can be! But if your printer is only occasionally used to print out a receipt here or maybe a letter there, you might not have discovered its full potential just yet. There are so many DIY custom printing projects you can accomplish using nothing but your trusty printer. Not only can you make yourself truly personalized stationery, invites and so on, you can create custom printed fabrics and t-shirts, wall décor, and even create DIY screen printing effects! Here are some ideas and some inspiration to help you get started:
 

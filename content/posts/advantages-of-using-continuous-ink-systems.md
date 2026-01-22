@@ -9,7 +9,7 @@ tags:
   - ciss
   - continuous ink systems
 ---
-[![](/blog/images/ip1980wciss.gif)](/blog/images/ip1980wciss.gif)
+[![Canon printer](/blog/images/ip1980wciss.gif)](/blog/images/ip1980wciss.gif)
 
 The best way to save money is to decrease the amount of cash you spend on ink cartridges. If a person prints a lot, the total bill can go up to thousands of dollars a year. A great way to save on hard-earned money is by Continuous Ink Flow System.
 

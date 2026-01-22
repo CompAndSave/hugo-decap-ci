@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: [Compatible ink and Toner Cartridge,heart health,American Heart Month,heart disease,ComboInk]
 ---
 
-[![](/blog/images/7K0A0259.JPG)](/blog/images/7K0A0259.JPG)Every February, we observe American Heart Month to raise awareness of heart disease in men and women across the United States. Statistically, [1 in 4 deaths are caused by heart disease.](http://healthfinder.gov/nho/februarytoolkit.aspx) However, there are some pretty simple changes you can make in your everyday life to significantly reduce your risk of becoming a victim! Leading a heart healthy life is important for not only you, but for those dear to you as well. Here are 6 easy ways to increase your heart health through everyday activities.
+[![Woman thinking of something](/blog/images/7K0A0259.JPG)](/blog/images/7K0A0259.JPG)Every February, we observe American Heart Month to raise awareness of heart disease in men and women across the United States. Statistically, [1 in 4 deaths are caused by heart disease.](http://healthfinder.gov/nho/februarytoolkit.aspx) However, there are some pretty simple changes you can make in your everyday life to significantly reduce your risk of becoming a victim! Leading a heart healthy life is important for not only you, but for those dear to you as well. Here are 6 easy ways to increase your heart health through everyday activities.
 
 #### Know The Signs
 

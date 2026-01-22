@@ -10,8 +10,8 @@ tags:
   - High Quality Photo Printouts
   - photo paper
 ---
-[![](/blog/images/canon-printer.jpg)](/blog/images/canon-printer.jpg)Taking pictures is a great way to save and share memories. But what happens after you take the\
-picture? Today, it is more common to share it online or save it to your computer rather than print them out. But printing out pictures is a great way to keep those memories you cherish on display at all times. So what's the trick to getting quality, affordable prints? You can start out by making sure you have the right supplies!  
+[![Canon printer](/blog/images/canon-printer.jpg)](/blog/images/canon-printer.jpg)Taking pictures is a great way to save and share memories. But what happens after you take the\
+picture? Today, it is more common to share it online or save it to your computer rather than print them out. But printing out pictures is a great way to keep those memories you cherish on display at all times. So what's the trick to getting quality, affordable prints? You can start out by making sure you have the right supplies!
 
 ### Choosing A Printer
 
@@ -29,11 +29,11 @@ Epson SureColor P600
 
 Next, you want to make sure you are printing on the right kind of [photo paper](https://www.comboink.com/paper). There are several types you can choose from, so here's a rundown of each type and it's purpose:
 
-**[Glossy](https://www.comboink.com/paper/photo-paper/glossy-photo-paper)**- The most widely used type of paper which ranges in degrees of glossiness. Common for printing photos, the glossy shine helps small details pop out. However, the gloss may create glares from some viewpoints. 
+**[Glossy](https://www.comboink.com/paper/photo-paper/glossy-photo-paper)**- The most widely used type of paper which ranges in degrees of glossiness. Common for printing photos, the glossy shine helps small details pop out. However, the gloss may create glares from some viewpoints.
 
 **[Matte](https://www.comboink.com/paper/photo-paper/matte-photo-paper)**- Matte is not glossy and a cheaper option. Commonly used to print large quantities for flyers, large quantities of marketing collateral or in black and white.
 
-**[Lustre](https://www.comboink.com/paper/photo-paper/lustre-photo-paper)**- Has a satin finish with a textured feel. Produces more professional prints. 
+**[Lustre](https://www.comboink.com/paper/photo-paper/lustre-photo-paper)**- Has a satin finish with a textured feel. Produces more professional prints.
 
 **[Canvas](https://www.comboink.com/paper/photo-paper/canvas-photo-paper)**- A heavy weight paper with a coated, textured surface that replicates the feel of a canvas. Because it produces long lasting prints, canvas paper is most commonly used with paintings.
 

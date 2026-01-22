@@ -22,11 +22,11 @@ Quite simply, the greeting/invite that you hold in your hand is that much more a
 
 #### DIY invitations and greeting cards – best of both worlds
 
-| [![](https://www.creativebug.com/pimage/dynamic/tutorial-image-thumbnail~storage/public/images/tutorial_thumbnails/original/879/images/zi9oxukmgfvvwr2iuqbg.jpg)](https://www.creativebug.com/classseries/single/how-to-make-watercolor-holiday-cards) |
+| [![Greeting cards](https://www.creativebug.com/pimage/dynamic/tutorial-image-thumbnail~storage/public/images/tutorial_thumbnails/original/879/images/zi9oxukmgfvvwr2iuqbg.jpg)](https://www.creativebug.com/classseries/single/how-to-make-watercolor-holiday-cards) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Image via [CreativeBug](https://www.creativebug.com/classseries/single/how-to-make-watercolor-holiday-cards)                                                                                                                                           |
 
-While digital invites and greetings have their limitations, store bought cards have their own drawbacks: they are generic and impersonal as well. Also they can cost you a lot of money. The best option could be homemade, DIY cards: truly exclusive and as personal as you want them to be!  
+While digital invites and greetings have their limitations, store bought cards have their own drawbacks: they are generic and impersonal as well. Also they can cost you a lot of money. The best option could be homemade, DIY cards: truly exclusive and as personal as you want them to be!
 Write your own wording, use lines from a favorite poem or inspirational speech, use pictures of your own family or images that have a special meaning for you or the receiver. Have fun experimenting with fonts, layouts, color schemes, filters and designs. Then take your printout using your trusty home printer and paper/card of your choice (you can even print out the addresses to save yourself some of the hassle). Add some words by hand to really personalize your greeting or invite and post it off same as always!
 
 You can do this for not just for custom greeting cards but also to create invitations to weddings, parties and other events, baby shower invitations and so much more.

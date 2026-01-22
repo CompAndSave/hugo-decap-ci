@@ -14,7 +14,7 @@ tags:
   - capitals
   - signs
 ---
-[![](/blog/images/spranq_ecofont.jpg)](/blog/images/spranq_ecofont.jpg)
+[![ecofont logo](/blog/images/spranq_ecofont.jpg)](/blog/images/spranq_ecofont.jpg)
 
 If you are getting environmentally conscious these days, try eco-friendly fonts which are designed to save [ink and toner](https://www.comboink.com/). Along with recycled paper and soy inks, these fonts are purposely punctuated with holes so that they use less of printing ink. It generally enables you to use 20 percent less ink.
 
@@ -22,7 +22,7 @@ If you are getting environmentally conscious these days, try eco-friendly fonts 
 
 Eco-friendly fonts are a great leap forward as they are designed to save paper and ink. They are a saving for both your wallet and the environment. These are natural and splendid-looking organic fonts which you can use with the popular and well-known word-processing applications.
 
-Printing with environment-friendly fonts can save ink, toner, and paper. You can select any variety of fonts and print using your trusted programs. The eco-friendly fonts use less ink. Letters in the freely downloadable typeface contain multiple small circular holes. This means that each alphabet takes less ink to be printed. 
+Printing with environment-friendly fonts can save ink, toner, and paper. You can select any variety of fonts and print using your trusted programs. The eco-friendly fonts use less ink. Letters in the freely downloadable typeface contain multiple small circular holes. This means that each alphabet takes less ink to be printed.
 
 Printing ink is a highly polluting substance and very expensive, so using the eco-friendly fonts can save your printing costs to a great extent. Another advantage of using these fonts at your workplace is you are spreading environmental consciousness and cost-conscious behavior among your co-workers and employees.
 
@@ -37,11 +37,11 @@ The fonts are very striking to look at, but the typeface is completely readable.
 * Open the application on which you will be using the fonts.
 * Try the font from the directory where you have saved it.
 
-The fonts are good for business as well as personal use. Sustainable printing can be vital to your corporate social responsibility role. 
+The fonts are good for business as well as personal use. Sustainable printing can be vital to your corporate social responsibility role.
 
 **Variety Of Fonts**
 
-Eco-friendly fonts are available in a variety of styles and are very economically priced. Mentioned below are some different fonts: 
+Eco-friendly fonts are available in a variety of styles and are very economically priced. Mentioned below are some different fonts:
 
 * **Capitals**: This is a decorative font which can be used to add flourish to documents such as party invitations.
 * **Othello**: These fonts have old world styling and can used to be as decorative fonts.

@@ -34,7 +34,7 @@ If your camera doesn't have a built-in flash, you'll need to invest in one for p
 
 ### Photo Editing
 
-[Adobe's creative suite](http://www.adobe.com/products/photoshopfamily.html), particularly Adobe Photoshop CC, Adobe Photoshop Elements, and Adobe Photoshop Lightroom, is still the cream of the crop when it comes to enhancing your photos. Even if you don't have prior experience with photo editing software, you can start to easily edit and retouch your images after watching the Adobe tutorials.
+Adobe's creative suite, particularly Adobe Photoshop CC, Adobe Photoshop Elements, and Adobe Photoshop Lightroom, is still the cream of the crop when it comes to enhancing your photos. Even if you don't have prior experience with photo editing software, you can start to easily edit and retouch your images after watching the Adobe tutorials.
 
 [Corel PaintShop Pro](http://www.paintshoppro.com/en/) is a cheaper choice than Adobe although it doesn't have as many professional features. You should also consider some of the free web-based photo editors, including [Pixlr](https://pixlr.com/) and [PicMonkey](https://www.picmonkey.com/photo-editor). These tools are easy to use and allow you to apply effects, filtering, and other editing techniques.
 

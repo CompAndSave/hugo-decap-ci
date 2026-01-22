@@ -11,9 +11,9 @@ tags:
   - Toner Cartridges
   - inkjet cartridges
 ---
-[![](/blog/images/inkjet-cartridges.jpg)](/blog/images/inkjet-cartridges.jpg)
+[![Ink cartridges on shelves](/blog/images/inkjet-cartridges.jpg)](/blog/images/inkjet-cartridges.jpg)
 
-These days almost all the businesses and individuals use computers for their work. In such scenario, it becomes necessary for us to know about computer accessories and other related things to become more efficient while keeping low on costs. Same is the case with printers. When we talk about them, we have more than one option such as inkjet printer and laser printer. Inkjet printers use [ink cartridges](https://www.comboink.com/), whereas laser printers require toner cartridges. These two are very different from each other. 
+These days almost all the businesses and individuals use computers for their work. In such scenario, it becomes necessary for us to know about computer accessories and other related things to become more efficient while keeping low on costs. Same is the case with printers. When we talk about them, we have more than one option such as inkjet printer and laser printer. Inkjet printers use [ink cartridges](https://www.comboink.com/), whereas laser printers require toner cartridges. These two are very different from each other.
 
 An inkjet cartridge contains liquid ink that is available in four colors including black, blue (cyan), yellow, and magenta (red). The cartridge can have one or more chambers that store ink in sponge and disperse it through holes. A laser toner is fine carbon-based powder mixed with a polymer that is stored in a "hopper" chamber.
 
@@ -21,7 +21,7 @@ In an inkjet printer, ink is injected into an access hole through a syringe bott
 
 An inkjet printer sprays ink on to the paper and can print high-quality graphics. In a laser printer, toner sticks to the surface of paper in a particular pattern and creates the texts and images on it.
 
-The choice of cartridges depends on the model of your printer and your personal needs. Both inkjet and [toner cartridges](https://www.comboink.com/) have their own advantages and disadvantages. They are completely different from each other and a little knowledge about them can help you make the right choice. 
+The choice of cartridges depends on the model of your printer and your personal needs. Both inkjet and [toner cartridges](https://www.comboink.com/) have their own advantages and disadvantages. They are completely different from each other and a little knowledge about them can help you make the right choice.
 
 **Advantages of Inkjet Cartridges**
 

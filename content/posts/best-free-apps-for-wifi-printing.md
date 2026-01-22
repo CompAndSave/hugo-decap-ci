@@ -20,7 +20,7 @@ tags:
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Via [GadgetsIn.com](http://gadgetsin.com/the-app-controlled-wireless-fujifilm-instax-printer.htm)                                                                                                                                  |
 
-All of us come equipped with the latest in gadgets these days – our smart phone, tablets and other handheld devices are really, really clever and are capable of much more than you may be aware of. Whether you have an Apple device that uses the Mac operating system or you have a device that bases itself on the Android platform, you can download and use some amazing apps for free; these are apps which help you utilize your phone in ways you never even imagined! 
+All of us come equipped with the latest in gadgets these days – our smart phone, tablets and other handheld devices are really, really clever and are capable of much more than you may be aware of. Whether you have an Apple device that uses the Mac operating system or you have a device that bases itself on the Android platform, you can download and use some amazing apps for free; these are apps which help you utilize your phone in ways you never even imagined!
 
 Printing things wirelessly from your phone or tablet can make life a lot easier. Obviously you do need to have a Wi-Fi (wireless) enabled printer, which receives radio (rather like Bluetooth) to start printing. In other words your printer should have a Wi-Fi transceiver built into it. You would have to install the printer to the network so that your phone or tablet can locate the printer. Once your device is connected, it can send print jobs to the printer. Today we look at some free apps to get you started on Wi-Fi printing.
 
@@ -38,14 +38,11 @@ Printing things wirelessly from your phone or tablet can make life a lot easier.
 
 #### Top 5 Wi-Fi printing apps for Apple devices
 
-| [![](/blog/images/screen320x480.jpeg)](/blog/images/screen320x480.jpeg)       |
+| [![Photo editing](/blog/images/screen320x480.jpeg)](/blog/images/screen320x480.jpeg)       |
 | ----------------------------------------------------------------------------- |
-| Via [KODAK](https://itunes.apple.com/us/app/kodak-pic-flick/id336104814?mt=8) |
+| Via KODAK |
 
-1. **[Print Direct ](https://itunes.apple.com/us/app/printdirect-pdf-print-documents/id425652042?mt=8)**is a free iTunes app that prints photos, documents, web pages, emails, attachments, calendars, contracts, could server files and more. It can print to any printer and needs no additional software.
+1. **[Print Direct](https://itunes.apple.com/us/app/printdirect-pdf-print-documents/id425652042?mt=8)**is a free iTunes app that prints photos, documents, web pages, emails, attachments, calendars, contracts, could server files and more. It can print to any printer and needs no additional software.
 2. **[Brother iPrint&Scan](https://itunes.apple.com/CA/app/id382775642?mt=8)** – This free app lets you print from and scan to your iOS device using your local wireless network to connect to a Brother printer or an all in one. You can print from anywhere using a Google account and a remote print function. An easy to use menu lets you print power points, text, word, excel, PDFs, images directly from your iphone camera and more.
-3. **[Print Agent Lite ](https://itunes.apple.com/CA/app/id542649006?mt=8)**is another free i app that works with any printer you've tested before. This app is an iOS 7 compatible version and is also print engine improved.
-4. **[The Canon Easy-PhotoPrint](https://itunes.apple.com/us/app/canon-easy-photoprint/id331269951?mt=8)** is a free app available from iTunes, allows you to easily and wirelessly print photos from an iPad, iPhone and iPod touch to a compatible Canon PIXMA printer or a Canon compact photo printer.
-5. **[KODAK Pic Flick ](https://itunes.apple.com/gb/app/kodak-pic-flick/id336104814?mt=8)**lets you access your photos, edit them, and send them over a Wi-Fi connection to any supported KODAK All-In-One Printer. You can also do the same for a Digital photo frame. The app also lets you access and print your photos, and your friend's photos on Facebook and so on.
 
 Do you use your handheld Android or Apple device to print wirelessly? If so what is your favorite app and what are some of your experiences with these. We'd love to hear from you in the comments below. And if you like hearing from us and reading our posts, do [subscribe to our newsletter](https://www.comboink.com/coupon). You can also ‘like' is on [Facebook](https://www.facebook.com/comboink) to know about the best printer cartridge deals, free gift offers and more.

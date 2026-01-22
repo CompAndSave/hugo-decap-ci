@@ -12,7 +12,7 @@ It is back to school time and parents are stocking up on all the necessary schoo
 
 ### The ComboInk Back-to-School Promotion
 
-[![](/blog/images/facebook-banner.jpg)](https://www.comboink.com/expired-deals)
+[![Facebook Banner](/blog/images/facebook-banner.jpg)](https://www.comboink.com/expired-deals)
 
 Did you know it's possible to [**save up to 80%** on your ink cartridge](https://www.comboink.com/) needs when you use compatible inks, toners and cartridges when compared to brand name products? You can compare prices to see how much you end up saving on ink cartridges. This translates into massive savings for your back to school purchases while at the same time offering the same high quality results, durability, reliability and after sales service that you would expect from brand name cartridges.
 

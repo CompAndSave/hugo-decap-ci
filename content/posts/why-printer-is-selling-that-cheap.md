@@ -9,7 +9,7 @@ tags:
   - cheap printer
   - printer manufacturers
 ---
-[![](/blog/images/cheap-printer.jpg)](/blog/images/cheap-printer.jpg)
+[![new lower price sign](/blog/images/cheap-printer.jpg)](/blog/images/cheap-printer.jpg)
 
 Most manufacturers do not earn profit from printers, but they earn it from cartridges. They successfully cash in on the consumer psychology. They count on the user to play safe and pay top dollar for their trusty brand name ink jet cartridge. Most of the consumer-based industries use this marketing tactic. The original instrument is sold at cost price or some times even lower and the profits are made only in the aftermarket.
 

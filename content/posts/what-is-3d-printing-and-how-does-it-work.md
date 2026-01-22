@@ -12,7 +12,7 @@ The entire concept of a 3D Printer seems rather like something you would see in 
 
 The applications of 3D printing are many: data visualization, product development, rapid prototyping, and specialized manufacturing. These can be applied in various spaces such as architecture & industrial design, healthcare, entertainment, construction, education, fashion, jewelry, geographic information systems and more. But how does something like this even work?
 
-### [![](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)How did the concept of 3D printers come about?
+### [![3D printer](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)How did the concept of 3D printers come about?
 
 It was way back in 1984 that a fledgling 3D printing concept was visualized by Chuck Hull of 3D Systems Corp: a process called stereo-lithography was developed using UV lasers and photopolymers. It was in the 1990's that the term 3D printing was first used when MIT developed a process where inkjet deposition of liquid binder on powder was employed.
 

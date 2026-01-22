@@ -12,7 +12,7 @@ You could be relocating to a new city or residential area, or there may be acade
 
 The idea of leaving friends, favorite teachers, a familiar environment and a comfortable set of rules can be very intimidating for a child. It's possible that they feel a great sense of loss and despair at the thought of leaving their school to join a new one. However, you as a parent can help smooth this process by using some of these pointers:
 
-### [![](/blog/images/newscool.jpg)](/blog/images/newscool.jpg)Explain the situation
+### Explain the situation
 
 Sit your child down and talk to them. Really talk to them and explain the necessity for the move. There could be a change in economic circumstances, professional compulsions or exigencies of a relationship that require this change. Decide beforehand how much you want to reveal and how much your child will be able to grasp for his or her age and level of maturity.
 

@@ -26,7 +26,7 @@ So you can see the object literally taking shape right in front of you in minute
 
 ## What 3D printers Can Do Right Now
 
-| [![](/blog/images/china-winsun-3d-printed-villa-six-floor-building-3d-printing-3ders-22.JPG)](/blog/images/china-winsun-3d-printed-villa-six-floor-building-3d-printing-3ders-22.JPG) |
+| [![3D printed villa in China](/blog/images/china-winsun-3d-printed-villa-six-floor-building-3d-printing-3ders-22.JPG)](/blog/images/china-winsun-3d-printed-villa-six-floor-building-3d-printing-3ders-22.JPG) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3D Printed Apartment Building (Image via [3ders](http://www.3ders.org/articles/20150118-winsun-builds-world-first-3d-printed-villa-and-tallest-3d-printed-building-in-china.html))    |
 

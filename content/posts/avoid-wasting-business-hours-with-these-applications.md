@@ -10,7 +10,7 @@ tags:
   - free apps
   - mobile apps
 ---
-[![](/blog/images/archive/2016/05/app-store-icon-1-300x300.png)](/blog/images/archive/2016/05/app-store-icon-1-300x300.png)
+[![App store icon](/blog/images/archive/2016/05/app-store-icon-1-300x300.png)](/blog/images/archive/2016/05/app-store-icon-1-300x300.png)
 
 Running a business is no easy task. It can take a lot of time, dedication and perhaps most importantly, organization to achieve success. With so much to do, it could be overwhelming without a little help. Check out these free apps that can help you collaborate easily with co-workers, free up some time and keep track of how you spend your time.
 
@@ -28,10 +28,10 @@ It's easy to get wrapped up in one project at work, only to realize you put off 
 
 ### Reach Your Employees
 
-Being able to openly communicate with your employees, no matter where they may be, is key to business success. Applications such as [GoToMeeting](https://www.gotomeeting.com/conferencing/sem?c%5Fname=gget-d-c&c%5Fmark=NAPPC&c%5Fprod=GTM&c%5Fkwd=go%5Fto%5Fmeeting-Exact&c%5Fcmp=sf-70150000000adcs&c%5Fdate=CAT1&c%5Fcell=Cj0KEQjwrte4BRD-oYi3y5%5FAhZ4BEiQAzIFxnzwQMSH9GJBk3mwqG7nRaXVRcCd--h1Bmxk1e9k09EIaAujr8P8HAQ&gclid=Cj0KEQjwrte4BRD-oYi3y5%5FAhZ4BEiQAzIFxnzwQMSH9GJBk3mwqG7nRaXVRcCd--h1Bmxk1e9k09EIaAujr8P8HAQ&gclsrc=aw.ds) give you a platform to join, host, or schedule a meeting through video conferencing. You can also share and view documents and collaborate in real-time with the whiteboard and highlighter features. 
+Being able to openly communicate with your employees, no matter where they may be, is key to business success. Applications such as [GoToMeeting](https://www.gotomeeting.com/conferencing/sem?c%5Fname=gget-d-c&c%5Fmark=NAPPC&c%5Fprod=GTM&c%5Fkwd=go%5Fto%5Fmeeting-Exact&c%5Fcmp=sf-70150000000adcs&c%5Fdate=CAT1&c%5Fcell=Cj0KEQjwrte4BRD-oYi3y5%5FAhZ4BEiQAzIFxnzwQMSH9GJBk3mwqG7nRaXVRcCd--h1Bmxk1e9k09EIaAujr8P8HAQ&gclid=Cj0KEQjwrte4BRD-oYi3y5%5FAhZ4BEiQAzIFxnzwQMSH9GJBk3mwqG7nRaXVRcCd--h1Bmxk1e9k09EIaAujr8P8HAQ&gclsrc=aw.ds) give you a platform to join, host, or schedule a meeting through video conferencing. You can also share and view documents and collaborate in real-time with the whiteboard and highlighter features.
 
 ### Update Your Online Presence
 
-Your online social presence is a vital part of your business. Regular, smart posts can increase follower volume and engagement, therefore making your brand more recognizable. To ensure you are posting regularly, use an app like [Buffer](https://buffer.com/) to schedule posts for every social media channel in one platform. 
+Your online social presence is a vital part of your business. Regular, smart posts can increase follower volume and engagement, therefore making your brand more recognizable. To ensure you are posting regularly, use an app like [Buffer](https://buffer.com/) to schedule posts for every social media channel in one platform.
 
 *If you liked this post, be sure to tell us about it. To keep track of future interesting posts like this one, [subscribe to our newsletter](https://www.comboink.com/coupon). To find the best ink and toner cartridge deals, like us on [Facebook](https://www.facebook.com/comboink/) or check out the [best printer cartridge deals](https://www.comboink.com/coupon) currently available.*

@@ -24,7 +24,7 @@ Sometimes, the fix is as easy as running the self-cleaning program from you prin
 
 _Note: Specific functions may vary among printer models, for further instruction, please refer to your printer manual. Don't have a manual? Not to worry! You can find an online manual for your printer right here:<https://archive.org/details/printer-manuals>_
 
-| [![](/blog/images/c03718230.gif)](/blog/images/c03718230.gif) |
+| [![Printhead and Ink Cartridge Replacement Instructions](/blog/images/c03718230.gif)](/blog/images/c03718230.gif) |
 | ------------------------------------------------------------- |
 | Image source: support.hp.com                                  |
 

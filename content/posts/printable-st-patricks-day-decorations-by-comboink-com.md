@@ -10,7 +10,7 @@ tags: [Office Decorations for St. Patrick's Day,St. Patrick's Day Decorations]
 
 Since our DIY printables have become so popular with our customers and blog visitors, we're doing a little something for **St. Patrick's Day (17th March)** as well. Whether or not you plan to be a part of the parade this year, you can still observe St. Paddy's Day in the office by bringing a little bit of that Irish good luck to your place of work – and it can be another great way for people in office to have fun and bond with your co-workers.
 
-[![](/blog/images/3.jpg)](/blog/images/3.jpg)
+[![St. Patrick's green hat](/blog/images/3.jpg)](/blog/images/3.jpg)
 
 **So here's what you will need:**
 
