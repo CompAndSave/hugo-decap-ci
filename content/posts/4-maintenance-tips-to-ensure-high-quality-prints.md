@@ -8,7 +8,7 @@ authors: Katy Smith
 tags: [ComboInk.com,Remanufactured Cartridges,Technology,inkjet cartridges installation,Printer Maintenance,inkjet printer]
 ---
 
-If there's one thing more frustrating than running out of ink at the most inconvenient time, it's having the ink and STILL not being able to print. There are a few reasons as to why your printer may be producing sub par pages. When you see the paper is skipping, banding or producing no print at all, it is likely that your [ink cartridge](https://www.comboink.com/blog/where-printers-printer-cartridges-are-headed-in-the-next-decade.html) is clogged, blocked or dried up. Although situations like this can cause some project delays, there are some relatively easy fixes. Here are a few tips for getting your printer to start producing high-quality prints again:
+If there's one thing more frustrating than running out of ink at the most inconvenient time, it's having the ink and STILL not being able to print. There are a few reasons as to why your printer may be producing sub par pages. When you see the paper is skipping, banding or producing no print at all, it is likely that your [ink cartridge](https://www.comboink.com/blog/posts/where-printers-printer-cartridges-are-headed-in-the-next-decade.html) is clogged, blocked or dried up. Although situations like this can cause some project delays, there are some relatively easy fixes. Here are a few tips for getting your printer to start producing high-quality prints again:
 
 ### 1\. Try running a self-cleaning program on your printer:
 
@@ -28,7 +28,7 @@ _Note: Specific functions may vary among printer models, for further instruction
 | ------------------------------------------------------------- |
 | Image source: support.hp.com                                  |
 
-If you have ran the self-cleaning program multiple times and the print quality is still unsatisfactory, you may have a clogged or blocked [printhead](https://www.comboink.com/blog/clean-your-printers-printhead-in-seconds.html) (the part that actually applies the ink onto the paper). Printer models vary and some ink cartridges and printheads are separate, whereas some come as a single unit.
+If you have ran the self-cleaning program multiple times and the print quality is still unsatisfactory, you may have a clogged or blocked [printhead](https://www.comboink.com/blog/posts/clean-your-printers-printhead-in-seconds.html) (the part that actually applies the ink onto the paper). Printer models vary and some ink cartridges and printheads are separate, whereas some come as a single unit.
 
 ### 2\. When your printhead is in the printer:
 
@@ -93,7 +93,7 @@ To keep your printer working properly, keep these regular maintenance tips in mi
 
 For further assistance, check out these tutorials:
 
-<https://www.comboink.com/blog/clean-your-printers-printhead-in-seconds.html>
+<https://www.comboink.com/blog/posts/clean-your-printers-printhead-in-seconds.html>
 
 <http://www.wikihow.com/Clean-Print-Heads>
 

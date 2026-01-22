@@ -46,6 +46,6 @@ This problem is usually an easy fix once you remove any paper still jammed in th
 
 ### High Ink Costs
 
-Brand name ink is often very expensive. You can save quite a bit of money—sometimes up to 80%—using [compatible or remanufactured cartridges](https://www.comboink.com/blog/how-remanufactured-cartridges-are-changing-the-printing-industry.html). Just because compatible cartridges and remanufactured cartridges are cheap doesn't mean that they are poor quality. These ink cartridges offer results as good as the brand name cartridges. Don't believe us? Try ordering your ink and toner from [ComboInk.com](https://www.comboink.com/) today. We even offer a One-Year Money-Back Guarantee on all of our ink cartridge products.
+Brand name ink is often very expensive. You can save quite a bit of money—sometimes up to 80%—using [compatible or remanufactured cartridges](https://www.comboink.com/blog/posts/how-remanufactured-cartridges-are-changing-the-printing-industry.html). Just because compatible cartridges and remanufactured cartridges are cheap doesn't mean that they are poor quality. These ink cartridges offer results as good as the brand name cartridges. Don't believe us? Try ordering your ink and toner from [ComboInk.com](https://www.comboink.com/) today. We even offer a One-Year Money-Back Guarantee on all of our ink cartridge products.
 
 What type of printer problem do you encounter the most? Let us know below or on Facebook and Twitter.

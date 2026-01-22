@@ -9,11 +9,11 @@ tags: [Christmas Decorations,Holiday,diy printables,Printable Christmas Decorati
 ---
 
 
-[![Christmas printables](/blog/images/snowflakedecoration.png "Snowflake decoration")](/blog/images/snowflakedecoration.png)Haven't decorated your home yet for Christmas? You're in luck because we're revisiting one of our popular posts "[Christmas Tree Ornament Printables](https://www.comboink.com/blog/christmas-decoration-printables-from-comboink-com.html)." Keep reading to see how to print your Christmas ornaments and gift tags.
+[![Christmas printables](/blog/images/snowflakedecoration.png "Snowflake decoration")](/blog/images/snowflakedecoration.png)Haven't decorated your home yet for Christmas? You're in luck because we're revisiting one of our popular posts "[Christmas Tree Ornament Printables](https://www.comboink.com/blog/posts/christmas-decoration-printables-from-comboink-com.html)." Keep reading to see how to print your Christmas ornaments and gift tags.
 
 Christmas is a time for family and togetherness. One of the ways for the family to spend quality time together is to decorate the house for the holidays. So we've created some simple but beautiful Christmas-themed printable décor items that you can use to really get into the festive spirit with your entire family.
 
-If you liked our [Free Spooky Printables for Halloween](https://www.comboink.com/blog/this-halloween-you-can-really-get-into.html) and our [Printable Placemats and Turkey Origami for Thanksgiving](https://www.comboink.com/blog/thanksgiving-themed-printable-placemats-and-origami.html), you'll love our paper cut out ornaments, Christmas tree ornaments, and gift tags and labels.
+If you liked our [Free Spooky Printables for Halloween](https://www.comboink.com/blog/posts/this-halloween-you-can-really-get-into.html) and our [Printable Placemats and Turkey Origami for Thanksgiving](https://www.comboink.com/blog/posts/thanksgiving-themed-printable-placemats-and-origami.html), you'll love our paper cut out ornaments, Christmas tree ornaments, and gift tags and labels.
 
 ## Materials for DIY Christmas Decorations
 

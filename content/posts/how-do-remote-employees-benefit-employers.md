@@ -30,7 +30,7 @@ Imagine how many applicants you would get for a job posting listed as remote. Th
 
 ### Productivity
 
-More than two-thirds of companies report improved [productivity in their remote workers](https://www.comboink.com/blog/productive-work-from-home.html). Employees cite less distractions when working from home. Also, the time normally spent commuting can be better used to prepare for the day and maximize productivity.
+More than two-thirds of companies report improved [productivity in their remote workers](https://www.comboink.com/blog/posts/productive-work-from-home.html). Employees cite less distractions when working from home. Also, the time normally spent commuting can be better used to prepare for the day and maximize productivity.
 
 ### Culture
 
@@ -42,7 +42,7 @@ Fewer people in the office means fewer lights on; fewer toilets flushed; less [p
 
 ### Green
 
-Sure, the savings above are great for your company's margins, but that's not all. By allowing employees to work from home, you cut out commutes that can pollute the air and [save energy around the office](https://www.comboink.com/blog/sustainable-green-office-tips.html).
+Sure, the savings above are great for your company's margins, but that's not all. By allowing employees to work from home, you cut out commutes that can pollute the air and [save energy around the office](https://www.comboink.com/blog/posts/sustainable-green-office-tips.html).
 
 ### 24/7
 
@@ -54,6 +54,6 @@ One more reason to have remote employees: Your company benefits and so do you! W
 
 ## Managing Remote Employees
 
-A work from home arrangement doesn't have to be all or nothing. If you aren't ready to let employees telecommute full time, you could try one day a week. You could also just implement flexibility for cases when needed: doctor's appointments, sick kids, car troubles. Test the waters and see what works best for you and your company. And if you do decide to allow employees to work from home, make sure you check out our blog post on [how to effectively manage your remote workers](https://www.comboink.com/blog/5-tips-effectively-manage-remote-employees.html). A successful work from home arrangement is built on a foundation of strong leadership, effective communication, and the right tools to foster both.
+A work from home arrangement doesn't have to be all or nothing. If you aren't ready to let employees telecommute full time, you could try one day a week. You could also just implement flexibility for cases when needed: doctor's appointments, sick kids, car troubles. Test the waters and see what works best for you and your company. And if you do decide to allow employees to work from home, make sure you check out our blog post on [how to effectively manage your remote workers](https://www.comboink.com/blog/posts/5-tips-effectively-manage-remote-employees.html). A successful work from home arrangement is built on a foundation of strong leadership, effective communication, and the right tools to foster both.
 
 _What is your telecommuting policy, and why? Tell us about it in the comments section below._

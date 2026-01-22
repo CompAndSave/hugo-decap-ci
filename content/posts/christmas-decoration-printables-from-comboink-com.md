@@ -10,7 +10,7 @@ tags: [Christmas Decorations,Printable Christmas Decorations,Printable Decoratio
 
 Christmas is a time for family and togetherness and one of the ways for the family to spend quality time together is to really get into decorating the house for the holidays. So we've created some simple but beautiful Christmas themed printable décor items that you can use to really get into the festive spirit along with the entire family.
 
-[![Christmas Ornaments and Decorations](/blog/images/moc-up.png)](/blog/images/moc-up.png)If you liked our [Free Spooky Printables for Halloween](https://www.comboink.com/blog/this-halloween-you-can-really-get-into.html) and our [Printable Placemats and Turkey Origami for Thanksgiving](https://www.comboink.com/blog/thanksgiving-themed-printable-placemats-and-origami.html), you'll love our paper cut out ornaments, Christmas tree ornaments, gift tags & labels and cute animal cutouts.
+[![Christmas Ornaments and Decorations](/blog/images/moc-up.png)](/blog/images/moc-up.png)If you liked our [Free Spooky Printables for Halloween](https://www.comboink.com/blog/posts/this-halloween-you-can-really-get-into.html) and our [Printable Placemats and Turkey Origami for Thanksgiving](https://www.comboink.com/blog/posts/thanksgiving-themed-printable-placemats-and-origami.html), you'll love our paper cut out ornaments, Christmas tree ornaments, gift tags & labels and cute animal cutouts.
 
 You can take the printout of the plain outline (for coloring) or you can printout the ready-to-put up full color Christmas decorations. Here's what you will need to create the exclusive **Christmas printables** which we have specially designed for you:
 

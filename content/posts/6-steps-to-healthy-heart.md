@@ -16,7 +16,7 @@ First off, it's important that you recognize the signs of a heart attack. Someti
 
 #### Stress Less
 
-High levels of stress are not healthy for your heart. In fact, those that are happier and focus on good things in their life have less of a chance of getting heart disease. To [decrease stress levels](https://www.comboink.com/blog/easy-ways-to-prevent-stress-at-work-lower-stroke-risk.html), make sure to check your blood pressure regularly, prioritize your most important tasks daily, don't sweat the small stuff and schedule time on a weekly basis to do things YOU enjoy.
+High levels of stress are not healthy for your heart. In fact, those that are happier and focus on good things in their life have less of a chance of getting heart disease. To [decrease stress levels](https://www.comboink.com/blog/posts/easy-ways-to-prevent-stress-at-work-lower-stroke-risk.html), make sure to check your blood pressure regularly, prioritize your most important tasks daily, don't sweat the small stuff and schedule time on a weekly basis to do things YOU enjoy.
 
 #### Sleep Better
 

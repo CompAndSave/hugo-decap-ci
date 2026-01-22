@@ -26,7 +26,7 @@ When your paycheck hits your bank account, pay your bills and put what you can i
 
 ### 4\. Use Your Skills to Pay the Bills
 
-A side hustle can help boost your bank account. Think about the skills you have, and figure out how to market them. This could be anything from freelance gigs in writing or [graphic design](https://www.comboink.com/blog/keepin-work-fresh-art-not-getting-stale-graphic-design.html), tutoring students in the subjects you're a whiz at, or walking dogs. Check out websites like [Rover](http://rover.com/), [Care](http://care.com/), Upwork, or Fiverr.
+A side hustle can help boost your bank account. Think about the skills you have, and figure out how to market them. This could be anything from freelance gigs in writing or [graphic design](https://www.comboink.com/blog/posts/keepin-work-fresh-art-not-getting-stale-graphic-design.html), tutoring students in the subjects you're a whiz at, or walking dogs. Check out websites like [Rover](http://rover.com/), [Care](http://care.com/), Upwork, or Fiverr.
 
 ### 5\. Take Advantage of Discounts and Coupons
 

@@ -8,7 +8,7 @@ authors: Andrew Yeung
 tags: [Chinese New Year Printables,Printable Chinese Lanterns,Year of the Horse]
 ---
 
-As always, [ComboInk](https://www.comboink.com/) bring you good cheer and a simple fun way to enter into the festivities for the upcoming Chinese New Year. As with our free printables for [Christmas](https://www.comboink.com/blog/christmas-decoration-printables-from-comboink-com.html) and [Halloween](https://www.comboink.com/blog/this-halloween-you-can-really-get-into.html) , we've created some beautiful Chinese Lanterns, as part of the traditional décor for Chinese New Year celebrations.
+As always, [ComboInk](https://www.comboink.com/) bring you good cheer and a simple fun way to enter into the festivities for the upcoming Chinese New Year. As with our free printables for [Christmas](https://www.comboink.com/blog/posts/christmas-decoration-printables-from-comboink-com.html) and [Halloween](https://www.comboink.com/blog/posts/this-halloween-you-can-really-get-into.html) , we've created some beautiful Chinese Lanterns, as part of the traditional décor for Chinese New Year celebrations.
 
 As many of us may know, the Chinese calendar has a 12 year cycle, with each year being dedicated to a particular animal. The upcoming year will be the Year of the Horse and this year, the Chinese New Year will begin on the 31st of January.
 

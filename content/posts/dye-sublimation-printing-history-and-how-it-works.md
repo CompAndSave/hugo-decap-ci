@@ -18,13 +18,13 @@ Dye sublimation printing requires [heat to transfer dye onto paper](https://www.
 
 The earliest evidence of this printing method traces back to 1957 in France. Noël de Plasse developed the method of printing for Sublistatis SA when he observed that dyes sublimate. The mass production of transfer papers used with the ribbons grew rapidly in the 1960s to the mid-1970s.
 
-The Jet Propulsion Lab in the United States later invented the first ever computer printing machine that used the dye sublimation method. Wes Hoekstra led this project and became known as the father of computer image sublimation. Later works of Hoekstra include [toner ](https://www.comboink.com/blog/difference-between-toner-and-inkjet-cartridges.html)sublimation, but his continuous development of the then popular method led to millions and then billions of transfer papers sold to the public.
+The Jet Propulsion Lab in the United States later invented the first ever computer printing machine that used the dye sublimation method. Wes Hoekstra led this project and became known as the father of computer image sublimation. Later works of Hoekstra include [toner ](https://www.comboink.com/blog/posts/difference-between-toner-and-inkjet-cartridges.html)sublimation, but his continuous development of the then popular method led to millions and then billions of transfer papers sold to the public.
 
 ## How It Works
 
 Most dye-sublimation printers go through the same process. Unlike inkjet printers that put individual dots per color on paper, this produces a much more photo-realistic output. It takes a roll of transparent film then makes it go through a series of colored cellophane: red, blue, yellow, and gray.
 
-The output of the printer occurs after the print head heats up. It passes over the transparent film which causes the vaporization of the dyes applied instantaneously on the film. When turned into their solid form, they appear glossy and without the individual dots that [inkjet ](https://www.comboink.com/blog/buy-inkjet-cartridges.html)printers produce.
+The output of the printer occurs after the print head heats up. It passes over the transparent film which causes the vaporization of the dyes applied instantaneously on the film. When turned into their solid form, they appear glossy and without the individual dots that [inkjet ](https://www.comboink.com/blog/posts/buy-inkjet-cartridges.html)printers produce.
 
 ## Uses
 

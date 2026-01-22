@@ -37,5 +37,3 @@ Dawson was born without any fingers on his left hand. He had problems holding a 
 Taking a moment to remember our brave soldiers this Memorial Day (May 25th, 2015) lets envisage the possibilities and the hope that 3D printing technology holds out for men and women in active combat as well as veterans. Those who have lost a limb or suffered disfigurement (as in the case of an IED blast) can hope to regain mobility and that lost sense of self worth!
 
 The possibilities of affordable prosthetic arms or legs, perhaps a reconstructed jaw or a face transplant with the help of 3D printing… perhaps our readers would like to contribute some more ideas?
-
-Further reading – [Fox Business](http://www.foxbusiness.com/technology/2015/03/31/3d-print-technology-providing-cheap-lightweight-robohand-to-7-year-old/), [NY Times](http://www.nytimes.com/2015/02/17/science/hand-of-a-superhero.html?%5Fr=0)

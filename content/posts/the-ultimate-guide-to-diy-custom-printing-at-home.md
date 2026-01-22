@@ -17,7 +17,7 @@ If you've been putting your home printer through its paces, good for you! You pr
 
 You're probably using your printer to do this already: printing invites to special occasions, printing personalized greetings, gift tags and even the occasional special photo which you may want to frame or put up on the wall or fridge. But did you know you can also custom print these:
 
-* Custom t shirts such as these[ Valentine Day shirts](https://www.comboink.com/blog/diy-t-shirt-designs-for-valentines-day-what-valentines-day.html) – ideas and printing tips. These are bound to give you some fun ideas for the next time you have to think up some ideas for that special day
+* Custom t shirts such as these[ Valentine Day shirts](https://www.comboink.com/blog/posts/diy-t-shirt-designs-for-valentines-day-what-valentines-day.html) – ideas and printing tips. These are bound to give you some fun ideas for the next time you have to think up some ideas for that special day
 * Then there is wall art! You can get really creative here with family photos, wall collages, photos broken up and pieced together like jigsaw pieces, classic art prints, inspirational quotes, still life…. Truly the possibilities are endless!
 * You can also print out some fun party props – banners, paper napkins, cardboard cutouts, bingo cards or dart boards for games, coasters, table placement cards and anything else that your imagination can come up with.
 

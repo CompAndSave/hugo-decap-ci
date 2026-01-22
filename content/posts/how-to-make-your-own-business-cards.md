@@ -10,7 +10,7 @@ tags: [diy business cards,marketing,printer cartridges,Printer Ink,Printing proj
 
 ![make your own business cards](/blog/images/business-card.png "custom business card ")
 
-As we explained earlier this year, it's easier than ever to [create your own marketing materials](https://www.comboink.com/blog/create-your-own-marketing-materials.html). And that includes DIY business cards. You don't need to outsource this essential business collateral. When you make your own business cards, you have control over card stock thickness, font, colors, and design. All you need is a printer, [discount printer cartridges](https://www.comboink.com/), your preferred paper, software, and little creativity. Let's get started!
+As we explained earlier this year, it's easier than ever to [create your own marketing materials](https://www.comboink.com/blog/posts/create-your-own-marketing-materials.html). And that includes DIY business cards. You don't need to outsource this essential business collateral. When you make your own business cards, you have control over card stock thickness, font, colors, and design. All you need is a printer, [discount printer cartridges](https://www.comboink.com/), your preferred paper, software, and little creativity. Let's get started!
 
 ## Step-by-Step Instructions for Making Your Own Business Cards
 
@@ -40,7 +40,7 @@ You could also use everyday software, such as Microsoft Word, to make your own b
 
 You should really use firm card stock paper so your business card doesn't turn out too flimsy. We recommend 12 pt (260 gsm) or 14 pt (310 gsm) card stock for an optimal business card.
 
-If you buy pre-cut sized paper, you'll have to print one card at a time. Try the helpful tips [here](https://www.comboink.com/blog/printing-your-business-cards-at-home.html)for printing cards one by one.
+If you buy pre-cut sized paper, you'll have to print one card at a time. Try the helpful tips [here](https://www.comboink.com/blog/posts/printing-your-business-cards-at-home.html)for printing cards one by one.
 
 Using a whole sheet for printing business cards is usually more economical.
 

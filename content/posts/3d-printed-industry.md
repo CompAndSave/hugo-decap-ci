@@ -25,11 +25,11 @@ The shipment of vehicle parts around the world could become archaic in the near 
 
 Since the 1990s, BMW has used 3D printing to make components for the Rolls-Royce Phantom. Volkswagen has also benefited from 3D printing for the rapid prototyping of parts.
 
-More automakers are now using [3D printing in customized components and spare parts](http://www.businessinsider.com/r-daimler-trucks-to-use-3d-printing-in-spare-parts-production-2016-7). In September, Daimler Trucks is expanding its use of 3D printing processes to produce plastic spare parts, including spring caps, air and cable ducts, clamps, mountings, and control elements. Starting in October, Audi will use 3D printers to make steel tools. And by the end of 2016, Audi will open a 3D competence center to produce components made from steel and aluminum.
+More automakers are now using 3D printing in customized components and spare parts. In September, Daimler Trucks is expanding its use of 3D printing processes to produce plastic spare parts, including spring caps, air and cable ducts, clamps, mountings, and control elements. Starting in October, Audi will use 3D printers to make steel tools. And by the end of 2016, Audi will open a 3D competence center to produce components made from steel and aluminum.
 
 ### Expansion of 3D Printing in Industrial and Medical Applications
 
-Other sectors, particularly the aerospace and [medical industries](https://www.comboink.com/blog/3d-printed-prosthetics-exceptional-affordable.html), continue to drive growth in 3D printing.
+Other sectors, particularly the aerospace and [medical industries](https://www.comboink.com/blog/posts/3d-printed-prosthetics-exceptional-affordable.html), continue to drive growth in 3D printing.
 
 Catherine Wood, the founder, CEO, and CIO of ARK Invest, explains, "ARK's research shows that the 3D printing industry has one of the highest growth projections in the economy. As the technology evolves and costs continue to decline, the 3D printing industry has the potential to steal market share from traditional manufacturing and transform every sector of the economy."
 

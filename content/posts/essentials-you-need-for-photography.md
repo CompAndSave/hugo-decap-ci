@@ -40,7 +40,7 @@ If your camera doesn't have a built-in flash, you'll need to invest in one for p
 
 ### Photo Paper
 
-[![Glossy Photo Paper](/blog/images/PH-4x6-GLOSSY-20PK-2.jpg "Premium Glossy Inkjet Photo Paper ")](/blog/images/PH-4x6-GLOSSY-20PK-2.jpg)So now that you've taken and edited your photo, it's time to choose the right [photo paper for printing](https://www.comboink.com/blog/photo-printing-guide-for-professional-prints.html). You need a high-quality, heavy-weighted paper designed specifically for photos. Pick a resin-coated paper, which is water resistant and resists scratches.
+[![Glossy Photo Paper](/blog/images/PH-4x6-GLOSSY-20PK-2.jpg "Premium Glossy Inkjet Photo Paper ")](/blog/images/PH-4x6-GLOSSY-20PK-2.jpg)So now that you've taken and edited your photo, it's time to choose the right [photo paper for printing](https://www.comboink.com/blog/posts/photo-printing-guide-for-professional-prints.html). You need a high-quality, heavy-weighted paper designed specifically for photos. Pick a resin-coated paper, which is water resistant and resists scratches.
 
 [Glossy photo paper](https://www.comboink.com/paper/photo-paper/glossy-photo-paper) offers a bright, detailed appearance while [matte photo paper](https://www.comboink.com/paper/photo-paper/matte-photo-paper) provides a smudge-free, non-reflective finish. If you're looking for a color-saturated, somewhat glossy finish with fingerprint resistance, then try [luster photo paper](https://www.comboink.com/paper/photo-paper/lustre-photo-paper). Often used in fine art reproduction, [canvas photo paper](https://www.comboink.com/paper/photo-paper/canvas-photo-paper) is a good selection if you'd like to frame your photo.
 
