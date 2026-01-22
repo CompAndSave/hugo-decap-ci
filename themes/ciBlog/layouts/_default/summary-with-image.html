@@ -11,7 +11,7 @@
   <div class="top-detail">
     {{ partial "author.html" (dict "taxonomy" "authors" "page" .) }} | <span class="date">{{ .Date.Format .Site.Params.dateFormat }}</span>
   </div>
-  <p class="excerpt">{{ .Summary | safeHTML }}</p>
+  <p class="excerpt">{{ .Plain | truncate 250 }}</p>
   <a href="{{.RelPermalink}}" class="read-more">Read More <span class="show-for-sr">About {{ .Title | safeHTML }}</span></a>
   <div class="post-detail">
       <span class="read-time">{{ .ReadingTime }} min read</span>
