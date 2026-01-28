@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 date: {{ .Date }}
-slug: "{{ replace .File.ContentBaseName "-" " " | slug }}"
+slug: "{{ .File.ContentBaseName }}"
 tags: []
 featured_image: ""
 description: ""
