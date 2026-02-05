@@ -49,6 +49,7 @@ jobs:
           hugo \
             --gc \
             --minify
+            --config hugo.toml
       - name: Git Clone from static content repo
         uses: lubu12/copy-files-to-repository@v1
         env:
