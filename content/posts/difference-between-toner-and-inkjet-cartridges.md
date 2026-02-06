@@ -2,6 +2,7 @@
 title: Difference Between Toner And Inkjet Cartridges
 date: 2010-11-23T04:17:00.000Z
 authors: Andrew Yeung
+slug: difference-between-toner-and-inkjet-cartridges
 featured_image: null
 description: Difference Between Toner And Inkjet Cartridges
 tags:

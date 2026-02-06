@@ -1,6 +1,7 @@
 ---
 title: "When You Need HR for Your Small Business"
 date: 2017-12-24T20:00:31.000Z
+slug: hr-for-your-small-business
 description: "When You Need HR for Your Small Business"
 featured_image: /blog/images/archive/2017/12/HR.png
 authors: Jessica Sillers

@@ -1,6 +1,7 @@
 ---
 title: "Experience Easy, Stress-Free Shopping at the New ComboInk"
 date: 2017-03-13T19:30:00.000Z
+slug: easy-shopping-at-comboink
 description: "Experience Easy, Stress-Free Shopping at the New ComboInk"
 featured_image: /blog/images/archive/2017/03/CIRegularLogo-1.png
 authors: Katy Smith

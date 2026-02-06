@@ -2,6 +2,7 @@
 title: The HP PhotoSmart Printer – Producing High Quality Images
 date: 2012-04-30T08:53:00.000Z
 authors: Andrew Yeung
+slug: hp-photosmart-printer-producing-high
 featured_image: null
 description: The HP PhotoSmart Printer – Producing High Quality Images
 tags:

@@ -2,6 +2,7 @@
 title: What is a compatible Ink Cartridge?
 date: 2012-06-12T01:37:00.000Z
 authors: Andrew Yeung
+slug: what-is-compatible-ink-cartridge
 featured_image: null
 description: What is a compatible Ink Cartridge?
 tags:

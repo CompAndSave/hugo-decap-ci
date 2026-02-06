@@ -1,6 +1,7 @@
 ---
 title: "Back to School Resources & Advice for Parents"
 date: 2015-08-08T00:16:00.000Z
+slug: back-to-school-resources-advice-for-parents
 description: "Back to School Resources & Advice for Parents"
 featured_image: null
 authors: Denise Resendez

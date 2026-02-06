@@ -2,6 +2,7 @@
 title: All you need to know about the PhotoSmart C6150 Printer
 date: 2012-05-02T06:48:00.000Z
 authors: Andrew Yeung
+slug: all-you-need-to-know-about-photosmart
 featured_image: null
 description: All you need to know about the PhotoSmart C6150 Printer
 tags:

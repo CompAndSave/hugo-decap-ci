@@ -1,6 +1,7 @@
 ---
 title: "Why Greeting Cards Are Not a Lost Art"
 date: 2015-09-10T02:24:00.000Z
+slug: why-greeting-cards-are-not-lost-art
 description: "Why Greeting Cards Are Not a Lost Art"
 featured_image: null
 authors: Denise Resendez

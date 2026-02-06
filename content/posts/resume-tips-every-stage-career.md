@@ -1,6 +1,7 @@
 ---
 title: "Résumé Tips for Every Stage of Your Career"
 date: 2017-10-22T19:00:21.000Z
+slug: resume-tips-every-stage-career
 description: "Résumé Tips for Every Stage of Your Career"
 featured_image: /blog/images/archive/2017/10/businessman.jpg
 authors: Jessica Sillers

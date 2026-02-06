@@ -2,6 +2,7 @@
 title: Gaining the maximum Potential from your PhotoSmart Printer
 date: 2012-05-18T05:59:00.000Z
 authors: Andrew Yeung
+slug: gaining-maximum-potential-from-your
 featured_image: null
 description: Gaining the maximum Potential from your PhotoSmart Printer
 tags:

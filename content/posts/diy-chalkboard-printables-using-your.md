@@ -1,6 +1,7 @@
 ---
 title: "DIY Chalkboard Printables Using Your Home Printer"
 date: 2015-08-27T13:17:00.000Z
+slug: diy-chalkboard-printables-using-your
 description: "DIY Chalkboard Printables Using Your Home Printer"
 featured_image: null
 authors: Denise Resendez

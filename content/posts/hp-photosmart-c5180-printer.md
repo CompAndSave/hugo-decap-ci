@@ -2,6 +2,7 @@
 title: The HP PhotoSmart C5180 Printer
 date: 2012-04-19T07:09:00.000Z
 authors: Andrew Yeung
+slug: hp-photosmart-c5180-printer
 featured_image: null
 description: The HP PhotoSmart C5180 Printer
 tags:

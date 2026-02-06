@@ -2,6 +2,7 @@
 title: "DIY Paper Projects: 5 Fun Ideas for Paper Crafts"
 date: 2016-08-30T20:30:00.000Z
 authors: Katy Smith
+slug: diy-paper-projects-5-fun-ideas-for-paper-crafts
 featured_image: /blog/images/archive/2016/08/birdhouse2-1.jpg
 description: "DIY Paper Projects: 5 Fun Ideas for Paper Crafts"
 tags:
@@ -12,7 +13,7 @@ tags:
 ---
 ![DIY Birdhouse](/blog/images/archive/2016/08/birdhouse2-1-283x300.jpg "Paper Birdhouse")
 
-Did you know that something as simple as paper could be transformed into a sophisticated-looking lampshade? DIY paper projects range from seemingly simple origami to elaborate birdhouses. You only need high-quality paper (usually a heavy stock) and some patience. These five ideas are fairly uncomplicated, and the results are delightful.
+Did you know that something as simple as paper could be transformed into a sophisticated-looking lampshade? DIY paper projects range from seemingly simple origami to elaborate birdhouses. You only need high-quality paper (usually a heavy stock) and some patience. These five ideas are fairly uncomplicated, and the results are delightful.  
 
 ![DIY Lampshade](/blog/images/archive/2016/08/featherlamp-1-199x300.jpg "Paper Feather Lamp")
 

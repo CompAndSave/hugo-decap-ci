@@ -2,6 +2,7 @@
 title: How to get the most from your PhotoSmart Printer
 date: 2012-05-24T00:58:00.000Z
 authors: Andrew Yeung
+slug: how-to-get-most-from-your-photosmart
 featured_image: null
 description: How to get the most from your PhotoSmart Printer
 tags:

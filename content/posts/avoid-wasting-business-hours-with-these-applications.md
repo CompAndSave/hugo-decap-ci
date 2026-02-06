@@ -2,6 +2,7 @@
 title: Avoid Wasting Business Hours With These Applications
 date: 2016-05-12T04:45:00.000Z
 authors: Katy Smith
+slug: avoid-wasting-business-hours-with-these-applications
 featured_image: /blog/images/archive/2016/05/app-store-icon-1.png
 description: Avoid Wasting Business Hours With These Applications
 tags:

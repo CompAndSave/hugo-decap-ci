@@ -1,6 +1,7 @@
 ---
 title: "Is Your Child Changing Schools? Here's How You Can Help"
 date: 2014-08-20T02:18:00.000Z
+slug: is-your-child-changing-schools-heres-how-you-can-help
 description: "Is Your Child Changing Schools? Here's How You Can Help"
 featured_image: null
 authors: Andrew Yeung

@@ -2,6 +2,7 @@
 title: Introducing the HP PhotoSmart C5150 Printer
 date: 2012-04-19T07:10:00.000Z
 authors: Andrew Yeung
+slug: introducing-hp-photosmart-c5150-printer
 featured_image: null
 description: Introducing the HP PhotoSmart C5150 Printer
 tags:

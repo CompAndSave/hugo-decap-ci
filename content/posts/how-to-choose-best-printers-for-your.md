@@ -2,6 +2,7 @@
 title: How to Choose the Best Printers for Your Home Office
 date: 2014-06-24T08:07:00.000Z
 authors: Andrew Yeung
+slug: how-to-choose-best-printers-for-your
 featured_image: null
 description: How to Choose the Best Printers for Your Home Office
 tags:

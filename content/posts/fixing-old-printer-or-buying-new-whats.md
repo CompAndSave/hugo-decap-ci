@@ -2,6 +2,7 @@
 title: Fixing an Old Printer Or Buying New - What's Cheaper?
 date: 2012-05-18T06:01:00.000Z
 authors: Andrew Yeung
+slug: fixing-old-printer-or-buying-new-whats
 featured_image: null
 description: Fixing an Old Printer Or Buying New - What's Cheaper?
 tags:

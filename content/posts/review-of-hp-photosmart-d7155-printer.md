@@ -2,6 +2,7 @@
 title: A review of the HP PhotoSmart D7155 Printer
 date: 2012-06-18T09:29:00.000Z
 authors: Andrew Yeung
+slug: review-of-hp-photosmart-d7155-printer
 featured_image: null
 description: A review of the HP PhotoSmart D7155 Printer
 tags:

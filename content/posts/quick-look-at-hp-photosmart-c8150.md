@@ -2,6 +2,7 @@
 title: A quick look at the HP PhotoSmart C8150 Printer
 date: 2012-05-29T02:58:00.000Z
 authors: Andrew Yeung
+slug: quick-look-at-hp-photosmart-c8150
 featured_image: null
 description: A quick look at the HP PhotoSmart C8150 Printer
 tags:

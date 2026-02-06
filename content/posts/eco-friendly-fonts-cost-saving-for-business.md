@@ -2,6 +2,7 @@
 title: Eco-Friendly Fonts – Cost Saving For Business
 date: 2010-11-10T01:25:00.000Z
 authors: Andrew Yeung
+slug: eco-friendly-fonts-cost-saving-for-business
 featured_image: null
 description: Eco-Friendly Fonts – Cost Saving For Business
 tags:

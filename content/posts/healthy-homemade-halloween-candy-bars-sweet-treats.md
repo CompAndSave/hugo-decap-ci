@@ -2,6 +2,7 @@
 title: Healthy Homemade Halloween Candy Bars & Sweet Treats
 date: 2014-10-21T02:50:00.000Z
 authors: Andrew Yeung
+slug: healthy-homemade-halloween-candy-bars-sweet-treats
 featured_image: null
 description: Healthy Homemade Halloween Candy Bars & Sweet Treats
 tags:

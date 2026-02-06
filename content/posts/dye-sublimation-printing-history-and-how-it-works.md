@@ -2,6 +2,7 @@
 title: "Dye Sublimation Printing: History and How It Works"
 date: 2018-06-24T21:59:42.000Z
 authors: Andrew Yeung
+slug: dye-sublimation-printing-history-and-how-it-works
 featured_image: null
 description: "Dye Sublimation Printing: History and How It Works"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Where to Find the Best Back to School Deals"
 date: 2014-08-08T07:27:00.000Z
+slug: where-to-find-best-back-to-school-deals
 description: "Where to Find the Best Back to School Deals"
 featured_image: null
 authors: Andrew Yeung

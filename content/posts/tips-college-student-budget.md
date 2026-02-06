@@ -1,6 +1,7 @@
 ---
 title: "How to Live on a Tight College Student Budget"
 date: 2017-10-15T19:00:43.000Z
+slug: tips-college-student-budget
 description: "How to Live on a Tight College Student Budget"
 featured_image: /blog/images/archive/2017/10/college-graduates.jpg
 authors: Stephanie Figy

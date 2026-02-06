@@ -2,6 +2,7 @@
 title: HP PhotoSmart 100 Compatible Printer Ink
 date: 2012-03-12T08:19:00.000Z
 authors: Andrew Yeung
+slug: hp-photosmart-100-compatible-printer-ink
 featured_image: null
 description: HP PhotoSmart 100 Compatible Printer Ink
 tags:
@@ -12,7 +13,7 @@ tags:
 ---
 The HP PhotoSmart series of Printer are quickly becoming the number one choice of Photo printer worldwide. There are several printers in the PhotoSmart series, however the one in which we are going to take a look at today is the 100 series of HP printer.
 
-These Printers are one of the most well-known printers within the series and they have become known as the little sister printer of the HP PhotoSmart 1315. It is able to create the biggest pictures among the other range of portable printers within the series (4x6"). This size when combined with the option of edge to edge printing makes for an excellent printing service, for the money in which you have spent on the printer.
+These Printers are one of the most well-known printers within the series and they have become known as the little sister printer of the HP PhotoSmart 1315. It is able to create the biggest pictures among the other range of portable printers within the series (4x6"). This size when combined with the option of edge to edge printing makes for an excellent printing service, for the money in which you have spent on the printer. 
 
 The Paper input for the PhotoSmart 100 series is a little unusual as it feeds in from the front of the printer and feeds out at the back, the printer will then proceed to draw the paper back through the system as it prints the image you require. Despite this unusual technique it still works and above all else it is able to produce high quality images. The PhotoSmart 100 series of printer also comes integrated with the ability to use a compact flash, memory stick and smart media slots as a method to extract the pictures and images you have taken. One other key point however is that the LCD screen on the top of the printer does not allow you to view the images before you prints them.
 

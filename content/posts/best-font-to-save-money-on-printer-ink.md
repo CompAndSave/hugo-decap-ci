@@ -1,6 +1,7 @@
 ---
 title: "Best Font to Save Money on Printer Ink"
 date: 2014-05-03T06:54:00.000Z
+slug: best-font-to-save-money-on-printer-ink
 description: "Best Font to Save Money on Printer Ink"
 featured_image: null
 authors: Andrew Yeung

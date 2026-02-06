@@ -2,6 +2,7 @@
 title: The Beginners Guide to the PhotoSmart C6100 Printer
 date: 2012-04-24T00:21:00.000Z
 authors: Andrew Yeung
+slug: beginners-guide-to-photosmart-c6100
 featured_image: null
 description: The Beginners Guide to the PhotoSmart C6100 Printer
 tags:

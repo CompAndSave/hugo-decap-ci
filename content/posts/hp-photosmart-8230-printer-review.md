@@ -2,6 +2,7 @@
 title: The HP PhotoSmart 8230 printer Review
 date: 2012-03-23T01:34:00.000Z
 authors: Andrew Yeung
+slug: hp-photosmart-8230-printer-review
 featured_image: null
 description: The HP PhotoSmart 8230 printer Review
 tags:

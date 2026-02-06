@@ -1,6 +1,7 @@
 ---
 title: "Latest Material in 3D Printing: Glass"
 date: 2015-10-16T00:44:00.000Z
+slug: latest-material-in-3d-printing-glass
 description: "Latest Material in 3D Printing: Glass"
 featured_image: null
 authors: Denise Resendez

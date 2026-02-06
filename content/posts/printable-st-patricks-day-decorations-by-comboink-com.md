@@ -1,6 +1,7 @@
 ---
 title: "Printable St. Patrick's Day Decorations by ComboInk.com"
 date: 2014-03-11T04:08:00.000Z
+slug: printable-st-patricks-day-decorations-by-comboink-com
 description: "Printable St. Patrick's Day Decorations by ComboInk.com"
 featured_image: null
 authors: Andrew Yeung

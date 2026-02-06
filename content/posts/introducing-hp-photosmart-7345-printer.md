@@ -2,6 +2,7 @@
 title: Introducing the HP PhotoSmart 7345 Printer
 date: 2012-03-30T08:11:00.000Z
 authors: Andrew Yeung
+slug: introducing-hp-photosmart-7345-printer
 featured_image: null
 description: Introducing the HP PhotoSmart 7345 Printer
 tags:

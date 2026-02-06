@@ -1,6 +1,7 @@
 ---
 title: "Which HP Printer Is Right for You?"
 date: 2016-11-15T21:30:00.000Z
+slug: which-hp-printer-is-right-for-you
 description: "Which HP Printer Is Right for You?"
 featured_image: /blog/images/archive/2016/11/HP_Photosmart-1.jpg
 authors: Katy Smith
@@ -15,7 +16,7 @@ If you're considering purchasing a new printer for your personal use, check out 
 
 ## HP Printers for Home
 
-### DeskJet
+### DeskJet 
 
 Let's start with HP's current DeskJet series. The HP DeskJet 1112 printer is a very affordable, basic option, but it only prints. If you need to copy and scan in addition to printing, then choose the HP DeskJet 2130 or DeskJet 3755 all-in-one (AIO) printers. The DeskJet 2130 is about $20 more than the 1112 model. The 3755 is more than double the 1112.
 
@@ -23,11 +24,11 @@ Even though the HP website has discontinued selling many other DeskJet printers,
 
 ### Envy
 
-HP presently has four Envy printers available on its website. All of the HP Envy printers are multifunction printers (MFPs).
+HP presently has four Envy printers available on its website. All of the HP Envy printers are multifunction printers (MFPs). 
 
 The HP Envy 5540 and HP Envy 4520 copy and scan as well as offer borderless printing and auto duplex printing. Want a speedier printer? Go for the premium, more expensive HP Envy 7640 and HP Envy 5660 e-AIO printers. These HP printers have the same features as the models mentioned above but achieve faster pages per minute (ppm). The 4520 version takes high-yield [63XL ink](https://www.comboink.com/nsearch/?q=hp%20envy%204520) while the 5540, 5660, and 7640 models can take high-yield [62XL ink](https://www.comboink.com/Hewlett-Packard-HP-62XL-HY-Black-Ink-Cartridge-p/ink-hp-c2p05an.htm) and lower-yield [62 ink](https://www.comboink.com/Hewlett-Packard-HP-62-Black-Ink-Cartridge-p/ink-hp-c2p04an.htm).
 
-Available at Amazon and Walmart, the HP Envy 4502 and HP Envy 5535 are color photo printers, scanners, and copiers. Like the 5660 and 7640, these two well-reviewed printers are e-AIO. They have wireless direct and local Wi-Fi connectivity for mobile printing. You can use standard [HP 61 ink](https://www.comboink.com/Hewlett-Packard-HP-61-Black-Ink-Cartridge-p/ink-hp-ch561wn.htm) or high-yield [HP 61XL ink](https://www.comboink.com/hp-61xl-ink-cartridges-ch563wn-ch564wn-2-pk) in both printer models.
+Available at Amazon and Walmart, the HP Envy 4502 and HP Envy 5535 are color photo printers, scanners, and copiers. Like the 5660 and 7640, these two well-reviewed printers are e-AIO. They have wireless direct and local Wi-Fi connectivity for mobile printing. You can use standard [HP 61 ink](https://www.comboink.com/Hewlett-Packard-HP-61-Black-Ink-Cartridge-p/ink-hp-ch561wn.htm) or high-yield [HP 61XL ink](https://www.comboink.com/hp-61xl-ink-cartridges-ch563wn-ch564wn-2-pk) in both printer models. 
 
 ### Photosmart
 

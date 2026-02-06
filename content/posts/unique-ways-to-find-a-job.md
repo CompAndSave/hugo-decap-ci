@@ -1,6 +1,7 @@
 ---
 title: "Unique Ways to Find a Job: Get Noticed for the Right Reasons"
 date: 2017-11-26T20:00:54.000Z
+slug: unique-ways-to-find-a-job
 description: "Unique Ways to Find a Job: Get Noticed for the Right Reasons"
 featured_image: /blog/images/archive/2017/11/jobhunt-1.png
 authors: Jessica Sillers

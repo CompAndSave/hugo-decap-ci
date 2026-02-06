@@ -1,6 +1,7 @@
 ---
 title: "Offbeat Ways for You to Create Passive Income Today"
 date: 2018-03-04T20:00:58.000Z
+slug: offbeat-ways-create-passive-income-today
 description: "Offbeat Ways for You to Create Passive Income Today"
 featured_image: /blog/images/archive/2018/02/ashley1.jpg
 authors: Ashley Lipman

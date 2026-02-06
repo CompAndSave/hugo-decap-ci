@@ -1,6 +1,7 @@
 ---
 title: "Our Contributors"
 date: 2018-03-16T23:10:00.000Z
+slug: our-contributors
 description: "Our Contributors"
 featured_image: /blog/images/archive/2018/03/CIcontribs.jpg
 authors: Katy Smith

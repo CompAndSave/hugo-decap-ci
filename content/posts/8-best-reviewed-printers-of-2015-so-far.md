@@ -1,6 +1,7 @@
 ---
 title: "8 Best Reviewed Printers of 2015 (So Far)"
 date: 2015-02-11T01:00:00.000Z
+slug: 8-best-reviewed-printers-of-2015-so-far
 description: "8 Best Reviewed Printers of 2015 (So Far)"
 featured_image: null
 authors: Denise Resendez
@@ -19,13 +20,13 @@ The Ultimaker is a 3 D printer that you can pre-order in March and which will ac
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | How ChefJet Pro 3D Printed Food Looks Like (via [FastCoDesign](http://www.fastcodesign.com/3024874/3-d-printed-candy-actually-makes-sense))              |
 
-And then there is the chocolate 3d printer! Kid you not; the **CocoJetTM** chocolate 3D printer is developed along with The Hershey Company and will let consumers customize and personalize their chocolate in new and exciting ways.
+And then there is the chocolate 3d printer! Kid you not; the **CocoJetTM** chocolate 3D printer is developed along with The Hershey Company and will let consumers customize and personalize their chocolate in new and exciting ways. 
 
 **ChefJet Pro** is food printer that is equipped with intuitive, chef-friendly Digital Cookbook software and makes it possible for consumers to ‘print' edible 3D printed candies and décor.
 
-**Voxel8** is the world's First Electronics Printer. This hybrid machine will be able to print both plastic and conductive ink. Current 3D printers are restricted by the fact that they can only print using thermoplastics or UV resins. However Voxel8's new printing platform and ability to use other functional materials greatly expands its scope.
+**Voxel8** is the world's First Electronics Printer. This hybrid machine will be able to print both plastic and conductive ink. Current 3D printers are restricted by the fact that they can only print using thermoplastics or UV resins. However Voxel8's new printing platform and ability to use other functional materials greatly expands its scope. 
 
-Now if all that sounds too much like Sci-Fi, let's look at what some of the top technology review site is saying about printers available in 2015: features, specs and prices.
+Now if all that sounds too much like Sci-Fi, let's look at what some of the top technology review site is saying about printers available in 2015: features, specs and prices. 
 
 #### CNET Best Printer Picks
 

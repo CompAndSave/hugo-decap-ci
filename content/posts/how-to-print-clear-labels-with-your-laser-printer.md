@@ -1,6 +1,7 @@
 ---
 title: "How to Print Clear Labels with Your Laser Printer"
 date: 2014-07-19T07:22:00.000Z
+slug: how-to-print-clear-labels-with-your-laser-printer
 description: "How to Print Clear Labels with Your Laser Printer"
 featured_image: null
 authors: Andrew Yeung

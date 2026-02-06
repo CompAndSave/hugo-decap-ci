@@ -2,6 +2,7 @@
 title: The All in one HP 3313 Printer
 date: 2012-03-21T02:31:00.000Z
 authors: Andrew Yeung
+slug: all-in-one-hp-3313-printer
 featured_image: null
 description: The All in one HP 3313 Printer
 tags:

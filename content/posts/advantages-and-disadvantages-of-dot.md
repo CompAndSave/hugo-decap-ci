@@ -1,6 +1,7 @@
 ---
 title: "Advantages And Disadvantages Of A Dot Matrix Printer"
 date: 2011-01-01T08:34:00.000Z
+slug: advantages-and-disadvantages-of-dot
 description: "Advantages And Disadvantages Of A Dot Matrix Printer"
 featured_image: null
 authors: Andrew Yeung

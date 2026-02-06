@@ -2,6 +2,7 @@
 title: Soy Ink Cartridges for Eco-friendly Printing
 date: 2010-10-12T00:40:00.000Z
 authors: Andrew Yeung
+slug: soy-ink-cartridges-for-eco-friendly-printing
 featured_image: null
 description: Soy Ink Cartridges for Eco-friendly Printing
 tags:

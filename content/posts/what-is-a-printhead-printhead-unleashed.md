@@ -2,6 +2,7 @@
 title: What Is A Printhead - Printhead Unleashed!
 date: 2010-11-23T04:03:00.000Z
 authors: Andrew Yeung
+slug: what-is-a-printhead-printhead-unleashed
 featured_image: null
 description: What Is A Printhead - Printhead Unleashed!
 tags:

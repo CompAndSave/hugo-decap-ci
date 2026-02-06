@@ -2,6 +2,7 @@
 title: How to Print Your Emails from Anywhere
 date: 2015-07-23T02:04:00.000Z
 authors: Denise Resendez
+slug: how-to-print-your-emails-from-anywhere
 featured_image: null
 description: How to Print Your Emails from Anywhere
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Great tips on how to avoid ink bleeds and smears: Stop the bleeding!"
 date: 2014-03-22T02:39:00.000Z
+slug: great-tips-on-how-to-avoid-ink-bleeds-and-smears-stop-the-bleeding
 description: "Great tips on how to avoid ink bleeds and smears: Stop the bleeding!"
 featured_image: null
 authors: Andrew Yeung

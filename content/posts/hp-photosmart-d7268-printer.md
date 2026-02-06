@@ -2,6 +2,7 @@
 title: The HP PhotoSmart D7268 Printer
 date: 2012-03-30T08:13:00.000Z
 authors: Andrew Yeung
+slug: hp-photosmart-d7268-printer
 featured_image: null
 description: The HP PhotoSmart D7268 Printer
 tags:

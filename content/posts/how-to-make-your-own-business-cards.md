@@ -1,6 +1,7 @@
 ---
 title: "How to Make Your Own Business Cards"
 date: 2017-04-04T19:30:00.000Z
+slug: how-to-make-your-own-business-cards
 description: "How to Make Your Own Business Cards"
 featured_image: /blog/images/archive/2017/04/business-card-1.png
 authors: Katy Smith

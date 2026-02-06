@@ -2,6 +2,7 @@
 title: Saving Money Tips For This Holiday Season
 date: 2010-11-10T01:06:00.000Z
 authors: Andrew Yeung
+slug: saving-money-tips-for-this-holiday-season
 featured_image: null
 description: Saving Money Tips For This Holiday Season
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Common Fax Machine Issues and How to Fix Them"
 date: 2014-10-08T04:14:00.000Z
+slug: common-fax-machine-issues-and-how-to-fix-them
 description: "Common Fax Machine Issues and How to Fix Them"
 featured_image: null
 authors: Andrew Yeung

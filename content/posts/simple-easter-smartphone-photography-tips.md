@@ -1,6 +1,7 @@
 ---
 title: "Simple Easter Smartphone Photography Tips"
 date: 2015-04-01T21:30:00.000Z
+slug: simple-easter-smartphone-photography-tips
 description: "Simple Easter Smartphone Photography Tips"
 featured_image: null
 authors: Denise Resendez

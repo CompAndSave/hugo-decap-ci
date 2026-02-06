@@ -1,6 +1,7 @@
 ---
 title: "Free Christmas Printables for Ornaments and Gift Labels"
 date: 2016-12-14T21:00:00.000Z
+slug: free-christmas-printables-for-ornaments-and-gift-labels
 description: "Free Christmas Printables for Ornaments and Gift Labels"
 featured_image: /blog/images/archive/2016/12/snowflakedecoration-1.png
 authors: Katy Smith

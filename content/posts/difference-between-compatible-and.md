@@ -1,6 +1,7 @@
 ---
 title: "The difference between Compatible and Genuine Inks"
 date: 2012-01-30T08:16:00.000Z
+slug: difference-between-compatible-and
 description: "The difference between Compatible and Genuine Inks"
 featured_image: null
 authors: Andrew Yeung

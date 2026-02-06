@@ -1,6 +1,7 @@
 ---
 title: "Clean Your Printer's Printhead in Seconds"
 date: 2015-08-12T10:07:00.000Z
+slug: clean-your-printers-printhead-in-seconds
 description: "Clean Your Printer's Printhead in Seconds"
 featured_image: null
 authors: Denise Resendez
@@ -13,7 +14,7 @@ If your printouts are coming out a little streaky or subpar, it might be time to
 
 #### How To Check Your Printhead
 
-You may be asking yourself, "What is a printhead?". Well, the printhead is the part of the ink cartridge that applies ink onto the paper. In other words, it ‘writes' the characters and ‘draws' the images on the page.
+You may be asking yourself, "What is a printhead?". Well, the printhead is the part of the ink cartridge that applies ink onto the paper. In other words, it ‘writes' the characters and ‘draws' the images on the page. 
 
 Now, let's check your printhead. We want to check if the printhead is correctly installed and aligned before we move on. Here's how to clean the printhead below:
 
@@ -39,7 +40,7 @@ Now here are the steps to cleaning your printhead:
 
 This video demonstrates how to clean the printheads and clogged cartridges in detail. Bonus! It also claims to work for most popular printer brands and models.
 
-The above video shows you where the printheads' location. It also demonstrates a simple way to clean them. Meanwhile, you should also check the ink levels in the tank(s). They might need replacing.
+The above video shows you where the printheads' location. It also demonstrates a simple way to clean them. Meanwhile, you should also check the ink levels in the tank(s). They might need replacing. 
 
 The above tips are manual ways to clean the printheads. That said, you can also use your printer's cleaning utility to do this. Both Mac and Windows usually have self-cleaning programs. A general way to do this on PCs:
 

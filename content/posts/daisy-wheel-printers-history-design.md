@@ -1,6 +1,7 @@
 ---
 title: "Daisy Wheel Printers: History and Design"
 date: 2018-05-24T00:16:35.000Z
+slug: daisy-wheel-printers-history-design
 description: "Daisy Wheel Printers: History and Design"
 featured_image: null
 authors: Andrew Yeung

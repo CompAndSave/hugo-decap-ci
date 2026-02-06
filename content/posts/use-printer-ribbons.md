@@ -2,6 +2,7 @@
 title: Use Printer Ribbons
 date: 2011-01-01T08:19:00.000Z
 authors: Andrew Yeung
+slug: use-printer-ribbons
 featured_image: null
 description: Use Printer Ribbons
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "What Qualities Do Employees Look for in a Great Boss"
 date: 2018-03-11T19:00:45.000Z
+slug: what-qualities-do-employees-look-for-in-a-great-boss
 description: "What Qualities Do Employees Look for in a Great Boss"
 featured_image: /blog/images/archive/2018/03/bosslady.jpg
 authors: Jessica Sillers

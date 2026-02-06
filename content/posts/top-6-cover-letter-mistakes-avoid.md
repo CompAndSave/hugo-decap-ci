@@ -1,6 +1,7 @@
 ---
 title: "Top 6 Cover Letter Mistakes You Should Avoid"
 date: 2018-02-25T20:00:16.000Z
+slug: top-6-cover-letter-mistakes-avoid
 description: "Top 6 Cover Letter Mistakes You Should Avoid"
 featured_image: /blog/images/archive/2018/02/working.jpg
 authors: Jessica Sillers

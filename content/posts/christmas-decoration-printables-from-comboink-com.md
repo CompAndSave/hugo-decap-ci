@@ -1,6 +1,7 @@
 ---
 title: "Christmas Decoration Printables from ComboInk.com"
 date: 2013-12-19T04:29:00.000Z
+slug: christmas-decoration-printables-from-comboink-com
 description: "Christmas Decoration Printables from ComboInk.com"
 featured_image: null
 authors: Andrew Yeung

@@ -1,6 +1,7 @@
 ---
 title: "5 Places to Recycle Your Printer Cartridges Online"
 date: 2019-04-18T19:36:21.000Z
+slug: 5-places-to-recycle-your-printer-cartridges-online
 description: "5 Places to Recycle Your Printer Cartridges Online"
 featured_image: /blog/images/archive/2019/04/ci-ink.png
 authors: Denise Resendez

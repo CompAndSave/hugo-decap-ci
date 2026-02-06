@@ -2,6 +2,7 @@
 title: Advantages Of Using Continuous Ink Systems
 date: 2011-07-05T07:29:00.000Z
 authors: Andrew Yeung
+slug: advantages-of-using-continuous-ink-systems
 featured_image: null
 description: Advantages Of Using Continuous Ink Systems
 tags:

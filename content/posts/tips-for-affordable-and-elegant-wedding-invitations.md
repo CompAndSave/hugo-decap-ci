@@ -1,6 +1,7 @@
 ---
 title: "Tips for Affordable and Elegant Wedding Invitations"
 date: 2015-07-16T00:09:00.000Z
+slug: tips-for-affordable-and-elegant-wedding-invitations
 description: "Tips for Affordable and Elegant Wedding Invitations"
 featured_image: null
 authors: Denise Resendez

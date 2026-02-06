@@ -2,6 +2,7 @@
 title: Easy Ways to Go Green at the Office
 date: 2018-02-18T20:00:53.000Z
 authors: Stephanie Figy
+slug: sustainable-green-office-tips
 featured_image: /blog/images/archive/2018/02/recyclingarrows.png
 description: Easy Ways to Go Green at the Office
 tags:

@@ -27,9 +27,8 @@ disableAliases = true
     term = ["html"]
 
 [outputFormats]
-    [outputFormats.html]
+    [html]
         ugly = true
 
 [pagination]
     pagerSize = 9
-    disableAliases = true

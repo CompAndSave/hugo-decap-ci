@@ -1,6 +1,7 @@
 ---
 title: "Dot Matrix Printing: History, How It Works, and Types of Dot Matrix Printers"
 date: 2018-05-24T22:01:10.000Z
+slug: dot-matrix-printing-history-how-it-works
 description: "Dot Matrix Printing: History, How It Works, and Types of Dot Matrix Printers"
 featured_image: /blog/images/archive/2018/05/dot-matrix-example-text.png
 authors: Andrew Yeung

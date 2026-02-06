@@ -2,6 +2,7 @@
 title: HP PhotoSmart C5140 Printer Ink Cartridges
 date: 2012-04-23T07:09:00.000Z
 authors: Andrew Yeung
+slug: hp-photosmart-c5140-printer-ink-cartridges
 featured_image: null
 description: HP PhotoSmart C5140 Printer Ink Cartridges
 tags:
@@ -10,9 +11,9 @@ tags:
   - Ink Cartridges
   - PhotoSmart Ink
 ---
-HP has long been seen as the leader in the printing industry. With the release of hardware such as the C5140 it is easy to understand why this is. The Photo Smart range of printers has been especially designed to deal with the strains placed on a printer, through the process of printing images and pictures. The HP C5140 printer is a printer which is more than capable of delivering excellent result, in all tasks you set upon it. It is extremely reliable and many users have reported on how easy the many functions it is capable of delivering are to use.
+HP has long been seen as the leader in the printing industry. With the release of hardware such as the C5140 it is easy to understand why this is. The Photo Smart range of printers has been especially designed to deal with the strains placed on a printer, through the process of printing images and pictures. The HP C5140 printer is a printer which is more than capable of delivering excellent result, in all tasks you set upon it. It is extremely reliable and many users have reported on how easy the many functions it is capable of delivering are to use. 
 
-The HP PhotoSmart C5140 is not just an ordinary printer as it is an all in one item of hardware. The when used can deal with a wide range of tasks, such as faxing, scanning and copying. To add to this not only can it print pages of text at amazing speeds it can also use the latest in printing technology to print high quality images, which are able to stay looking there best for many years to come.
+The HP PhotoSmart C5140 is not just an ordinary printer as it is an all in one item of hardware. The when used can deal with a wide range of tasks, such as faxing, scanning and copying. To add to this not only can it print pages of text at amazing speeds it can also use the latest in printing technology to print high quality images, which are able to stay looking there best for many years to come. 
 
 The HP PhotoSmart C5140 has been known to be very easy to use, despite the extensive menus you may encounter when the time comes to choose how you want your final print. The Integrated LCD screen is able to make the process of looking through these menu's very simple.
 

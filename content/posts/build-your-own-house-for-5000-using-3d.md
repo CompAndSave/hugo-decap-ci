@@ -1,6 +1,7 @@
 ---
 title: "Build Your Own House for $5,000 Using a 3D Printer"
 date: 2015-03-09T06:22:00.000Z
+slug: build-your-own-house-for-5000-using-3d
 description: "Build Your Own House for $5,000 Using a 3D Printer"
 featured_image: null
 authors: Denise Resendez
@@ -29,7 +30,7 @@ If the Dutch company is going to use plant oil based materials, the Chinese comp
 
 #### 3D printing – How the Future Looks
 
-Imagine the possibilities here: cheap housing for the masses, more people able to buy their own homes, a solution for environmental challenges thrown up by traditional construction techniques and even an eco friendly solution to deal with construction waste – That mythical $5000 home is closer than you think!
+Imagine the possibilities here: cheap housing for the masses, more people able to buy their own homes, a solution for environmental challenges thrown up by traditional construction techniques and even an eco friendly solution to deal with construction waste – That mythical $5000 home is closer than you think!  
 If and when these processes are mainstreamed and made commercially viable, you can actually think about building your own cheap house or creating an adjunct to the main dwelling perhaps – an extra guest room, shed, gazebo or similar.
 
 | [![3d printed ears](/blog/images/n-techseries-a-20150210-870x652.jpg "3D Printed Ear Models from University of Tokyo School of Medicine ")](https://www.japantimes.co.jp/news/2015/02/09/national/science-health/3-d-printers-take-center-stage-japans-regenerative-medicine/#.VQy4p-F0ZhE) |

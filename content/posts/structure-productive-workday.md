@@ -1,6 +1,7 @@
 ---
 title: "How to Structure a More Productive Workday"
 date: 2018-01-14T20:00:10.000Z
+slug: structure-productive-workday
 description: "How to Structure a More Productive Workday"
 featured_image: /blog/images/archive/2018/01/productiveworkday.jpg
 authors: Jessica Sillers

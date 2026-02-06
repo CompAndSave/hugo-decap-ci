@@ -1,6 +1,7 @@
 ---
 title: "Sample Page"
 date: 2017-04-18T09:54:34.000Z
+slug: sample-page
 description: "Sample Page"
 featured_image: null
 authors: Andrew Yeung

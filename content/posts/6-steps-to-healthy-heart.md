@@ -1,6 +1,7 @@
 ---
 title: "6 Steps to a Healthy Heart | American Heart Month"
 date: 2016-02-11T05:25:00.000Z
+slug: 6-steps-to-healthy-heart
 description: "6 Steps to a Healthy Heart | American Heart Month"
 featured_image: null
 authors: Katy Smith

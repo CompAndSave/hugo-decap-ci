@@ -1,6 +1,7 @@
 ---
 title: "Best Printers for Your Business"
 date: 2016-09-13T20:15:00.000Z
+slug: best-printers-for-your-business
 description: "Best Printers for Your Business"
 featured_image: /blog/images/archive/2016/09/HPprinter-1.png
 authors: Katy Smith

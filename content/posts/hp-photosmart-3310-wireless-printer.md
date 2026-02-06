@@ -2,6 +2,7 @@
 title: The HP PhotoSmart 3310 Wireless Printer
 date: 2012-03-21T02:30:00.000Z
 authors: Andrew Yeung
+slug: hp-photosmart-3310-wireless-printer
 featured_image: null
 description: The HP PhotoSmart 3310 Wireless Printer
 tags:

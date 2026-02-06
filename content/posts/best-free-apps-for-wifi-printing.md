@@ -2,6 +2,7 @@
 title: Best Free Apps for Wifi Printing
 date: 2015-01-06T01:54:00.000Z
 authors: Denise Resendez
+slug: best-free-apps-for-wifi-printing
 featured_image: null
 description: Best Free Apps for Wifi Printing
 tags:

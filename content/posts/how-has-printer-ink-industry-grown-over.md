@@ -1,6 +1,7 @@
 ---
 title: "How has the Printer Ink Industry grown over the Years"
 date: 2012-02-05T09:31:00.000Z
+slug: how-has-printer-ink-industry-grown-over
 description: "How has the Printer Ink Industry grown over the Years"
 featured_image: null
 authors: Andrew Yeung

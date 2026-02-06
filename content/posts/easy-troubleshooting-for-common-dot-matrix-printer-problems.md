@@ -1,6 +1,7 @@
 ---
 title: "Easy Troubleshooting for Common Dot Matrix Printer Problems"
 date: 2015-06-04T02:20:00.000Z
+slug: easy-troubleshooting-for-common-dot-matrix-printer-problems
 description: "Easy Troubleshooting for Common Dot Matrix Printer Problems"
 featured_image: null
 authors: Denise Resendez

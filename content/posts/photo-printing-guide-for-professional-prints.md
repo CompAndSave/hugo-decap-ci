@@ -2,6 +2,7 @@
 title: Photo Printing Guide for Professional Prints
 date: 2014-12-13T08:20:00.000Z
 authors: Denise Resendez
+slug: photo-printing-guide-for-professional-prints
 featured_image: null
 description: Photo Printing Guide for Professional Prints
 tags:

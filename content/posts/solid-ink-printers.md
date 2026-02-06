@@ -2,6 +2,7 @@
 title: Solid Ink Printers
 date: 2010-12-29T08:05:00.000Z
 authors: Andrew Yeung
+slug: solid-ink-printers
 featured_image: null
 description: Solid Ink Printers
 tags:

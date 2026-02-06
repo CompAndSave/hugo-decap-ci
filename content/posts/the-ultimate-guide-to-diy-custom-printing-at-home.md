@@ -2,6 +2,7 @@
 title: The Ultimate Guide to DIY Custom Printing at Home
 date: 2015-07-07T22:00:00.000Z
 authors: Denise Resendez
+slug: the-ultimate-guide-to-diy-custom-printing-at-home
 featured_image: null
 description: The Ultimate Guide to DIY Custom Printing at Home
 tags:
