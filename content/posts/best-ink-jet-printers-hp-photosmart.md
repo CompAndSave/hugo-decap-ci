@@ -2,7 +2,6 @@
 title: The Best Ink Jet Printers – The HP PhotoSmart D7175
 date: 2012-06-08T02:24:00.000Z
 authors: Andrew Yeung
-slug: best-ink-jet-printers-hp-photosmart
 featured_image: null
 description: The Best Ink Jet Printers – The HP PhotoSmart D7175
 tags:

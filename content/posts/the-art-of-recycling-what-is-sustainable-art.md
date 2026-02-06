@@ -1,7 +1,6 @@
 ---
 title: "The Art of Recycling: What is Sustainable Art?"
 date: 2015-09-29T03:24:00.000Z
-slug: the-art-of-recycling-what-is-sustainable-art
 description: "The Art of Recycling: What is Sustainable Art?"
 featured_image: null
 authors: Denise Resendez

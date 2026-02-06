@@ -2,7 +2,6 @@
 title: What are the best Printers currently available on the Market?
 date: 2012-05-24T00:59:00.000Z
 authors: Andrew Yeung
-slug: what-are-best-printers-currently
 featured_image: null
 description: What are the best Printers currently available on the Market?
 tags:

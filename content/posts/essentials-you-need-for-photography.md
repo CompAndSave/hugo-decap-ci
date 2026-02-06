@@ -2,7 +2,6 @@
 title: 4 Essentials You Need for Photography
 date: 2016-08-08T20:30:00.000Z
 authors: Katy Smith
-slug: essentials-you-need-for-photography
 featured_image: /blog/images/archive/2016/08/digitalcamera_home-1.jpg
 description: 4 Essentials You Need for Photography
 tags:

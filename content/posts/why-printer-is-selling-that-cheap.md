@@ -2,7 +2,6 @@
 title: Why Printer Is Selling That Cheap?
 date: 2010-11-18T05:08:00.000Z
 authors: Andrew Yeung
-slug: why-printer-is-selling-that-cheap
 featured_image: null
 description: Why Printer Is Selling That Cheap?
 tags:

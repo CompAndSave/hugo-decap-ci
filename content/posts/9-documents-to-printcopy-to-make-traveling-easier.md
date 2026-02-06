@@ -1,7 +1,6 @@
 ---
 title: "9 Documents to Print/Copy to Make Traveling Easier"
 date: 2015-06-23T03:05:00.000Z
-slug: 9-documents-to-printcopy-to-make-traveling-easier
 description: "9 Documents to Print/Copy to Make Traveling Easier"
 featured_image: null
 authors: Denise Resendez

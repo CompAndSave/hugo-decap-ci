@@ -2,7 +2,6 @@
 title: The Benefits of using Compatible Ink Cartridges with your PhotoSmart Printer
 date: 2012-05-02T06:49:00.000Z
 authors: Andrew Yeung
-slug: benefits-of-using-compatible-ink
 featured_image: null
 description: The Benefits of using Compatible Ink Cartridges with your PhotoSmart Printer
 tags:

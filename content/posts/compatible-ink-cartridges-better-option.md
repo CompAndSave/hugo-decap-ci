@@ -2,7 +2,6 @@
 title: Compatible Ink Cartridges – The Better Option
 date: 2012-06-18T09:31:00.000Z
 authors: Andrew Yeung
-slug: compatible-ink-cartridges-better-option
 featured_image: null
 description: Compatible Ink Cartridges – The Better Option
 tags:

@@ -2,7 +2,6 @@
 title: Introducing the HP PhotoSmart 8250
 date: 2012-03-23T01:37:00.000Z
 authors: Andrew Yeung
-slug: introducing-hp-photosmart-8250
 featured_image: null
 description: Introducing the HP PhotoSmart 8250
 tags:

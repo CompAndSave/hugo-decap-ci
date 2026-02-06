@@ -2,7 +2,6 @@
 title: Tips for Printing Quality Photos at Home
 date: 2016-03-10T02:50:00.000Z
 authors: Katy Smith
-slug: 6-tips-for-printing-quality-photos-at
 featured_image: null
 description: Tips for Printing Quality Photos at Home
 tags:

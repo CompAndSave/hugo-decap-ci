@@ -2,7 +2,6 @@
 title: All you need to know about the PhotoSmart Printer
 date: 2012-05-14T06:17:00.000Z
 authors: Andrew Yeung
-slug: all-you-need-to-know-about-photosmart-13
 featured_image: null
 description: All you need to know about the PhotoSmart Printer
 tags:

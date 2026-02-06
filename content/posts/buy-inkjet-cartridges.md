@@ -2,7 +2,6 @@
 title: Buy Inkjet Cartridges
 date: 2010-12-29T07:48:00.000Z
 authors: Andrew Yeung
-slug: buy-inkjet-cartridges
 featured_image: null
 description: Buy Inkjet Cartridges
 tags:

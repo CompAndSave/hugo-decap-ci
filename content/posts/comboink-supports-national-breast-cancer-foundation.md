@@ -1,7 +1,6 @@
 ---
 title: "How You Can Help ComboInk Support the National Breast Cancer Foundation, Inc.®"
 date: 2015-09-30T22:48:00.000Z
-slug: comboink-supports-national-breast-cancer-foundation
 description: "How You Can Help ComboInk Support the National Breast Cancer Foundation, Inc.®"
 featured_image: null
 authors: Denise Resendez

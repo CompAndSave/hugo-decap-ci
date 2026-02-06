@@ -1,7 +1,6 @@
 ---
 title: "Support the Early Detection of Breast Cancer"
 date: 2016-10-04T19:30:00.000Z
-slug: support-early-detection-of-breast-cancer
 description: "Support the Early Detection of Breast Cancer"
 featured_image: /blog/images/archive/2016/10/NBCF_logo-1.jpg
 authors: Katy Smith
@@ -14,7 +13,7 @@ Each October, the National Breast Cancer Foundation, Inc.® (NBCF) uses Breast C
 
 ## What Are the Signs of Breast Cancer?
 
-Healthcare providers urge all adult women to perform monthly [breast self-exams](https://www.nationalbreastcancer.org/breast-self-exam). If you find some of the symptoms below, please contact your doctor to schedule an appointment.  
+Healthcare providers urge all adult women to perform monthly [breast self-exams](https://www.nationalbreastcancer.org/breast-self-exam). If you find some of the symptoms below, please contact your doctor to schedule an appointment.
 
 * Skin changes, such as dimpling, redness, swelling, or pitting that resembles the skin of an orange
 * Change in breast size or shape over a short period of time and especially if on one side only

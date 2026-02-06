@@ -1,7 +1,6 @@
 ---
 title: "How AI Affects Your Business Website and What You Can Do About It"
 date: 2018-01-28T20:00:31.000Z
-slug: how-ai-affects-your-business-website
 description: "How AI Affects Your Business Website and What You Can Do About It"
 featured_image: /blog/images/archive/2018/01/artificial-intelligence.jpg
 authors: Jessica Sillers

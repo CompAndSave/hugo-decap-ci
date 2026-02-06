@@ -1,7 +1,6 @@
 ---
 title: "Your Printer Cartridge - Toxic or Not?"
 date: 2014-12-16T12:13:00.000Z
-slug: your-printer-cartridge-toxic-or-not
 description: "Your Printer Cartridge - Toxic or Not?"
 featured_image: null
 authors: Denise Resendez
@@ -18,9 +17,9 @@ This question can be alarming when you take into account personal health, well b
 | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Via Doom at Flickr                                                                                                                 |
 
-Overall, printer inks are non-toxic and are manufactured with strict adherence to statutory rules and safety guidelines. That said, it pays to educate oneself about the contents and ingredients of printer cartridges. 
+Overall, printer inks are non-toxic and are manufactured with strict adherence to statutory rules and safety guidelines. That said, it pays to educate oneself about the contents and ingredients of printer cartridges.
 
-Liquid inks and toner powders for laser and inkjet printers as well as photocopy machine inks do contain some traces of ingredients such as resins and carbon black. Both used as color pigments, resins are chemically based polymers and carbon black is based from heavy petroleum products like tar. However, in most ink cartridges the primary ingredient is water, ethylene glycol and alcohol. 
+Liquid inks and toner powders for laser and inkjet printers as well as photocopy machine inks do contain some traces of ingredients such as resins and carbon black. Both used as color pigments, resins are chemically based polymers and carbon black is based from heavy petroleum products like tar. However, in most ink cartridges the primary ingredient is water, ethylene glycol and alcohol.
 
 There is also some evidence to suggest that very small quantities of ozone may be produced during the process of printing or photocopying. The solvents used for coloring and to speed up the process of drying are often petroleum based and could release VOC (volatile organic compounds) compounds.
 
@@ -36,5 +35,5 @@ It also goes without saying that you should handle printer ink carefully, especi
 2. It is also important to not waste ink. Not only is printer ink an expensive resource, discarded cartridges also present an environmental challenge. So store cartridges as directed, use draft printouts when possible and prevent the drying of ink by regularly taking printouts.
 3. Dispose used cartridges responsibly. Many manufacturers have a recycling program that takes back exhausted cartridges so that they do not end up in landfills. Consider using **remanufactured toner and ink cartridges** to help support the initiative to limit the number of empty cartridges ending up in landfills.
 
-  
+
 To keep track of more useful posts such as these, [subscribe to our newsletter](https://www.comboink.com/coupon) or follow us on [Facebook](https://www.facebook.com/comboink/). If you're looking for the best deals on ink cartridges, visit our [printer ink cartridge shop](https://www.comboink.com/)

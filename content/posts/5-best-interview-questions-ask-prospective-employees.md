@@ -2,7 +2,6 @@
 title: 5 Best Interview Questions to Ask Prospective Employees
 date: 2017-09-17T19:00:17.000Z
 authors: Stephanie Figy
-slug: 5-best-interview-questions-ask-prospective-employees
 featured_image: /blog/images/archive/2017/09/officemtg.jpg
 description: 5 Best Interview Questions to Ask Prospective Employees
 tags:

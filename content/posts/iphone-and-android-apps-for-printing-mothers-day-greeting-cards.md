@@ -2,7 +2,6 @@
 title: iPhone and Android Apps for Printing Mother's Day Greeting Cards
 date: 2015-05-04T21:34:00.000Z
 authors: Denise Resendez
-slug: iphone-and-android-apps-for-printing-mothers-day-greeting-cards
 featured_image: null
 description: iPhone and Android Apps for Printing Mother's Day Greeting Cards
 tags:

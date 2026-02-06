@@ -2,7 +2,6 @@
 title: How to lower the Amount of Money you spend on HP Ink Supplies
 date: 2012-06-24T12:37:00.000Z
 authors: Andrew Yeung
-slug: how-to-lower-amount-of-money-you-spend
 featured_image: null
 description: How to lower the Amount of Money you spend on HP Ink Supplies
 tags:

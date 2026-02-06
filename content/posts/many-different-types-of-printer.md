@@ -1,7 +1,6 @@
 ---
 title: "The Many different types of Printer Cartridges"
 date: 2012-01-30T08:15:00.000Z
-slug: many-different-types-of-printer
 description: "The Many different types of Printer Cartridges"
 featured_image: null
 authors: Andrew Yeung
@@ -16,7 +15,7 @@ Compatible cartridges are specifically manufactured to fulfil or exceed OEM (Ori
 
 Compatible cartridges are merely sold at 1/2 or 1/3 of the price tag on OEM cartridges. Therefore, they're cost-effective alternatives to expensive OEM cartridges. 100% compatible cartridges imply that these cartridges include all of the components (e.g. replacement chips) in order that they are fully compatible with the particular printer models. Replacement cartridges which are not 100% compatible can be obtained at a lower price however they may cause issues in printing.
 
-As an example, a [compatible cartridge](https://www.comboink.com/) with no new replacement chip might have problem communicating with the printer because the printer software would believe that the ink / toner are always low.  
+As an example, a [compatible cartridge](https://www.comboink.com/) with no new replacement chip might have problem communicating with the printer because the printer software would believe that the ink / toner are always low.
 Most compatible inkjet cartridges are produced 100% brand-new, containing only new elements. Compatible toner cartridges can include both used and new components unless otherwise mentioned.
 
 Remanufactured cartridges may also be called refurbished cartridges. They may be OEM or alternative party manufacturer's inkjet and toner cartridges that have been through one cycle of service and have recently been recharged. Every remanufactured cartridge needs to be thoroughly cleaned, exhausted parts replaced, filled with the exact same ink formulation, and been through vigorous testing.

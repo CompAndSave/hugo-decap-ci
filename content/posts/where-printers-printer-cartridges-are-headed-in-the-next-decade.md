@@ -1,7 +1,6 @@
 ---
 title: "Where Printers & Printer Cartridges Are Headed In the Next Decade"
 date: 2015-07-14T22:57:00.000Z
-slug: where-printers-printer-cartridges-are-headed-in-the-next-decade
 description: "Where Printers & Printer Cartridges Are Headed In the Next Decade"
 featured_image: null
 authors: Denise Resendez

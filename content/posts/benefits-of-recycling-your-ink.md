@@ -1,7 +1,6 @@
 ---
 title: "The Benefits of Recycling your Ink Cartridges"
 date: 2012-02-11T02:57:00.000Z
-slug: benefits-of-recycling-your-ink
 description: "The Benefits of Recycling your Ink Cartridges"
 featured_image: null
 authors: Andrew Yeung

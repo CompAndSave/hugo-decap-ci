@@ -2,7 +2,6 @@
 title: The HP PhotoSmart C8183 Printer – A formal Review
 date: 2012-06-10T08:06:00.000Z
 authors: Andrew Yeung
-slug: hp-photosmart-c8183-printer-formal
 featured_image: null
 description: The HP PhotoSmart C8183 Printer – A formal Review
 tags:

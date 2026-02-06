@@ -2,7 +2,6 @@
 title: Compatible Printer Inks for the HP PhotoSmart 230
 date: 2012-03-17T06:12:00.000Z
 authors: Andrew Yeung
-slug: compatible-printer-inks-for-hp
 featured_image: null
 description: Compatible Printer Inks for the HP PhotoSmart 230
 tags:

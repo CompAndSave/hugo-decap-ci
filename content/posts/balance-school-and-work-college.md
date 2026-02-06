@@ -1,7 +1,6 @@
 ---
 title: "How to Balance School and Work While You Are in College"
 date: 2017-08-22T15:30:27.000Z
-slug: balance-school-and-work-college
 description: "How to Balance School and Work While You Are in College"
 featured_image: /blog/images/archive/2017/08/collegestudent.jpeg
 authors: Katy Smith

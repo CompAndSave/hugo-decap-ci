@@ -2,7 +2,6 @@
 title: The HP PhotoSmart 2410 All in One Printer
 date: 2012-03-17T05:58:00.000Z
 authors: Andrew Yeung
-slug: hp-photosmart-2410-all-in-one-printer
 featured_image: null
 description: The HP PhotoSmart 2410 All in One Printer
 tags:

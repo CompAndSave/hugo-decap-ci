@@ -1,7 +1,6 @@
 ---
 title: "Thanksgiving Themed Printable Placemats and Origami"
 date: 2013-11-15T05:18:00.000Z
-slug: thanksgiving-themed-printable-placemats-and-origami
 description: "Thanksgiving Themed Printable Placemats and Origami"
 featured_image: null
 authors: Andrew Yeung

@@ -2,7 +2,6 @@
 title: Using a Compatible Ink Cartridge with your Printer?
 date: 2012-06-01T02:33:00.000Z
 authors: Andrew Yeung
-slug: using-compatible-ink-cartridge-with
 featured_image: null
 description: Using a Compatible Ink Cartridge with your Printer?
 tags:

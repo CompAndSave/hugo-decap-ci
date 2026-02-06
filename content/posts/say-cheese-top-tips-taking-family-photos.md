@@ -2,7 +2,6 @@
 title: Say Cheese! Top Tips for Taking Your Family Photos
 date: 2018-01-21T20:00:04.000Z
 authors: Stephanie Figy
-slug: say-cheese-top-tips-taking-family-photos
 featured_image: /blog/images/archive/2018/01/familyphoto.jpg
 description: Say Cheese! Top Tips for Taking Your Family Photos
 tags:

@@ -1,7 +1,6 @@
 ---
 title: "Shoestring Marketing for Big Results!"
 date: 2011-12-17T07:37:00.000Z
-slug: shoestring-marketing-for-big-results
 description: "Shoestring Marketing for Big Results!"
 featured_image: null
 authors: Andrew Yeung

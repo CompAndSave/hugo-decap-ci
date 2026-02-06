@@ -2,7 +2,6 @@
 title: How to Be Productive When You Work from Home
 date: 2017-11-19T20:00:14.000Z
 authors: Stephanie Figy
-slug: productive-work-from-home
 featured_image: /blog/images/archive/2017/11/computerathome.jpg
 description: How to Be Productive When You Work from Home
 tags:

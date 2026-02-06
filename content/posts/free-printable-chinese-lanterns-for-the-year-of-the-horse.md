@@ -1,7 +1,6 @@
 ---
 title: "Free Printable Chinese Lanterns for the Year of the Horse"
 date: 2014-01-11T05:24:00.000Z
-slug: free-printable-chinese-lanterns-for-the-year-of-the-horse
 description: "Free Printable Chinese Lanterns for the Year of the Horse"
 featured_image: null
 authors: Andrew Yeung

@@ -2,7 +2,6 @@
 title: Make Your Business More Energy Efficient This Winter
 date: 2017-01-10T21:30:00.000Z
 authors: Katy Smith
-slug: make-your-business-energy-efficient
 featured_image: /blog/images/archive/2017/01/businessinwinter-1.jpg
 description: Make Your Business More Energy Efficient This Winter
 tags:

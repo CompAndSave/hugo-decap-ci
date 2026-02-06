@@ -1,7 +1,6 @@
 ---
 title: "Behind ComboInk's Logo Design Update - February 2015"
 date: 2015-02-03T02:06:00.000Z
-slug: behind-comboinks-logo-design-update-february-2015
 description: "Behind ComboInk's Logo Design Update - February 2015"
 featured_image: null
 authors: Denise Resendez

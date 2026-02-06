@@ -1,7 +1,6 @@
 ---
 title: "5 Tips to Effectively Manage Your Remote Employees"
 date: 2017-12-17T20:00:01.000Z
-slug: 5-tips-effectively-manage-remote-employees
 description: "5 Tips to Effectively Manage Your Remote Employees"
 featured_image: /blog/images/archive/2017/12/workfromhome.jpg
 authors: Stephanie Figy

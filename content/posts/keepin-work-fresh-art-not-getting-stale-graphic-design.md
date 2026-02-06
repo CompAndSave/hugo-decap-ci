@@ -1,7 +1,6 @@
 ---
 title: "Keepin' It (Your Work) Fresh: The Art of Not Getting Stale in Graphic Design"
 date: 2017-10-01T19:00:10.000Z
-slug: keepin-work-fresh-art-not-getting-stale-graphic-design
 description: "Keepin' It (Your Work) Fresh: The Art of Not Getting Stale in Graphic Design"
 featured_image: /blog/images/archive/2017/10/otter-min-.png
 authors: Alexa Bigornia

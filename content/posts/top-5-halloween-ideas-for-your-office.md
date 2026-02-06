@@ -1,7 +1,6 @@
 ---
 title: "Top 5 Halloween Ideas for Your Office"
 date: 2016-10-18T19:30:00.000Z
-slug: top-5-halloween-ideas-for-your-office
 description: "Top 5 Halloween Ideas for Your Office"
 featured_image: /blog/images/archive/2016/10/halloween-pumpkins-1.jpg
 authors: Katy Smith

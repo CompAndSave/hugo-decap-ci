@@ -1,7 +1,6 @@
 ---
 title: "Internet Browsing Tips to Make Your Life Easier"
 date: 2015-09-18T23:55:00.000Z
-slug: internet-browsing-tips-to-make-your-life-easier
 description: "Internet Browsing Tips to Make Your Life Easier"
 featured_image: null
 authors: Denise Resendez
@@ -33,7 +32,7 @@ Not reaching for your mouse all the time can seriously reduce arm fatigue and ca
 
 #### Browser Extensions to Make Life Easier
 
-Most browsers have built in spell checks so if you're making a spelling error, that red squiggly line under the typed word will warn you. In addition the ‘[Grammarly](http://grammarly.com/)' extension for Chrome also helps to detect contextual and grammatical errors, and offers dictionary integration as well.   
+Most browsers have built in spell checks so if you're making a spelling error, that red squiggly line under the typed word will warn you. In addition the ‘[Grammarly](http://grammarly.com/)' extension for Chrome also helps to detect contextual and grammatical errors, and offers dictionary integration as well.
 Then there is a [‘Pocket' extension](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) for Chrome that lets you quickly and easily save articles and other pages that you want to read or refer to later.
 
 If you are someone who wants to know more about anything new that they come across you probably waste a lot of time going from one to another page on Wikipedia. [Wikipedia Quick Hints](https://chrome.google.com/webstore/detail/wikipedia-quick-hints/ldnhgfghebflgcndlbppfanbchpgmkna?hl=en) is the extension that brings up the Wikipedia page in a little box as you move your mouse over the link. Now you can know about new terms and concepts without having to visit the page; simply by moving the cursor over the link term.
@@ -44,6 +43,6 @@ If you are someone who wants to know more about anything new that they come acro
 
 Needless to say you need to have your virus protection up to date not only to protect against worms and malware but also against adware. Adware can be annoying in the extreme, showing up items on your web page that are irrelevant, disturbing and downright irritating.
 
-Be sure to have your pop-up blocker activated from the browser settings. You can always add exceptions if you wish to. Also, when you download a new program or app, particularly free software, is particularly careful. It is best to read a few reviews before downloading. Be sure to pick CUSTOM INSTALLATION. Don't go with the default installation even if it is recommended, because a lot of bundled rubbish can land up on your computer along with that plugin or app. 
+Be sure to have your pop-up blocker activated from the browser settings. You can always add exceptions if you wish to. Also, when you download a new program or app, particularly free software, is particularly careful. It is best to read a few reviews before downloading. Be sure to pick CUSTOM INSTALLATION. Don't go with the default installation even if it is recommended, because a lot of bundled rubbish can land up on your computer along with that plugin or app.
 
 So enjoy your browsing! And if you have any of your browsing tips to share, we would love to hear about them.

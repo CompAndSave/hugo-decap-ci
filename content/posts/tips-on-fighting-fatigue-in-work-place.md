@@ -2,7 +2,6 @@
 title: Tips for fighting fatigue in the work place
 date: 2014-09-19T08:18:00.000Z
 authors: Andrew Yeung
-slug: tips-on-fighting-fatigue-in-work-place
 featured_image: null
 description: Tips for fighting fatigue in the work place
 tags:

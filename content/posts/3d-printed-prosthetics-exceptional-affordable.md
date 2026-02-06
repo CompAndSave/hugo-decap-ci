@@ -1,7 +1,6 @@
 ---
 title: "3D Printed Prosthetics: Exceptional & Affordable"
 date: 2015-05-20T21:00:00.000Z
-slug: 3d-printed-prosthetics-exceptional-affordable
 description: "3D Printed Prosthetics: Exceptional & Affordable"
 featured_image: null
 authors: Denise Resendez

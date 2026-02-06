@@ -1,7 +1,6 @@
 ---
 title: "How Remanufactured Cartridges Are Changing the Printing Industry"
 date: 2016-06-09T05:45:00.000Z
-slug: how-remanufactured-cartridges-are-changing-the-printing-industry
 description: "How Remanufactured Cartridges Are Changing the Printing Industry"
 featured_image: /blog/images/archive/2016/06/ti-product-shot-1.jpg
 authors: Katy Smith

@@ -2,7 +2,6 @@
 title: The HP PhotoSmart 1000 Compatible Ink Cartridge
 date: 2012-03-17T05:56:00.000Z
 authors: Andrew Yeung
-slug: hp-photosmart-1000-compatible-ink
 featured_image: null
 description: The HP PhotoSmart 1000 Compatible Ink Cartridge
 tags:

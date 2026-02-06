@@ -2,7 +2,6 @@
 title: All in One Printer Review – The HP PhotoSmart D6160
 date: 2012-06-08T02:26:00.000Z
 authors: Andrew Yeung
-slug: all-in-one-printer-review-hp-photosmart
 featured_image: null
 description: All in One Printer Review – The HP PhotoSmart D6160
 tags:

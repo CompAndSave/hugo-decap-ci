@@ -2,7 +2,6 @@
 title: 5 Tips on How to Reduce Printer Ink Costs
 date: 2016-08-01T20:30:00.000Z
 authors: Andrew Yeung
-slug: 5-tips-on-how-to-save-on-printer-ink
 featured_image: /blog/images/archive/2016/08/Printer-ink-problems-590x350-1.jpg
 description: 5 Tips on How to Reduce Printer Ink Costs
 tags:

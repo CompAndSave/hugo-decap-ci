@@ -1,7 +1,6 @@
 ---
 title: "Tips for printing great quality photos at home"
 date: 2014-04-02T04:47:00.000Z
-slug: tips-for-printing-great-quality-photos-at-home
 description: "Tips for printing great quality photos at home"
 featured_image: null
 authors: Andrew Yeung

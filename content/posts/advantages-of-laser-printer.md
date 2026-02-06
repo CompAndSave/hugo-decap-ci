@@ -1,7 +1,6 @@
 ---
 title: "The Advantages of the Laser Printer"
 date: 2012-01-23T13:04:00.000Z
-slug: advantages-of-laser-printer
 description: "The Advantages of the Laser Printer"
 featured_image: /blog/images/archive/2012/01/Brother-HL-L2380DW.jpg
 authors: Andrew Yeung

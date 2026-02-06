@@ -1,7 +1,6 @@
 ---
 title: "ComboInk Printing Supplies – Back to School Special Event"
 date: 2013-08-16T01:23:00.000Z
-slug: it-is-back-to-school-time-and-parents
 description: "ComboInk Printing Supplies – Back to School Special Event"
 featured_image: null
 authors: Andrew Yeung

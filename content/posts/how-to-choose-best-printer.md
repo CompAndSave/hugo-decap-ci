@@ -1,7 +1,6 @@
 ---
 title: "How To Choose the Best Printer For Your Business"
 date: 2016-04-06T22:00:00.000Z
-slug: how-to-choose-best-printer
 description: "How To Choose the Best Printer For Your Business"
 featured_image: null
 authors: Katy Smith

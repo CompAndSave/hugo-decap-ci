@@ -2,7 +2,6 @@
 title: Postscript (PS) And Ghostscript
 date: 2010-11-24T10:39:00.000Z
 authors: Andrew Yeung
-slug: postscript-ps-and-ghostscript
 featured_image: null
 description: Postscript (PS) And Ghostscript
 tags:

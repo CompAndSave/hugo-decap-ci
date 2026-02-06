@@ -2,7 +2,6 @@
 title: Color Ink Jet Printers – The HP PhotoSmart Range
 date: 2012-05-20T07:55:00.000Z
 authors: Andrew Yeung
-slug: color-ink-jet-printers-hp-photosmart
 featured_image: null
 description: Color Ink Jet Printers – The HP PhotoSmart Range
 tags:

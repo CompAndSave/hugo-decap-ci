@@ -2,7 +2,6 @@
 title: The HP PhotoSmart 8238 Printer
 date: 2012-03-23T01:36:00.000Z
 authors: Andrew Yeung
-slug: hp-photosmart-8238-printer
 featured_image: null
 description: The HP PhotoSmart 8238 Printer
 tags:

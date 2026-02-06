@@ -1,7 +1,6 @@
 ---
 title: "A Brief History of the Ink Cartridge"
 date: 2012-02-05T09:30:00.000Z
-slug: brief-history-of-ink-cartridge
 description: "A Brief History of the Ink Cartridge"
 featured_image: null
 authors: Andrew Yeung

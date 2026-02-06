@@ -2,7 +2,6 @@
 title: The HP PhotoSmart D7355 printer
 date: 2012-03-26T11:32:00.000Z
 authors: Andrew Yeung
-slug: hp-photosmart-d7355-printer
 featured_image: null
 description: The HP PhotoSmart D7355 printer
 tags:

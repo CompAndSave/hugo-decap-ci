@@ -2,7 +2,6 @@
 title: Are All in One Printers the Way to Go?
 date: 2012-05-19T04:13:00.000Z
 authors: Andrew Yeung
-slug: are-all-in-one-printers-way-to-go
 featured_image: null
 description: Are All in One Printers the Way to Go?
 tags:

@@ -2,7 +2,6 @@
 title: "Save Money With DIY Wedding Invitations"
 date: 2020-07-29T04:55:01.000Z
 draft: true
-slug: temp-slug-120
 description: "Save Money With DIY Wedding Invitations"
 featured_image: null
 authors: Denise Resendez

@@ -1,7 +1,6 @@
 ---
 title: "How to Make Any Wi-Fi Printer Work with Your iPhone or Android Smartphone"
 date: 2015-04-13T21:30:00.000Z
-slug: how-to-make-any-wi-fi-printer-work-with-your-iphone-or-android-smartphone
 description: "How to Make Any Wi-Fi Printer Work with Your iPhone or Android Smartphone"
 featured_image: null
 authors: Denise Resendez

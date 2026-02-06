@@ -1,7 +1,6 @@
 ---
 title: "What is 3D printing and how does it work?"
 date: 2014-09-10T04:07:00.000Z
-slug: what-is-3d-printing-and-how-does-it-work
 description: "What is 3D printing and how does it work?"
 featured_image: null
 authors: Andrew Yeung

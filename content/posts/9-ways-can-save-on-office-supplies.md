@@ -1,7 +1,6 @@
 ---
 title: "9 Ways You Can Save on Office Supplies"
 date: 2017-09-24T19:00:36.000Z
-slug: 9-ways-can-save-on-office-supplies
 description: "9 Ways You Can Save on Office Supplies"
 featured_image: /blog/images/archive/2017/09/officesupplies.jpg
 authors: Jessica Sillers

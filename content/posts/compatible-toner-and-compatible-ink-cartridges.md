@@ -2,7 +2,6 @@
 title: Compatible Toner and Compatible Ink Cartridges
 date: 2010-08-26T06:41:00.000Z
 authors: Andrew Yeung
-slug: compatible-toner-and-compatible-ink-cartridges
 featured_image: null
 description: Compatible Toner and Compatible Ink Cartridges
 tags:

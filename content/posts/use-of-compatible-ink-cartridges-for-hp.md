@@ -2,7 +2,6 @@
 title: The Use of Compatible Ink Cartridges for the HP PhotoSmart C5190 Printer
 date: 2012-04-28T00:25:00.000Z
 authors: Andrew Yeung
-slug: use-of-compatible-ink-cartridges-for-hp
 featured_image: null
 description: The Use of Compatible Ink Cartridges for the HP PhotoSmart C5190 Printer
 tags:

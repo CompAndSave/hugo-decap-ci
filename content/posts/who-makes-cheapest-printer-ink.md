@@ -2,7 +2,6 @@
 title: Who Makes the Cheapest Printer Ink Cartridges?
 date: 2012-05-18T06:00:00.000Z
 authors: Andrew Yeung
-slug: who-makes-cheapest-printer-ink
 featured_image: null
 description: Who Makes the Cheapest Printer Ink Cartridges?
 tags:

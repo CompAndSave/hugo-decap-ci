@@ -2,7 +2,6 @@
 title: Simplify your life using the PhotoSmart C6183 Printer
 date: 2012-04-30T08:54:00.000Z
 authors: Andrew Yeung
-slug: simplify-your-life-using-photosmart
 featured_image: null
 description: Simplify your life using the PhotoSmart C6183 Printer
 tags:

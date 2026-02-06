@@ -2,7 +2,6 @@
 title: Choosing the best Ink cartridges for your HP Printer
 date: 2012-05-20T07:54:00.000Z
 authors: Andrew Yeung
-slug: choosing-best-ink-cartridges-for-your
 featured_image: null
 description: Choosing the best Ink cartridges for your HP Printer
 tags:

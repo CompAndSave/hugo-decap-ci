@@ -1,7 +1,6 @@
 ---
 title: "4 Maintenance Tips To Ensure High-Quality Prints"
 date: 2016-01-28T05:55:00.000Z
-slug: 4-maintenance-tips-to-ensure-high-quality-prints
 description: "4 Maintenance Tips To Ensure High-Quality Prints"
 featured_image: null
 authors: Katy Smith

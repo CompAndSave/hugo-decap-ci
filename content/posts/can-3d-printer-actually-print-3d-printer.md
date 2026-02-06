@@ -1,7 +1,6 @@
 ---
 title: "Can a 3D Printer Actually Print a 3D Printer?"
 date: 2015-04-20T20:00:00.000Z
-slug: can-3d-printer-actually-print-3d-printer
 description: "Can a 3D Printer Actually Print a 3D Printer?"
 featured_image: null
 authors: Denise Resendez

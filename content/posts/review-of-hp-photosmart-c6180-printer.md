@@ -2,7 +2,6 @@
 title: A review of the HP PhotoSmart C6180 Printer
 date: 2012-04-30T08:55:00.000Z
 authors: Andrew Yeung
-slug: review-of-hp-photosmart-c6180-printer
 featured_image: null
 description: A review of the HP PhotoSmart C6180 Printer
 tags:

@@ -1,7 +1,6 @@
 ---
 title: "Common Myths about Printing & Ink"
 date: 2014-07-09T05:49:00.000Z
-slug: common-myths-about-printing-ink
 description: "Common Myths about Printing & Ink"
 featured_image: null
 authors: Andrew Yeung

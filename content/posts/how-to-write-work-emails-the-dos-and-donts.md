@@ -2,7 +2,6 @@
 title: "How to Write Work Emails: The Dos and Don'ts"
 date: 2018-03-25T19:00:10.000Z
 authors: Jessica Sillers
-slug: how-to-write-work-emails-the-dos-and-donts
 featured_image: /blog/images/archive/2018/03/writtingemails.jpg
 description: "How to Write Work Emails: The Dos and Don'ts"
 tags:

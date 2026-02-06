@@ -2,7 +2,6 @@
 title: Ink Jet Printer Reviews – The HP PhotoSmart D7100
 date: 2012-06-08T02:25:00.000Z
 authors: Andrew Yeung
-slug: ink-jet-printer-reviews-hp-photosmart
 featured_image: null
 description: Ink Jet Printer Reviews – The HP PhotoSmart D7100
 tags:

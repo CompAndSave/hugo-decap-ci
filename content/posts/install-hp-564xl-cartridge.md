@@ -1,7 +1,6 @@
 ---
 title: "How to Install HP 564XL Cartridge"
 date: 2017-07-25T15:30:36.000Z
-slug: install-hp-564xl-cartridge
 description: "How to Install HP 564XL Cartridge"
 featured_image: /blog/images/archive/2017/07/ZINK-HP-HP564XL-COMBO4.jpg
 authors: Katy Smith

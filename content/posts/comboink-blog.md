@@ -2,7 +2,6 @@
 title: ComboInk Blog
 date: 2010-08-04T14:23:00.000Z
 authors: Andrew Yeung
-slug: comboink-blog
 featured_image: null
 description: ComboInk Blog
 tags:

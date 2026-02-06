@@ -2,7 +2,6 @@
 title: Multifunctional Printers – The HP PhotoSmart C8180 Printer
 date: 2012-06-10T08:05:00.000Z
 authors: Andrew Yeung
-slug: multifunctional-printers-hp-photosmart
 featured_image: null
 description: Multifunctional Printers – The HP PhotoSmart C8180 Printer
 tags:

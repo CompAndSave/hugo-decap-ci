@@ -1,7 +1,6 @@
 ---
 title: "How to Store and Install your Ink Cartridges"
 date: 2012-02-11T02:54:00.000Z
-slug: how-to-store-and-install-your-ink-cartridges
 description: "How to Store and Install your Ink Cartridges"
 featured_image: null
 authors: Andrew Yeung

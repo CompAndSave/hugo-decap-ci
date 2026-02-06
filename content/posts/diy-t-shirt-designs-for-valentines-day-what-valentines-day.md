@@ -1,7 +1,6 @@
 ---
 title: "DIY T-Shirt Designs for Valentine's Day – WHAT Valentine's Day?"
 date: 2014-02-06T04:50:00.000Z
-slug: diy-t-shirt-designs-for-valentines-day-what-valentines-day
 description: "DIY T-Shirt Designs for Valentine's Day – WHAT Valentine's Day?"
 featured_image: null
 authors: Andrew Yeung

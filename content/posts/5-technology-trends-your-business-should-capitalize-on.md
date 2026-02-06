@@ -1,7 +1,6 @@
 ---
 title: "5 Technology Trends Your Business Should Capitalize On"
 date: 2016-01-14T06:12:00.000Z
-slug: 5-technology-trends-your-business-should-capitalize-on
 description: "5 Technology Trends Your Business Should Capitalize On"
 featured_image: null
 authors: Katy Smith

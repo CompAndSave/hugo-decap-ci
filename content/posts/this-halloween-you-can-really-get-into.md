@@ -2,7 +2,6 @@
 title: Free Printable Home & Office Decorations for Halloween
 date: 2013-10-17T01:58:00.000Z
 authors: Andrew Yeung
-slug: this-halloween-you-can-really-get-into
 featured_image: null
 description: Free Printable Home & Office Decorations for Halloween
 tags:
@@ -34,7 +33,7 @@ Here's what you will need to create your own unique, free printable spooky Hallo
 * Frankenstein's body
 * Frankenstein's hands
 * Frankenstein's face
-* Haunted house (outline for coloring)  
+* Haunted house (outline for coloring)
 [![](/blog/images/haunted.png)](/blog/images/haunted.png)
 * Clicking on the décor idea of your choice will open another tab which is the PDF version of the printable decoration.
 * Now click "PRINT" from your browser's drop down menu.

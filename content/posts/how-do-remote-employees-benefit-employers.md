@@ -1,7 +1,6 @@
 ---
 title: "How Do Remote Employees Benefit Employers?"
 date: 2018-03-18T19:00:16.000Z
-slug: how-do-remote-employees-benefit-employers
 description: "How Do Remote Employees Benefit Employers?"
 featured_image: /blog/images/archive/2018/03/workfromhome.jpg
 authors: Stephanie Figy

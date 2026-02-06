@@ -1,7 +1,6 @@
 ---
 title: "How to Create Your Own Marketing Materials"
 date: 2017-01-31T21:30:00.000Z
-slug: create-your-own-marketing-materials
 description: "How to Create Your Own Marketing Materials"
 featured_image: /blog/images/archive/2017/01/store-owner-businesswoman-1.jpg
 authors: Katy Smith

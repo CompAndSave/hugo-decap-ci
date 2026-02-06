@@ -1,7 +1,6 @@
 ---
 title: "How to Solve Pesky Printer Problems"
 date: 2016-10-25T19:30:00.000Z
-slug: how-to-solve-pesky-printer-problems
 description: "How to Solve Pesky Printer Problems"
 featured_image: /blog/images/archive/2016/10/Office-Space-Printer-Smash-1.jpg
 authors: Katy Smith

@@ -2,7 +2,6 @@
 title: "Home Office Essentials: How to Make Work a Sanctuary"
 date: 2018-04-22T19:00:25.000Z
 authors: Stephanie Figy
-slug: home-office-essentials-how-to-make-work-a-sanctuary
 featured_image: /blog/images/archive/2018/04/homeprinter.jpg
 description: "Home Office Essentials: How to Make Work a Sanctuary"
 tags:

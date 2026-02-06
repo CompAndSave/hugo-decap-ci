@@ -1,7 +1,6 @@
 ---
 title: "History of Computer Printing"
 date: 2018-07-03T21:48:30.000Z
-slug: history-of-computer-printing
 description: "History of Computer Printing"
 featured_image: /blog/images/archive/2018/05/copier-155377643_5616x3744.jpeg
 authors: Andrew Yeung

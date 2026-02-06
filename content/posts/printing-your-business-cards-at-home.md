@@ -2,7 +2,6 @@
 title: Printing Your Business Cards at Home
 date: 2015-01-20T01:43:00.000Z
 authors: Denise Resendez
-slug: printing-your-business-cards-at-home
 featured_image: null
 description: Printing Your Business Cards at Home
 tags:

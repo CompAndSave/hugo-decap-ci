@@ -2,7 +2,6 @@
 title: Free Printables for Father's Day | ComboInk.com
 date: 2014-06-10T07:37:00.000Z
 authors: Andrew Yeung
-slug: free-printables-for-fathers-day-comboink-com
 featured_image: null
 description: Free Printables for Father's Day | ComboInk.com
 tags:
@@ -23,7 +22,7 @@ Free printables for Father's Day
 
 ### The Tie Card for Father's Day
 
-[![Father's Day Card](/blog/images/Snap53.jpg)](/blog/images/Snap53.jpg)[**The Tie Card**](https://www.comboink.com/download/printables/tie-card.pdf) is shaped like a necktie and we've offered you three color and wording options: the green one just says _Happy Father's Day_, the plum color scheme says _For the World's Best Dad_ and a blue card has the simple but heartfelt message _Love You Daddy._ Just print out the PDF file and cut along the dashed lines.  
+[![Father's Day Card](/blog/images/Snap53.jpg)](/blog/images/Snap53.jpg)[**The Tie Card**](https://www.comboink.com/download/printables/tie-card.pdf) is shaped like a necktie and we've offered you three color and wording options: the green one just says _Happy Father's Day_, the plum color scheme says _For the World's Best Dad_ and a blue card has the simple but heartfelt message _Love You Daddy._ Just print out the PDF file and cut along the dashed lines.
 You can use these printables as a greeting card for your dad or you can use them as a gift tag to go along with a gift you've got for him. If you have small kids, you can get them to write some words for their daddy in their own hand writing. Fathers are sure to love them!
 
 ### Our Special Canvas Paper

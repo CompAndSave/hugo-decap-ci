@@ -2,7 +2,6 @@
 title: Why should we use the Compatible ink Cartridge?
 date: 2012-06-18T09:30:00.000Z
 authors: Andrew Yeung
-slug: why-should-we-use-compatible-ink
 featured_image: null
 description: Why should we use the Compatible ink Cartridge?
 tags:

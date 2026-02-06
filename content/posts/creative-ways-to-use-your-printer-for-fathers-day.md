@@ -1,7 +1,6 @@
 ---
 title: "Creative Ways to Use Your Printer for Father's Day"
 date: 2015-06-16T06:33:00.000Z
-slug: creative-ways-to-use-your-printer-for-fathers-day
 description: "Creative Ways to Use Your Printer for Father's Day"
 featured_image: null
 authors: Denise Resendez
