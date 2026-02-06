@@ -32,3 +32,4 @@ disableAliases = true
 
 [pagination]
     pagerSize = 9
+    disableAliases = true
