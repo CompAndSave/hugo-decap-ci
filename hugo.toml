@@ -6,6 +6,10 @@ uglyURLs = true
 summaryLength= 25
 pagination.pagerSize = 9
 disqusShortname = 'https-www-comboink-com-blog'
+disableKinds = []
+
+[permalinks]
+  posts = "/posts/:filename"
 
 [params]
     name= 'ComboInk'
