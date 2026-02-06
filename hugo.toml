@@ -27,7 +27,7 @@ disableAliases = true
     term = ["html"]
 
 [outputFormats]
-    [html]
+    [outputFormats.html]
         ugly = true
 
 [pagination]
