@@ -34,7 +34,7 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
@@ -48,7 +48,7 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify
+            --minify \
             --config hugo.toml
       - name: Git Clone from static content repo
         uses: lubu12/copy-files-to-repository@v1
