@@ -48,7 +48,8 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify
+            --minify \
+            --ignoreCache
       - name: Git Clone from static content repo
         uses: lubu12/copy-files-to-repository@v1
         env:

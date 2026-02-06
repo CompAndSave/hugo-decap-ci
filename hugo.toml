@@ -5,7 +5,6 @@ publishDir = 'blog'
 uglyURLs = true
 summaryLength= 25
 disqusShortname = 'https-www-comboink-com-blog'
-disableAliases = true
 
 [permalinks]
   posts = "/posts/:contentbasename"
