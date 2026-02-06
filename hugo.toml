@@ -2,12 +2,8 @@ baseURL = 'https://www.comboink.com/blog/'
 title = 'ComboInk Blog | Ink, Toner, Business, Printing, and More'
 theme = 'ciBlog'
 publishDir = 'blog'
-uglyURLs = true
 summaryLength= 25
 disqusShortname = 'https-www-comboink-com-blog'
-
-[permalinks]
-  posts = "/posts/:contentbasename"
 
 [params]
     name= 'ComboInk'
@@ -30,5 +26,8 @@ disqusShortname = 'https-www-comboink-com-blog'
         ugly = true
 
 [pagination]
-    pagerSize = 9
     disableAliases = true
+    pagerSize = 9
+
+[uglyURLs]
+  posts = true
