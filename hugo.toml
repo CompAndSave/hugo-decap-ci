@@ -2,6 +2,7 @@ baseURL = 'https://www.comboink.com/blog/'
 title = 'ComboInk Blog | Ink, Toner, Business, Printing, and More'
 theme = 'ciBlog'
 publishDir = 'blog'
+uglyURLs = true
 summaryLength= 25
 disqusShortname = 'https-www-comboink-com-blog'
 
@@ -15,19 +16,12 @@ disqusShortname = 'https-www-comboink-com-blog'
 	tags = "tags"
 
 [outputs]
-    home = ["html", "rss"]
-    page = ["html"]
-    section = ["html"]
-    taxonomy = ["html"]
-    term = ["html"]
-
-[outputFormats]
-    [outputFormats.html]
-        ugly = true
+    home = ["HTML", "RSS", "JSON"]
+    page = ["HTML"]
+    section = ["HTML"]
+    taxonomy = ["HTML"]
+    term = ["HTML"]
 
 [pagination]
     disableAliases = true
     pagerSize = 9
-
-[uglyURLs]
-  posts = true

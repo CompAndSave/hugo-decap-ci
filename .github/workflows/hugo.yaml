@@ -25,7 +25,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.154.5
+      HUGO_VERSION: 0.155.3
     steps:
       - name: Install Hugo CLI
         run: |
@@ -48,8 +48,7 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify \
-            --ignoreCache
+            --minify
       - name: Git Clone from static content repo
         uses: lubu12/copy-files-to-repository@v1
         env:
