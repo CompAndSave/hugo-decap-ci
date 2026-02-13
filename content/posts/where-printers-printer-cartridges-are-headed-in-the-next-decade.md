@@ -14,13 +14,13 @@ The inkjet printer was invented back in 1976\. Yet, it took another 12 years bef
 
 We use our printers to perform many tasks. Our photos and documents can be scanned, copied and printed. Even from multiple devices, and sometimes, even wirelessly. You can now buy a printer in well under $100\. So printing has come a very long way in the past couple of decades. Do you wonder what the future holds?
 
-#### Digital Printing Right Now
+## Digital Printing Right Now
 
 Digital printing has overtaken traditional printing methods such as lithography. It now holds about half of the total market share in printing and is expect to grow. Digital printing is enabling marketers to communicate easily with customers. It's even helping governments easily create and implement policies.
 
 Quick Response (QR) Codes, or printed machine readable squares, have replaced traditional bar-coding in several areas. This is because of better storage capacity. As well as applications that include time tracking, product tracking, general marketing and document management.
 
-#### Ink Cartridges of the Future
+## Ink Cartridges of the Future
 
 In the printer cartridge market, it is well known fact that cartridges manufactured by OEMs (original equipment manufacturers) are quite pricy. Especially in comparison to generic products which are able to offer the same quality and print volume. Another trend is that while OEM cartridges appear to be getting more expensive, the price of generics appears to remain low. with newer technological advancements driving prices of generics even lower. Our comparative chart demonstrates (insert link or table as image here) how much less generics cost today.
 
@@ -31,7 +31,7 @@ The Impression Products v. Lexmark suit is a case in point. Here Lexmark has sue
 OEMs are also trying to stay competitive by developing new products such as the newly announced [EcoTank printers announced by Epson](http://www.techtimes.com/articles/17075/20141003/epson-rolls-out-ecotank-printers-goodbye-ink-cartridges-hello-ink-tanks.htm). Assuming that one household printer prints about 200 pages per month, the ‘ink tank' (as opposed to traditional cartridges) would last for about 2 years. In fact the company also offers a 1 year guarantee along with an assurance of 30,000 printed pages.
 One key change we see here is that printers are priced high (about $400). The company looks to make its profit from the printer rather than repeated cartridge replacements. This is a significant departure from the normal way OEMs make their profit.
 
-#### The Seemingly Endless Possibilities of 3D Printing
+## The Seemingly Endless Possibilities of 3D Printing
 
 The future of printing is quickly moving towards [3D printing](https://www.comboink.com/blog/tags/3d-printing.html)! Imagine creating personalized objects, buildings, food and perhaps human tissue with the help of these printers.
 

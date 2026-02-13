@@ -10,7 +10,7 @@ tags: [Printer Paper,Turkey Origami,Fun Thanksgiving Activities,Thanksgiving Din
 
 It's thanksgiving, time to sit back, relax, unbuckle and indulge your appetite in some delicious guilty pleasures. You can sweat out the consequences later. But before you stuff yourself, here's a very fun activity you can enjoy with your family and also make sure that everyone has a place at the dinner table. Try not to be tempted and reserve the best spot for yourself (the one where you have unrestrained access to every pot, casserole, crock, deep dish, and plate available). Download these printable dinner placemats and origami turkey designs and add it to your Thanksgiving tradition which children and adults alike can enjoy.
 
-**Here's what you need to get started:**
+## **Here's what you need to get started:**
 
 [![Thanksgiving Turkey Origami](/blog/images/turkey-1.jpg)](/blog/images/turkey-1.jpg)
 

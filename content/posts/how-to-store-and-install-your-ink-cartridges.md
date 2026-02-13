@@ -12,6 +12,8 @@ Although you may be able to get a great deal on the initial purchase of your pri
 
 A common problem that many of us encounter is the Ink drying out, and therefore deeming the Ink cartridge unusable. This is the last thing that you would wish to find after paying the price, which you may have paid for the cartridge.
 
+## Store And Install Ink Cartridges Correctly
+
 Make sure the Ink Cartridge, you have bought is stored in the original packaging that it came with. If the Ink cartridge is to be stored for any amount of time, following this guideline, should stop the ink from drying, making it ready to use, when the time comes to replace the old cartridge, you have been using.
 
 It is also important that the Print head is facing up, and also attempt not to store different inks, in the same packaging, as there is a possibility of the inks leaking and mixing together. If the storage area is to warm, the heat can cause the ink inside the cartridge to expand and bubble, which again can leak to the cartridge leaking.

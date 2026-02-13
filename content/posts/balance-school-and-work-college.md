@@ -12,39 +12,39 @@ College is a jumble of experiences ranging from fun and exciting to daunting and
 
 # Ways You Can Balance School and Work during College
 
-### 1\. Manage Your Time Wisely
+## 1\. Manage Your Time Wisely
 
 It's crucial to stick to a schedule if you're working and going to school at the same time. Sure, you already have to manage your time wisely when you're a full-time university student. But when you have a job too, your life has to become even more structured to succeed. You need to have enough time to attend classes, complete homework, and work at your job. And sleeping and eating of course! So adhering to a weekly schedule will make your life easier.
 
 At the start of the semester, list each of your commitments on a calendar. You'll be able to see how much time you'll have for studying and working, and then you can plan each day accordingly.
 
-### 2\. Take Online Courses
+## 2\. Take Online Courses
 
 If you're self-motivated, try to take as many online courses as possible. These types of courses will give you more flexibility when choosing a work shift and with your schedule in general.
 
 If you don't think online courses are a good fit for you or if your college doesn't offer them for your major, consider filling your morning with classes so that you can work in the afternoon (or vice versa). By blocking your mornings with classes, you'll be able to work at your part-time job for several hours straight in the afternoon and evening.
 
-### 3\. Find a Job Related to Your Major
+## 3\. Find a Job Related to Your Major
 
 By choosing a job in your area of study, you can often use the work experience in the classroom. For example, incorporate work examples in your papers; for larger projects, you can use your job as a case study. Conversely, impress your boss and put your course knowledge to use at your job.
 
-### 4\. Don't Spread Yourself Too Thin
+## 4\. Don't Spread Yourself Too Thin
 
 On your time management calendar (see 1 above), schedule some down time now and then. If you're constantly on the go, one of your commitments might suffer, your relationships with family and friends might deteriorate, and you may even get sick. Chronic stress has been linked to suppressing "[both cellular and humoral measures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1361287/?utm%5Fsource=Global+Healing+Center&utm%5Fcampaign=87899af75f-Natural%5FHealth%5FBlog%5FRSS%5FFeed&utm%5Fmedium=email&utm%5Fterm=0%5F7950820145-87899af75f-107880133)." Take care of yourself first and foremost.
 
 # Benefits to Working in College
 
-### Time Management
+## Time Management
 
 Having to learn time management skills by prioritizing your tasks and commitments will help you in your future career. Most employers highly value someone who is organized, can promptly meet deadlines, and can juggle multiple projects.
 
-### Full-Time Job
+## Full-Time Job
 
 Your part-time college job could lead to a full-time career once you graduate. That's why it's beneficial to find a job initially that relates to your major or a serious interest. I know several people who parlayed internships and part-time jobs into full-time jobs at the same company after graduation.
 
 Even if you aren't offered a full-time position, you can still use your part-time job as a reference on your résumé. Ask your manager to write a letter of recommendation for you. Letters of rec are important for newbies to the workforce.
 
-### New Experience
+## New Experience
 
 Having a part-time job allows you to meet people you might not otherwise in college. Being around individuals who are not your peers gives you a more diverse college experience. You might even work alongside professionals who can serve as mentors to you.
 

@@ -12,7 +12,7 @@ tags: [Breast Cancer Awareness Month,National Breast Cancer Foundation]
 
 As many of our readers already know, October is celebrated as National Breast Cancer Awareness Month (NBCAM) each year. During this time, various programs help to increase awareness and to raise funds for detection of breast cancer, research, treatment, diagnosis and cure. It is also a time to offer support to those affected by breast cancer. So it is about this time of year that we see a lot of pink ribbons for breast cancer. At ComboInk, we are partnering with the **National Breast Cancer Foundation Inc.®** (NBCF) to raise funds for their cause.
 
-#### Know your Breast Cancer Risk Factors
+## Know your Breast Cancer Risk Factors
 
 The single most effective way to survive this killer disease is early detection. Knowing your risk factors is important knowledge that will help catch the disease in its still treatable stages. Below are the most commonly known risk factors of breast cancer.
 
@@ -25,7 +25,7 @@ The single most effective way to survive this killer disease is early detection.
 * Alcohol intake is also a risk factor
 * Some occupations that involve shift work and radiation exposure could also increase risk
 
-#### Lead a healthy lifestyle, know the symptoms, have an early detection plan
+## Lead a healthy lifestyle, know the symptoms, have an early detection plan
 
 It is estimated that up to 38% of breast cancer diagnoses in the United States can be prevented by lifestyle modifications. So apart from knowing your risk factors, you should also make some changes in your life. These include the following: not smoking, breastfeeding, maintaining a healthy weight, limiting alcohol intake and exercising regularly. These lifestyle modifications also have other beneficial health impacts such as reducing risk of diabetes and cardiovascular disease.
 
@@ -35,7 +35,7 @@ Knowledge is another tool that helps in fighting the disease. Knowing what early
 
 Unexplained weight loss, fevers and chills could also be symptoms in some cases. The thing to look out for is anything unusual or doesn't seem right to you. These changes could be completely harmless, but it doesn't hurt to be a little extra cautious when it comes to breast cancer!
 
-#### Support our UNITY IN MAGENTA Partnership with the NBCF
+## Support our UNITY IN MAGENTA Partnership with the NBCF
 
 [![ComboInk is Showing Our Unity In Magenta This October ](/blog/images/comboink-unityinmagenta.png "ComboInk is Showing Our Unity In Magenta This October ")](https://www.comboink.com/expired-deals)
 

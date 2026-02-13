@@ -11,6 +11,9 @@ tags:
   - PhotoSmart Ink
   - compatible ink cartridges
 ---
+
+## Compatible Ink For HP PhotoSmart 230
+
 The Hewlett Packard (HP) printer and their consumables have always been well respected throughout the printing industry. They make only the best items of printing hardware and they have become known worldwide because of this. They have a wide selection of printers available at any one time and are constantly upgrading their hardware and printers through bringing out new innovative products.
 
 The HP PhotoSmart series are no exception to their reputation and they came at a time, when we all started to want the facility to print our own family pictures, direct from our digital camera. Many of us now own a digital camera and will carry it with us everywhere we go. We encounter many moments in our lives, where we just want to cherish the memories forever. These memories are kept though the use of a picture, which we may place on the walls within our household. This all can now be achieved through the use of one of the many PhotoSmart printers available on the market today.

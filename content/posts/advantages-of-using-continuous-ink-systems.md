@@ -15,7 +15,7 @@ The best way to save money is to decrease the amount of cash you spend on ink ca
 
 Continuous ink flow systems are known by several names, for example, CISS, CIS, or continuous ink systems. No matter what the name, they all function the same way. These systems possess a barometric pressure design. As the front tank is vented, there is a very negative air pressure in the back. A typical level of printer ink inside the reservoirs lets smooth flow into the printer cartridges, providing steady amount of ink set to be printed out. Continuous ink flow systems began on a commercial wide format. As the market picked up, the office and home inkjet market was also benefited greatly from it. It is known to be one of the oldest technologies in the area of printing.
 
-**Rewards Of Making Use Continuous Ink System:**
+## **Rewards Of Making Use Continuous Ink System:**
 
 * Mass refill ink is more reasonable as compared to ink cartridges. For the price of one cartridge, you can get enough ink to print five times the same amount. The CISS ink is extremely cost-effective for a user.
 * As there is absolutely no cartridge to replace, there is also no plastic waste which is left. This is extremely environmental-friendly.
@@ -23,7 +23,7 @@ Continuous ink flow systems are known by several names, for example, CISS, CIS, 
 * The cost of maintenance is extremely low and the function of printing is continuous as there is no reliance on changing the cartridge.
 * It provides a good volume of prints in far lesser time.
 
-**Criteria For Inkjet Printers That Use Continuous Ink System**\
+## **Criteria For Inkjet Printers That Use Continuous Ink System**
 It is very easy to find CIS kits for inkjet printers if the following criteria are met:
 
 * The printer must have a completely separate cartridge for every color.

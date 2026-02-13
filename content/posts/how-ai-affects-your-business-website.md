@@ -12,7 +12,7 @@ Sometimes, it feels like we live in a science fiction universe come to life. Tec
 
 # The Impact of AI on Your Business Website
 
-### **Machines Read Content, Not Keywords**
+## **Machines Read Content, Not Keywords**
 
 Keyword stuffing isn't the trick to boost search engine ranking anymore. In fact, it can backfire and cost you points. This questionable SEO trick was more effective back when Google "spiders" or other search engine bots looked for keywords that matched a search. The more matches for a word or phrase on the webpage, the concept went, the more relevant the site must be.
 
@@ -22,7 +22,7 @@ Bots crawling on your website can look past keywords to evaluate the meaning of 
 
 **_Bottom line:_** Search engines are looking for websites that provide useful information for real people. Write your articles accordingly.
 
-### **User Engagement Matters**
+## **User Engagement Matters**
 
 Your search engine ranking also depends on how valuable other users find your site. Search algorithms have tools to track this, too—if you give them something to measure.
 
@@ -32,7 +32,7 @@ Artificial intelligence can track results on all of the above examples. Click-th
 
 **_Bottom line:_** Give visitors to your site something to grab and hold their attention. Think about the purpose of the content on your site, and track time spent/download rates yourself to learn how to improve further.
 
-### **AI Employees Never Sleep**
+## **AI Employees Never Sleep**
 
 So far, it still sounds like a lot of strategy is about impressing AIs. We're not trying to set up any kind of "humans versus machines" dynamic. For many businesses, 2018 will be the year they add artificial intelligence as an honorary member of the staff.
 
@@ -42,7 +42,7 @@ AI can help keep track of social media marketing opportunities, too. Tech applic
 
 **_Bottom line:_** Customers prefer, and expect, increasingly personalized shopping experiences. Artificial intelligence tools are available 24/7 to tailor the experience to suit their needs.
 
-### The Big Takeaway
+## The Big Takeaway
 
 Whether you're eager to embrace AI overlords or think all this sounds like a sci-fi nightmare, artificial intelligence is getting better at understanding what people want to see online. Focus on creating content that serves people (and maybe look into a few AI tools to pick up slack when you're not at your desk), and machine learning may help push your page to the top.
 

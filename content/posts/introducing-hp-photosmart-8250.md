@@ -10,6 +10,10 @@ tags:
   - reviews
   - PhotoSmart Ink
 ---
+
+## PhotoSmart 8250: Quick Photos And Smart Tools
+
+
 If you are looking for a new printer to replace your old model, then there is a chance that the new HP PhotoSmart 8250 is the printer you have been looking for. It has been mentioned that this is the printer to replace the older variation of the PhotoSmart D7360, as there are many similarity's not only in design but in the many printing processes that this item of hardware can complete.
 
 The printer is able to produce a quality 4 x 6" image in as little as 14 seconds, which is a very quick speed for an image to be printed. Not only can it print an image in this speed, the PhotoSmart 8250 is also able to produce 31 pages of full colour document per minute. If you do not own a computer this is no problem, as the printer comes with built in Memory card slots, which work on a plug in and play basis. All you need to do is place the memory Card from your camera into the printer and then choose which images, you wish to print.

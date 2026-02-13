@@ -13,7 +13,7 @@ tags:
 
 If you've been putting your home printer through its paces, good for you! You probably know what a clever little gadget it is, and how very useful it can be! But if your printer is only occasionally used to print out a receipt here or maybe a letter there, you might not have discovered its full potential just yet. There are so many DIY custom printing projects you can accomplish using nothing but your trusty printer. Not only can you make yourself truly personalized stationery, invites and so on, you can create custom printed fabrics and t-shirts, wall décor, and even create DIY screen printing effects! Here are some ideas and some inspiration to help you get started:
 
-#### Custom Printing for the Home
+## Custom Printing for the Home
 
 You're probably using your printer to do this already: printing invites to special occasions, printing personalized greetings, gift tags and even the occasional special photo which you may want to frame or put up on the wall or fridge. But did you know you can also custom print these:
 
@@ -23,7 +23,7 @@ You're probably using your printer to do this already: printing invites to speci
 
 You can experiment with various print materials such as card paper, photo paper, poster paper, canvas and so on. You can also add various effects to the images you plan to print out, the distressed look, vintage or sepia tint, or transform images into arty looking monochrome (black and white) or even add text and merge pictures to create a collage.
 
-#### Custom Printing for the Office
+## Custom Printing for the Office
 
 You currently use your office printer for the usual document printing: letters, receipts, invoices, reminders, memos and so on. But there is so much more you can do with it:
 
@@ -35,7 +35,7 @@ You currently use your office printer for the usual document printing: letters, 
 
 Experiment with premium papers, and other processes such as foil stamping, lamination or specialized coatings, framing or mounting to create more impressive results. If you want some more ideas to get the creative juices going, you may want to check out some of these [custom print ideas at Etsy. ](https://www.etsy.com/market/custom_print)
 
-#### Our Special July Coupon Code
+## Our Special July Coupon Code
 
 Now that the creative juices are flowing, did you start worrying about printing costs; thinking along the lines of too many ideas too little ink? We understand; sometimes printing projects like these can use up a lot of ink and we do urge you to print responsibly.
 

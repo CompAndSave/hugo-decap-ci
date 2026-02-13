@@ -11,6 +11,8 @@ tags:
   - reviews
 ---
 
+## PhotoSmart C5180: Fast, Compact All‑In‑One
+
 The HP PhotoSmart C5180 printer was released from HP as a replacement for the PhotoSmart C4180\. It is a neat and compact printer which uses the very latest in printing technology to carry out al tasks you require from it. It has taken its place in the offices and homes of many individuals since its release and has been commented on as being a durable and reliable printer. It can always be relied upon, in the times in which you need to use it.
 
 It is an all in one printer, and because of this not only can you use it for your daily printing tasks, but it can be used as a fax machine, a scanner and a photocopier. There is not much that this printer cannot do. There is an extensive menu list that is visible to look through in the built in LCD screen. The menus will include options that will allow you to decide exactly how you wish to print your images or documents.

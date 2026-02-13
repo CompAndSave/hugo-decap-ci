@@ -10,6 +10,9 @@ tags:
   - PhotoSmart Ink
   - printer
 ---
+
+## Getting All-In-One Printer
+
 The All in one printer has recently made its own way to the top of the printer industry. As more people now work from home, there has become a certain requirement for printers which are able to complete several tasks. These tasks include jobs such as faxing or scanning, as well as being the printer still being able to maintain a high standard of image whilst printing. If you are one of the many millions of people worldwide who now work from home, then the chances are that you do not have much office space, and if you had to buy a separate item of hardware for each task you had to complete, then you would leave yourself with no space in which to actually work.
 
 There are many brands which have taken on the challenge of creating the perfect the all in one printer. Epson, Brother and HP have all released their own versions of the all in one printer. HP are a leading name in the printing industry and today, they have seen the sales of their All in one printers significantly grow. HP have always been known to release only the finest printers, and printers such as the HP PhotoSmart C6275 have paved the way for HP to make their way to the very top of the printer industry.\

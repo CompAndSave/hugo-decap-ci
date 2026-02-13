@@ -10,6 +10,10 @@ tags:
   - PhotoSmart Ink
   - reviews
 ---
+
+## PhotoSmart D7355: Fast Prints, Modern Design
+
+
 The HP PhotoSmart D7355 Printer is one of the latest additions to the PhotoSmart line of printers. It is seen as one of the most reliable printers of the series and has received a very welcoming reception to both homes and offices worldwide. It is compact in size and comes with an amazing modern design to make it blend into the modern home décor many of us have in our homes today.
 
 Despite its small size, the printer certainly packs a punch as it is able to maintain a very fluent and high quality printing service. It is very durable and the images in which are to be printed from this printer will last for many years. This of course will also depend on the quality of both the ink and the type of paper used, but the printer will be able to effectively perform to an exceptional standard to ensure you only receive the best quality prints.

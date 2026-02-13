@@ -10,6 +10,8 @@ tags: [Anti-Valentine's Day,Valentine's Day T-shirt Design]
 
 We at [ComboInk](https://www.comboink.com/) have always been coming up with some great DIY printing ideas. As Valentine's Day approaches, we suggest that you celebrate it not with mushy hearts and schmaltzy flowers but by sending out a more unique message to all the bleeding hearts out there.
 
+## Anti‑Valentine’s Day T‑Shirt Printables
+
 [![Valentine's Day T-shirt Design](/blog/images/valentine2.gif)](/blog/images/valentine2.gif)Is there really a reason why we cannot buy those chocolates and flowers for ourselves? Heck we can get ourselves what we really like rather than waiting around to see what romantic gift he or she decides to get us – as Mae West memorably said, "We're single because we were born that way!"
 
  So here's the chance to cock a snook at all the bleeding hearts out there by using our unique DIY t-shirt designs with the anti Valentine's Day slogan.

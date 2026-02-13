@@ -14,7 +14,7 @@ Recently a news item that made headlines may have caught your eye – A 14 year 
 
 Now it's a different matter that the typeface recommended by this young student as well as his theory have both been debunked by several experts who opine that Garamond is not the best font to save ink or therefore money. However, the fact remains your choice of typeface or font could impact how much ink you expend for your printing purposes.
 
-### Fonts can use different amounts of ink
+## Fonts can use different amounts of ink
 
 Fact is, fonts tend to be smaller or larger in appearance. Even in the same point size (each point is counted as 1/72nd of an inch) fonts can vary drastically. For instance, in point 11, Forte is significantly thicker, where as Kunstler Script (Kunstler Script) is quite unintelligible because it is rendered so small by the flourishes and the cursive letters. So you need to strike a balance between readability versus economy when choosing a typeface or font.
 

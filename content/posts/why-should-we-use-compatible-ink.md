@@ -9,6 +9,8 @@ tags:
   - compatible ink cartridges
   - PhotoSmart Ink
 ---
+## Reasons To Use Compatible Ink And Save
+
 One question which is often up for a regular debate is why should we use the compatible ink cartridge and not the genuine types? There are many questions which are left unanswered and to the average computer user, they are normally conned into thinking that the genuine type of ink cartridge is better than the compatible variation. We understand that this is because there is a total lack of knowledge out there available for people to read, and find out just what the compatible sources of ink are capable of achieving.
 
 We see advertisements everywhere we go which show the genuine ink cartridge in use, and if you have ever noticed in all the major stores that you shop in, it is the genuine types of ink cartridge that are placed conveniently on the shelves, directly within our line of sight. The original manufacturer of the printer we own will also recommend them, as they say that they are the best for our printer. IN many circumstances people believe that in order to gain the best results from their printer; they must use the genuine sources of ink.

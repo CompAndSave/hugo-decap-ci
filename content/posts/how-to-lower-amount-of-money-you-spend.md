@@ -10,6 +10,9 @@ tags:
   - PhotoSmart Ink
   - save money
 ---
+
+## Lower Your HP Ink Supply Costs
+
 HP printers are the most cost effective printers that are currently on the market today, and this is due to a large amount of key factors. All new HP Inkjet Printers in the PhotoSmart series will use a six colour ink cartridge system. This system offers several of the following benefits:
 
 These ink Cartridges are predominately un-chipped which will result in the printer being able to use all of the ink in the cartridge rather than running out after a very short amount of time. All of the individual colours can be replaced easily and without hassle, rather than a tri-colour system which will require the entire cartridge to be changed whenever a certain colour runs out. All of the ink cartridges are relatively large compared with competitors' offerings; for example a HP compatible [PhotoSmart D7345 ink](https://www.comboink.com/hp-photosmart-d7345-ink-cartridges) cartridge contains a full amount of quality ink, when compared to other genuine types which may only actually be ¾ full.

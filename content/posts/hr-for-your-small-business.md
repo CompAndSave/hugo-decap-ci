@@ -12,7 +12,7 @@ Ideally, small businesses would include a Human Resources (HR) manager from the 
 
 # Signs That You Need HR for Your Small Business
 
-### You're Hiring More Frequently
+## You're Hiring More Frequently
 
 Hiring employees is an expensive and time-consuming process. A single hire can cost the business $1,000-$5,000, depending on your industry and the combination of costs you incur:
 
@@ -27,7 +27,7 @@ Hire the right HR fit, and you can see amazing improvements in your hiring proce
 
 If you're hiring frequently due to rapid employee turnover, it may be a sign that employee engagement could be an area to improve. An HR rep can assess strengths and weaknesses in company culture and offer ideas to improve employee retention.
 
-### Employee Requests Eat Up Your Time
+## Employee Requests Eat Up Your Time
 
 You've got a stack of documents on your desk and a long list of calls to make. But it seems like whenever you start to find a good working rhythm, an employee knocks on the door.
 
@@ -35,7 +35,7 @@ One employee wants to discuss a raise. Another needs mental health accommodation
 
 An HR rep's daily task list includes managing employee requests, communicating benefits or employee handbook information, and resolving conduct issues. Empower your HR hire with the right training and communication, and you can outsource most lower-level requests and minor disciplinary issues. This can open your schedule to focus on projects that drive your business strategy forward.
 
-### You Have Legal and Finance Concerns
+## You Have Legal and Finance Concerns
 
 HR managers handle the responsibility of making sure the business complies with safety regulations, such as providing handbooks or required posters. They understand the worker's comp rules and determine how to secure sensitive information, such as employee medical files. They're involved (with your accounting professional) in overseeing employee timekeeping, paydays, and any deductions.
 
@@ -43,7 +43,7 @@ If you hire contractors, an HR rep can help make sure you're not overstepping cl
 
 All of these concerns apply, whether you have an HR rep for your small business or not. If you don't, though, no prizes for guessing whose desk these responsibilities will fall on. That's right. Managing safety, legal concerns, and more are another part of how HR reps make it possible for business owners to be more productive with their time in the office.
 
-### Healthcare Regulations Cause Headaches
+## Healthcare Regulations Cause Headaches
 
 Healthcare is one of the most challenging areas for small business owners to manage. Changing laws and costly insurance plans are just the tip of the iceberg.
 

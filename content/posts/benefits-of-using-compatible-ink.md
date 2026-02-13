@@ -10,9 +10,13 @@ tags:
   - PhotoSmart Ink
   - compatible ink cartridges
 ---
+
+
 One topic which has seen a rise in media coverage lately is the use of compatible ink cartridges. However despite all of this media coverage, many of us stay blind and still seek to use the genuine types of ink cartridges which are recommended by the manufacturer. Why waste both your money and your efforts in trying to find the correct cartridge, when you can find a source of ink for your printer, which is only a fraction of the price.
 
 If you use a PhotoSmart printer then you will have no doubt bought this style of printer, because you wish to print images. The PhotoSmart range of printers are fantastic at what they do, and will give you a quality highly detailed print as the finished product. However as with all printers, just because the printer is able to product such high calibre images this does not mean that it will be a significant drain on your ink supplies. Printers such as the HP PhotoSmart C6175 have been designed to be effective, efficient and environmentally friendly, despite the efforts made y HP, printing an image will still use a large amount of ink. With this in mind you should keep an eye on the levels of your ink supplies throughout your use of this printer.
+
+## Cost‑effective, reliable ink for everyday PhotoSmart printing
 
 As we have mentioned the compatible ink cartridge comes at a price, which is cheaper than the genuine types of ink cartridge, in fact you will probably find that you can buy two compatible ink cartridges, for the price of one genuine one. It is safe to say that the prices in which are asked by the manufacturer are just too expensive, and these are prices which are not set to change. Using a compatible form of ink supply will not sacrifice any of the quality in which you have come to expect and rightfully deserve, as they are made to meet all of the original brands specifications, and they have to pass stringent tests before they are released.
 

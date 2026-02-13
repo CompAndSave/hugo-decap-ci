@@ -21,9 +21,9 @@ Here's what you will need to create your own unique, free printable spooky Hallo
 * Craft knife (it‘s best that small children don't handle this)
 * Crayons, poster colors or other coloring material
 
-[![](/blog/images/frankenstein.jpg)](/blog/images/frankenstein.jpg)
+[![Frankenstein](/blog/images/frankenstein.jpg)](/blog/images/frankenstein.jpg "Frankenstein")
 
-**How to make your own Halloween décor:**
+## **How to make your own Halloween décor:**
 
 * Ensure that your printer cartridge or [toner cartridge](https://www.comboink.com/) is properly installed. Also make sure that your ink cartridge isn't exhausted and that it will get you the desired number of printouts.
 * Now click on the "DOWNLOAD" link below the printable décor idea of your choice from these options:
@@ -34,8 +34,8 @@ Here's what you will need to create your own unique, free printable spooky Hallo
 * Frankenstein's body
 * Frankenstein's hands
 * Frankenstein's face
-* Haunted house (outline for coloring)  
-[![](/blog/images/haunted.png)](/blog/images/haunted.png)
+* Haunted house (outline for coloring)
+[![Haunted house](/blog/images/haunted.png)](/blog/images/haunted.png "Haunted house")
 * Clicking on the décor idea of your choice will open another tab which is the PDF version of the printable decoration.
 * Now click "PRINT" from your browser's drop down menu.
 * Once you have the printout, cut neatly along dashed lines provided.
@@ -45,7 +45,7 @@ Here's what you will need to create your own unique, free printable spooky Hallo
 
 **Tip:** Put them in places where least expected and wait for the startled shrieks!
 
-[![](/blog/images/spiders.png)](/blog/images/spiders.png)
+[![spiders](/blog/images/spiders.png)](/blog/images/spiders.png "spiders")
 
 **Download Here:**
 

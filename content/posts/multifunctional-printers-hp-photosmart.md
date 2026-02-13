@@ -10,6 +10,9 @@ tags:
   - HP
   - PhotoSmart Ink
 ---
+## PhotoSmart C8180: All‑In‑One Photo Powerhouse
+
+
 In the world that we live in today, it is safe to say that the printer has found its common place in the family household. This is down to the fact that nearly everybody will now own a computer, and will use it to complete several tasks. There are many uses for a printer, maybe the children use it to print of their homework, or maybe you use it yourself to print of recipes for tonight's family dinner. Whatever your reasons we will always need a printer to use with the family computer.
 
 Multifunctional printers or the all in one printer have fought their way to the top of the industry recently. They have brought to us a variety of different uses and hold the latest in printing technology. The all in one printer is able to complete a variety of tasks, which include Scanning, faxing and also of course being used as a fully functional printer. The HP PhotoSmart C8180 printer is an all in one printer which has been held in high regard by all people who have purchased it and used it. They are built to last and therefore are durable and efficient. For the amount of work that they can complete they are also available at a very reasonable price, and many a price that many people will be able to afford.

@@ -8,7 +8,7 @@ authors: Ashley Lipman
 tags: [investing,make money]
 ---
 
-### Make Your Money Grow
+## Make Your Money Grow
 
 If you're going to grow your assets, you've got to put them to work for you. This can be easier said than done. What you're going to need to do is start out by taking stock of what you have, what you need, and what is elastic. If you don't have any elastic investment capital, you'll need to find some somehow. It's better to acquire it without a loan.
 
@@ -20,7 +20,7 @@ What you're looking for is a PIG, or Passive Income Generator, and there are a n
 
 ![passive income](/blog/images/archive/2018/02/ashley1.jpg)
 
-### Search for Success
+## Search for Success
 
 First, look around to see what's available to you where you are. There are job sites out there that can help you find specific niches of skill. If you're in medicine, but only family medicine, you've got options. There are[ many family medicine jobs available](https://www.hospitalrecruiting.com/jobs/Family-Practice-Jobs/); according to HospitalRecruiting.com, doing a search with the term "Family Medicine Jobs" as of 02/19/2018 resulted in: "… 2,044 jobs matching your criteria."
 
@@ -32,7 +32,7 @@ If you do that for four years, you can get $24k passively. You can then use that
 
 ![passive income](/blog/images/archive/2018/02/ashley2.jpg)
 
-### Vision and Patience
+## Vision and Patience
 
 If you've got $5k, in 12 years through passive income means, you can turn that into $96k or even more, depending. If you keep paying off the duplex till you own it outright, and it totals about $200k, within 20 years of your initial $5k investment, you've multiplied your seed money 40-fold. What you can do now is sell that duplex.
 

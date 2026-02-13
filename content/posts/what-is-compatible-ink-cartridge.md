@@ -9,6 +9,8 @@ tags:
   - compatible ink cartridges
   - PhotoSmart Ink
 ---
+## Compatible Ink Cartridges Explained Simply
+
 When printers had started to fall in price and become a little more affordable to the general public, People started to buy printers to use as part of their home computing system. This had never been possible in the past years due to the amount of money the manufacturer would charge for the initial purchase of a printer. However despite the cost of the printer starting to fall, it was a clever tactic to use from the original manufacturers of the printer we see on the market today.
 
 One item that did not fall in price, and actually has been seen to rise in price over the last few years, is the genuine ink cartridge. This is how the brands who make these printers gain their profits, and if you think carefully about it, then you can see that by lowering the cost of the printer, more people will buy them. As a result of more people buying and using their printers, then there will be more money spent on replacement ink cartridges; as a result the profits start to see a huge increase.

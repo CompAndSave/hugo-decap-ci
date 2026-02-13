@@ -10,6 +10,9 @@ tags:
   - Compatible Cartridges
   - PhotoSmart Ink
 ---
+
+## Why Compatible Ink Is The Better Choice
+
 Compatible ink cartridges have recently seen as huge increase in sales on the consumer market. This increase in sales in one which has taken a long time in which to come, and we believe that this is because people are now beginning to see the many benefits in which there are when you use these types of ink cartridges, in conjunction with your printer. If you use your printer to complete tasks such as image printing then you will find that you use a significant amount of ink in the process of doing so, however you may also have a printer as a part of your home office and print large amounts of documents.
 
 The bottom line here is that if you are going to use your printer on a regular basis, then you may have to endure significant expense costs if you use genuine ink cartridges. If you take a look in the many superstores of today, you will find and see for yourself just how overpriced they really are. This is not just in the US but also worldwide, and the manufacturer has been getting away with charging this high amount of money for several years now.

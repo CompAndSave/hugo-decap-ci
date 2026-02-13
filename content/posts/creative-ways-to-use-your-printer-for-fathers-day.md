@@ -12,7 +12,7 @@ tags: [DIY,Father's Day,Father's Day Printables]
 
 There are those who believe that if someone is special to us, they should be special to us all the year round and not just for one day of the year. While that may be true, it is still a good idea to make an extra effort to demonstrate what your relationship with your father or grandfather means to you on Father's Day. The third Sunday of every June – June 21 this year is the day you can decide to devote to dad. We put a little thought into what you can do for Father's Day; into the kind of activities, grandpa gifts, fun crafts for dad and printables that will help make this day special.
 
-### Gift Ideas for Father's Day
+## Gift Ideas for Father's Day
 
 Your dad probably has his favorite food, or drink; hobby or sport based on which you can get him some great gifts such as –
 
@@ -28,7 +28,7 @@ Your dad probably has his favorite food, or drink; hobby or sport based on which
 * A bar kit – this one is for dads who enjoy entertaining and whipping up exotic drinks – one more reason to bond over a mellow evening over a couple of drinks!
 * A new phone. Some dads are resistant to technology, but that's only until they get to know their new gizmo better. Once he discovers what his new gadget can do, he'll be watsapping you at all hours and sending you FB pokes!
 
-### Printable gifts for Father's Day
+## Printable gifts for Father's Day
 
 * A photo collage of all the special photos of you and your father. It could be a kind of timeline from the time when he was dandling you on his knee to all your special moments together, to the present time.
 * A then and now photo frame or poster – you and your dad then; when you were just a little baby and you and your dad today. A lovely contrast picture full of nostalgia and happy memories that is sure to moisten a few eyes!
@@ -40,7 +40,7 @@ Your dad probably has his favorite food, or drink; hobby or sport based on which
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Image from[ BargainShopperMom.com](http://everydaysavvy.com/diy-quick-easy-fathers-day-gift-free-printables-necktie-bottle-tage-cupcake-toppers/#%5Fa5y%5Fp=1797256)                                                                                                        |
 
-### Gift wraps, tags and more
+## Gift wraps, tags and more
 
 Now that you got the gift part sorted, you can add some personal touches such as these:
 

@@ -12,6 +12,9 @@ Since our DIY printables have become so popular with our customers and blog visi
 
 [![St. Patrick's green hat](/blog/images/3.jpg)](/blog/images/3.jpg)
 
+## St. Patrick’s Day Printables To Decorate Fast
+
+
 **So here's what you will need:**
 
 * A printer with a reasonably intact [ink or toner cartridge](https://www.comboink.com/) (there will be a lot of green printing you will need to do, so ensure that your color cartridge is not exhausted)

@@ -12,7 +12,7 @@ tags: [Back to School,chalkboard printables,diy printables,decor]
 
 If you haven't seen examples of chalkboard printables, you might be confused by the title! Apparently chalkboard art is really cool right now! Probably because they create the aspect of a charming European café and recreate that appealing retro look. Inspirational quotes, funny sayings, a traditional prayer, psalms, hymns, signs or even the rules of the house (a set of personalized 10 commandments perhaps?) …. all these can be printed out using a chalkboard template.
 
-#### Chalkboard Printables: 101
+## Chalkboard Printables: 101
 
 It looks rather like menu boards. You know those handwritten on a black board using chalk. The sort you would find in traditional cafes and restaurants. But it's not! It's just a printout made to look that way. It's ideal for creating posters for the home, menus for the kitchen, gift tags, and more.
 
@@ -22,7 +22,7 @@ It looks rather like menu boards. You know those handwritten on a black board us
 
 These printouts can feature photos, quotable quotes or a happy thought for the kitchen or the living room, schedules and timetables for kids' rooms, perhaps something funny for the bathroom? You could also create exclusive labels for kitchen jars, bottles of preserves, drawers and cupboards. All you need is a printer and a little bit of imagination to get started!
 
-#### Print Your Own Chalkboard Printables
+## Print Your Own Chalkboard Printables
 
 You could use an editing program such as Photoshop or Photoshop Elements, using a chalkboard background and then adding the text, images, effects and filters that you want. However you may not have access to Photoshop on your device (or perhaps Photoshop perplexes you like it does so many of us); in which case you could use the online photo editing program, [PicMonkey](http://www.picmonkey.com/). This lets you edit, touch up or design items, even letting you create collages.
 
@@ -32,7 +32,7 @@ You can use chalkboard fonts available in PicMonkey or from your computer if the
 
 [The Chalkboard Obsessed Pinterest board](https://www.pinterest.com/Hanhathaway/chalkboard-obsessed/) has great ideas: wedding signs, maps, directions, posters, salutations, jar labels and much more. There are many more ideas you can check out on this [Pinterest Chalkboard page.](https://www.pinterest.com/search/pins/?q=chalkboard)
 
-#### Display Beautiful Chalkboard Art
+## Display Beautiful Chalkboard Art
 
 | [![free chalkboard printable](/blog/images/chalkboard-printable-pretty.jpg "Chalkboard Printables Are Great to Hang in the Home!")](/blog/images/chalkboard-printable-pretty.jpg) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ You can use chalkboard fonts available in PicMonkey or from your computer if the
 
 If you printed out gift tags, labels for jars or boxes, then all you do is get your printout, cut them to size, and then paste the labels where you need to. However if its posters, quotes or wall art you've designed, you need to be able to put this up on a wall or other surface. Consider getting your chalkboard art framed or mounted. In cases, just laminating it may also work very well. Display in strategic locations so people can admire your creativity!
 
-#### Ready for a DIY Chalkboard Printable? Here's a Coupon.
+## Ready for a DIY Chalkboard Printable? Here's a Coupon.
 
 And since most of us want to get started on a DIY project such as this one immediately, we have a little something to help! This August only, we are offering [5% off your ink or toner cartridge orders](https://www.comboink.com/). Just apply at checkout! 🙂
 

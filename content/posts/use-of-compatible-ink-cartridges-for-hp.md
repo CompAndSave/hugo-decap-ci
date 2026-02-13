@@ -11,6 +11,8 @@ tags:
   - printer
   - compatible ink cartridges
 ---
+## PhotoSmart C5190: Save With Compatible Ink
+
 Compatible ink cartridges are rapidly becoming the number one choice worldwide, when it comes to replacing your old and worn out ink cartridge. It does not matter which type of printer you currently own, the original manufacturers price of ink will no doubt be a little too high for you to keep your printer working, on a daily basis. This is where the use of a compatible ink cartridge is best suited.
 
 Many of us will not earn the high amounts of money, the printer demands us to, as it quickly empty's our ink cartridge of its contents. We all know the amounts the manufacturers of printers will charge for a standard ink cartridge It is an extortionate amount of money to pay, for an item that in some cases may only last one week. The compatible ink cartridge holds all of the answers to your prayers, when the time has come for a replacement ink cartridge.

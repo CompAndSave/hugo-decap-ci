@@ -10,6 +10,8 @@ tags:
   - PhotoSmart Ink
   - inkjet printer
 ---
+## PhotoSmart C6183: Make Home Printing Easier
+
 The HP brand has become one of the most highly regarded companies in the printing industry. This is mainly down to their fantastic range of products, which have been reviewed as being both durable and very effective. When we buy a printer we expect it to produce the high quality images and prints, in which it states it can achieve. HP has taken their standard of printer to the next level, with the new range of PhotoSmart printer.
 
 One of the printers in the PhotoSmart range is the C6183 printer. This printer is highly reviewed, and it has been recommended by many people worldwide. Upon an initial look at the printer and the way in which it works, it is hard to find any fault with it. The price for the printer is also very reasonable, which is important when we take into account, the current financial state of the economy. It is also an all in one printer, which means that it is able to assist in other tasks such as faxing, scanning and also can be used as a photocopier.

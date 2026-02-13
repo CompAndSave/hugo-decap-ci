@@ -13,7 +13,7 @@ tags:
 
 Today being a very tech savvy environment, it pays to know more about how things work and what they are made up of. For example, a basic computer printer has many moving parts in it. Simply using it is not enough. It is important to thoroughly understand its working and what components are important to it. Their cost and usage all varies according to the printer components and the kind of ink used. Components of an inkjet printer include a single printed circuit board, the printhead, printhead motor, ink cartridge, paper feed rollers and a belt. One of the most important components of the modern day printer (ink jet) is the printhead.
 
-**The Core**
+## **The Core**
 
 A printhead can be considered to be the very core of an inkjet printer. It is the component that does the actual printing process. It consists of a series of nozzles that sprays the ink on to the paper. There is no contact between the paper and the printer head in case of inkjet printers. Printheads are generally of two types, the fixed head and the disposable head. The fixed head is an inbuilt printhead that will last throughout the life of the printer. The printhead need not be replaced when the ink runs out. Only the [ink cartridge](https://www.comboink.com/) needs to be replaced. In case of disposable printhead the entire printhead is replaced every time the ink runs out.
 

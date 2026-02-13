@@ -15,7 +15,7 @@ Health experts and nutritionists typically caution people against the dangers of
 
 So how can you, your family, and guests avoid these snacks that are so high in calories, sugar, fat, preservatives and artificial additives while keeping up with the Halloween candy tradition? Here are some ideas for healthy homemade treats to help you celebrate Halloween a wee bit differently this year:
 
-### Homemade Chocolate Peanut bars
+## Homemade Chocolate Peanut bars
 
 These chocolate covered peanut bars taste just as good as the store brands but are much more wholesome and healthy. Here's what you' ll need:
 
@@ -37,7 +37,7 @@ First mix together the almond milk, peanut butter and the sugar or stevia in a l
 
  Now when you remove the pan, cut this triple layer treat into bars the size of your choice. Use a double boiler to melt the cooking chocolate and then dip the entire bars into the chocolate mixture; refrigerate again till nice and firm. Wrap in foil or cling film and now you have another sweet treat ready for the little ones who come to your door.
 
-### Easy whole wheat & walnut brownies
+## Easy whole wheat & walnut brownies
 
 What you will need:
 

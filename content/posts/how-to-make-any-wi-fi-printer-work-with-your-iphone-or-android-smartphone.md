@@ -16,7 +16,7 @@ Smartphones aren't called "smart" for no reason. Your smartphones can do very ma
 
 Whether you use the Android operating system or are an Apple/ iOS fan, you can print wirelessly from your mobile device. Here's how:
 
-#### Wireless Printing from Android Mobile Devices
+## Wireless Printing from Android Mobile Devices
 
 There are two ways to print from your Android Smartphone:
 
@@ -51,7 +51,7 @@ Another way to go, is to use brand specific printer apps available via Google Pl
 
 Similarly there are apps available for printer brands such as Samsung, Kodak, Lexmark, Ricoh and others.
 
-#### Using a WiFi Printer to Pint From Your iPhone
+## Using a WiFi Printer to Pint From Your iPhone
 
 For iOS devices like the iPhone, iTouch or iPad, all you need is a printer that is AirPrint compatible. And what is AirPrint?
 

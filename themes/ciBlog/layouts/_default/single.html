@@ -11,9 +11,9 @@
             {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
             {{ partial "sharing-buttons.html" . }}
             </div>
-            <section class="content-body">
+            <div class="content-body">
                 {{ .Content | safeHTML }}
-            </section>
+            </div>
         </section>
     </article>
     {{ partial "disqus.html" . }}

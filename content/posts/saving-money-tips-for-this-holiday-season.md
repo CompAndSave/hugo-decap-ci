@@ -11,6 +11,8 @@ tags:
 ---
 [![A woman holding a christmas present](/blog/images/Female-Christmas-Present-2.jpg)](/blog/images/Female-Christmas-Present-2.jpg)
 
+## Holiday Saving Tips That Actually Work
+
 Everyone gets tempted to go on spending sprees during the holiday season. Sales are on in stores and it is the gifting season and you have so many parties to attend. You want to go shopping, buy gifts and clothes at the discounted sales. There are so many opportunities to spend! All this has a negative impact on your bank balance. How do you save in such a scenario?
 
 The good news is that if you plan ahead, you can save and have a meaningful and enjoyable holiday season as well. Tell yourself it is not a rule that you spend tons of money to enjoy the festive season. The right mind set will go a long way to helping you to economize and enjoy your holiday season.

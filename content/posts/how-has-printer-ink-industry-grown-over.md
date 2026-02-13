@@ -8,6 +8,8 @@ authors: Andrew Yeung
 tags: [compatible ink cartridges,Printer Ink]
 ---
 
+## How The Printer Ink Industry Grew
+
 Almost every household around the world will have acquired the services, of at least one computer. The modern day computer, is used for a wide variety of tasks, and die to the rapid decrease in price over the years, homes that would of never been able to purchase a desktop pc, are now able to fully understand and utilize their services.
 
 We all use computers, for many different reasons, searching the internet, uploading our latest family pictures, social networking and even on occasions our overdue working assignments or children's homework. If you partake in any of these, the chances are that you will at some point, require the services of a printer.

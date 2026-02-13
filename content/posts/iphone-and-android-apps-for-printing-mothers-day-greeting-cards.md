@@ -14,7 +14,7 @@ tags:
 ---
 There are smartphone apps that will convert normal faces into terrifying zombies that growl and snap, there is a bowel movement tracking app, there is the annoy-a-teen app, there is a game for cats, a fake-an-excuse-hang-up-now app and there is even a pimple popping app! So there is a plethora of seemingly useless mobile apps out there. Fortunately though, there are some very useful and practical apps out there as well, such as the apps that help you create greeting cards for Mother's Day which falls on the second Sunday of every May (on May 10th this year). Send physical cards, animated messages, musical ecards and more:
 
-### iTunes apps for Mother's Day greetings
+## iTunes apps for Mother's Day greetings
 
 **JustWink** is a free app that lets you personalize greetings which you can send via text messages, email, Facebook, Twitter and more. Send animated greetings and messages from any of various different categories.
 
@@ -22,7 +22,7 @@ There are smartphone apps that will convert normal faces into terrifying zombies
 
 **Card Shop** is a paid app that even lets you print your cards via AirPrint. You can print two sided cards and multi page cards as well. You can take a print out and personally sign and send your card so your mom won't think it is an impersonal sort of missive.
 
-### Android apps for Mother's Day greetings
+## Android apps for Mother's Day greetings
 
 **Mother's Day Cards** is an app especially for Mother's Day cards. Choose a template, personalize and send the card via Facebook, Whatsapp and more.
 

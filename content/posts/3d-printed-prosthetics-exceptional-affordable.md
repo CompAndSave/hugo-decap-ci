@@ -12,7 +12,7 @@ It is like something out of one of his sci-fi films: Iron Man star, Robert Downe
 
 This is an artificial limb created using 3D printing technology via a Stratasys printer. Albert Manero, a #CollectiveProject student founded[ Limbitless Solutions](http://www.limbitless-solutions.org/) to build 3D printed arms for people just like Alex, firmly believing that "no one should profit from a child in need of an arm".
 
-#### How 3D Printing Can Overcome The Limitations of Current Prosthetics
+## How 3D Printing Can Overcome The Limitations of Current Prosthetics
 
 [![3d printed prosthetics ](/blog/images/ci-052015-300x250.jpg "3D Printed Prosthetics: Exceptional & Affordable")](/blog/images/ci-052015-300x250.jpg)
 

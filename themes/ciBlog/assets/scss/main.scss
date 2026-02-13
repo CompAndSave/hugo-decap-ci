@@ -18,6 +18,7 @@ body {
     word-spacing: settings.$global-word-spacing;
     -ms-text-size-adjust: base.$global-font-size;
     -webkit-text-size-adjust: base.$global-font-size;
+    background: #fff;
 }
 
 
@@ -104,6 +105,10 @@ a {
     &:hover {
         color: color.adjust(colors.get-color('blue'), $lightness: -5%);
         text-decoration: underline;
+    }
+    &:focus, &:focus-visible {
+        outline: 1px solid colors.get-color('blue');
+        background-color: color.adjust(colors.get-color('blue'), $lightness: 55%);
     }
 }
 

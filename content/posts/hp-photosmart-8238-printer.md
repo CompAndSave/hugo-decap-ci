@@ -10,6 +10,9 @@ tags:
   - PhotoSmart Ink
   - reviews
 ---
+
+## HP PhotoSmart 8238: Bigger Prints, Better Value
+
 If you are looking to replace your old printer in the coming months, then you will have no doubt taken a look at the HP PhotoSmart range of printers that are available on the current market. They are a top quality range of printer, which caters for the demands of their customers. HP has been able to gain a good reputation worldwide, mainly due to the reliability and the functions of the products they release.
 
 The HP PhotoSmart 8238 printer is a printer that has been produced to provide the customer with fine quality images. IN recent years the price of the digital camera has dropped significantly, and this has now led to many of homeowners becoming the proud owner of one and carrying it everywhere in which they travel.

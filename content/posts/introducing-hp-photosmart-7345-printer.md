@@ -10,6 +10,8 @@ tags:
   - PhotoSmart Ink
   - reviews
 ---
+## PhotoSmart 7345: Modern Home Photo Printing
+
 If it has come to the time in your old traditional printer's life, where it just is not producing the goods anymore, and then no doubt you will be looking for a new more modern printer. This event may occur through no fault of your old printer, it is just an event which has occurred due to the advancement in technology.
 
 Many of us now own a digital camera, and we will carry this with us no matter where we go. Every family event will no doubt provide the opportunity to take many pictures. It is now also cheaper to print of our own pictures, rather than take our images to get professionally developed, and due to the new range of printers which are available, the quality will not be any different, as to that which can achieve if you printed your own pictures.

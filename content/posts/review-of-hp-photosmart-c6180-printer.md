@@ -10,6 +10,9 @@ tags:
   - HP
   - reviews
 ---
+## PhotoSmart C6180 Review: Easy, High‑Quality Prints
+
+
 I had recently bought myself a HP PhotoSmart C6180 printer, and I wanted to share with you my experiences with this printer. I bought this printer due to the many positive reviews I have found on the internet; I found that this printer had received much positive praise from the general public. Buying this printer has possibly been the best purchase of my year so far, as I find it offers a fantastic value for money. I have used many other brands of printer; however none I have used previously are able to match the quality which is obtained through using the PhotoSmart C6180 printer.
 
 The design of the printer has been well thought about by Hewlett Packard, I think they have realised that people are now looking to buy a modern looking printer. The C6180 printer is sleek and in some aspects looks a little futuristic. Despite this, the printer is very easy to use and although I am no computer genius, I have encountered no problems, in being able to use the printer for what I need it to do.

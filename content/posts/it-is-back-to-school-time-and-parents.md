@@ -10,7 +10,7 @@ tags: [Back to School,Back to School supplies,school supplies]
 
 It is back to school time and parents are stocking up on all the necessary school supplies, stationery, books and binders, but most importantly computer supplies. Lucky for them, ComboInk offers the best deal on **ink & toner cartridges** and other printing supplies.
 
-### The ComboInk Back-to-School Promotion
+## The ComboInk Back-to-School Promotion
 
 [![Facebook Banner](/blog/images/facebook-banner.jpg)](https://www.comboink.com/expired-deals)
 
@@ -20,7 +20,7 @@ On top of these savings, you can get an [**additional 15% off by using Coupon Co
 
 Plus, our store offers a **one year money back guarantee** and **free shipping** on all purchases over $50! Most items are shipped within 24 hours of purchase and you can track your shipment online.
 
-### Why ComboInk
+## Why ComboInk
 
 We've been in the business of ink cartridges since 2010 and have received positive feedbacks from many customers. We at [ComboInk](https://www.comboink.com/about) follow the motto of "save big & feel special".
 

@@ -12,6 +12,8 @@ As always, [ComboInk](https://www.comboink.com/) bring you good cheer and a simp
 
 As many of us may know, the Chinese calendar has a 12 year cycle, with each year being dedicated to a particular animal. The upcoming year will be the Year of the Horse and this year, the Chinese New Year will begin on the 31st of January.
 
+## Free Printable Chinese New Year Lanterns
+
 [![Chinese New Year](/blog/images/2014-chinese-new-year-CI.jpg)](/blog/images/2014-chinese-new-year-CI.jpg)
 
 Traditionally, these lanterns are hung out on doors and windows during the festive season to scare away the mythical beast called Nian. So put on your creative caps and take advantage of our free printable Chinese lanterns to celebrate this holiday:

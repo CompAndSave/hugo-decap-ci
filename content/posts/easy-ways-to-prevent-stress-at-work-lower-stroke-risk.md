@@ -10,17 +10,17 @@ tags: [stress prevention,tips,strokes]
 
 [![stress prevention at work](/blog/images/ci-051315-300x250.jpg "Preventing Stress at Work")](/blog/images/ci-051315-300x250.jpg)
 
-Unchecked or chronic stress can lead to anxiety, depression and social isolation. It can even cause physical symptoms such as insomnia, adnominal pain, hemorrhoids, high blood pressure, panic attacks, cardiovascular diseases and stroke. In short, stress can be a killer. May is Stroke Awareness Month; we look at how we can reduce stress and control this major contributor of strokes. And when we say prevent stress at work we include work outside the home and in it – all the various things that we have going on that lead to stress. 
+Unchecked or chronic stress can lead to anxiety, depression and social isolation. It can even cause physical symptoms such as insomnia, adnominal pain, hemorrhoids, high blood pressure, panic attacks, cardiovascular diseases and stroke. In short, stress can be a killer. May is Stroke Awareness Month; we look at how we can reduce stress and control this major contributor of strokes. And when we say prevent stress at work we include work outside the home and in it – all the various things that we have going on that lead to stress.
 
-#### What is stroke?
+## What is stroke?
 
-A stroke or a cerebrovascular accident (CVA) occurs when the blood flow to the brain is disturbed, leading to cell death. There are two types of stroke: ischemia (restriction of blood flow) or hemorrhage (bleeding in the brain) and both cause a part of the brain to not function properly. Stroke can cause paralysis of one side of the body, difficulty speaking and moving, cognitive problems and even death. 
+A stroke or a cerebrovascular accident (CVA) occurs when the blood flow to the brain is disturbed, leading to cell death. There are two types of stroke: ischemia (restriction of blood flow) or hemorrhage (bleeding in the brain) and both cause a part of the brain to not function properly. Stroke can cause paralysis of one side of the body, difficulty speaking and moving, cognitive problems and even death.
 
-#### Bone up on these facts this Stroke Awareness Month
+## Bone up on these facts this Stroke Awareness Month
 
-795,000 Americans suffer strokes each year, so clearly this is a national epidemic. Tragically, up to 137,000 people die as a result of stoke each year. Surprisingly, stroke targets more women than men: of the people who die from a stroke, 60% are women. Apart from the very human costs of stroke, strokes have a very significant economic impact: about $73.7 billion a year was spent on stroke-related medical costs and disability in the year 2010\. 
+795,000 Americans suffer strokes each year, so clearly this is a national epidemic. Tragically, up to 137,000 people die as a result of stoke each year. Surprisingly, stroke targets more women than men: of the people who die from a stroke, 60% are women. Apart from the very human costs of stroke, strokes have a very significant economic impact: about $73.7 billion a year was spent on stroke-related medical costs and disability in the year 2010\.
 
-####  Tips for stoke prevention 
+##  Tips for stoke prevention
 
 * Manage and lower high blood pressure and maintain good cardiovascular health. Unchecked cardiovascular ailments are among the biggest risk factors of stroke.
 * Give up smoking. No matter how hard you think it is, YOU CAN DO IT for yourself and everyone near and dear to you.
@@ -29,7 +29,7 @@ A stroke or a cerebrovascular accident (CVA) occurs when the blood flow to the b
 * Cut down on alcohol –no more than one drink a day for women and no more than two for men
 * Control stress: here's how:
 
-#### Tips to control stress at home and work
+## Tips to control stress at home and work
 
 * Prioritize things that need doing. Look at the big picture; assign time and resources to what really matters. In short, don't stress about the niggling little things. You can't do everything and if some stuff gets left out, that's OK!
 * Learn to say No! Not just to others, but to yourself as well! Help someone by all means, but not at a significant cost to you! Set boundaries and don't let people encroach on your personal space – physical or spiritual.
@@ -40,7 +40,7 @@ A stroke or a cerebrovascular accident (CVA) occurs when the blood flow to the b
 * Take time out for yourself your own requirements. Don't relegate yourself to the last priority (women tend to be guiltier of this)
 * Focus on the positives in your life. We all have our problems, but by choosing to focus on what is good in your life, your problems will seem small by comparison. In short, count your blessings.
 
-#### More tips for stress relief 
+## More tips for stress relief
 
 * Reduce clutter in the home and reduce the inessentials in your life. This is a tried and tested stress relief tactic
 * Get yourself a nice relaxing massage to physically de-stress

@@ -10,6 +10,9 @@ tags:
   - PhotoSmart Ink
   - reviews
 ---
+
+## Getting HP 3313 Printer
+
 The amount of printers which are available on the market for us to purchase today, has reached a new level. Many popular brands are now looking at new technology to give themselves the leading qualities in the industry. From the average printer to the all in one printer, several brands have used the latest in technology to produce printers, which deliver to our needs.
 
 HP is brands that have taken the lead in the printing industry, there products have become relied upon time and time again, from not just homeowners, but big company offices as well. They have a reputation for producing only the finest in quality printing materials, inks and hardware. Their client and customer base is extensive, and the only reason that this has been made possible is down to the quality of their product.

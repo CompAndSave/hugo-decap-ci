@@ -12,7 +12,7 @@ Paper jams, communication errors, illegible printing, strange noises, phone not 
 
 To begin with, you may want to check your phone line to see whether you have a clear dial tone. Check if the phone line is properly plugged in, and if you're still getting a problem call your phone service provider to have the line checked for connection issues and so on.
 
-### Image quality problems
+## Image quality problems
 
 [![Help sign](/blog/images/iStock_000009700656Medium.jpg)](/blog/images/iStock%5F000009700656Medium.jpg)
 
@@ -20,13 +20,13 @@ When you receive a fax, do the pages come out too light or too dark? Do they hav
 
  If your test print is splotchy or lined, there could be a problem in your machine. There might be a leak or spill within your machine. Open the document feed area of the fax machine and wipe the surface with a clean cloth. Also, gently clean the moving parts that you can reach and be sure to swab the scanner glass (in the case of those all in one fax/copier machines). There could be something stuck inside that is causing those lines to appear – gently dislodge and remove whatever it may be. Check the **[toner cartridge](https://www.comboink.com/)**; if it seems to be leaking and powder falls out of it when you shake it; this means it's time to change it.
 
-### ADF not accepting the document
+## ADF not accepting the document
 
 At times the ADF or the automatic document feeder may act up – it may pull in more than one sheet of paper at a time or may refuse to pull in the papers at all. You will have to check the separation pad (which helps separate the sheets of paper) and clean it out. Sometimes just cleaning out the pad will solve the problem, but if's worn out, it may need replacing
 
  Similarly, check out and clean the ADF feed roller. Experts recommend cleaning the ADF with WD-40 and a tough cotton cloth. Typically the cloth will collect a lot of dust, **[ink](https://www.comboink.com/)** and other residue when you clean the area. This should work, but if it doesn't, you could try flipping this over (which may not be possible in all fax machines) to see if the problem resolves itself.
 
-### Ringing but not receiving
+## Ringing but not receiving
 
 Sometimes you will hear your fax machine ringing but not answering. It could be a simple problem with the auto answer feature being turned off. Check your instructions manual to see if there could be any other obvious reasons why this is happening – different models operate in different ways and may have different Default Settings. Altering the settings and doing a test should fix the problem in most cases.
 

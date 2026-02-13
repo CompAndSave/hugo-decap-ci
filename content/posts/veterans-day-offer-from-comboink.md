@@ -8,6 +8,8 @@ authors: Andrew Yeung
 tags: [Veterans Day Deal]
 ---
 
+## Veterans Day Discount
+
 The 11th day of the 11th month is a time to honor the HEroes and SHEroes of our nation. The men and women who experienced the never ending struggle for peace in a time of war. In doing our part to honor the nation's veterans, [ComboInk](https://www.comboink.com/) is offering **8% off your entire purchase** when you use the coupon code "**PATRIOT11**" at checkout.
 
 [![Veterans Day Savings Offer](/blog/images/facebook-template-veterans-day.jpg)](/blog/images/facebook-template-veterans-day.jpg)

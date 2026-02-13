@@ -14,11 +14,11 @@ Hello, readers! We took a break the past few months to redesign our blog. We hop
 
 Some of our shoppers have trouble installing non-original equipment manufacturer (OEM) HP ink. While non-OEM ink is just as high quality as name brand cartridges, sometimes the different packaging confuses people. The popular HP 564XL cartridges are no exception.
 
-### Installation Video
+## Installation Video
 
 You can watch our YouTube video on installing these types of cartridges.
 
-### Installation Infographic
+## Installation Infographic
 
 Or if you'd rather read through the instructions, below is our infographic on installing the HP 564XL cartridge. Suggestion: print this out and leave by your printer for the next time you have to installHP 564XL cartridges. And of course when you run out of ink, make sure you save money and select one of [ComboInk](https://www.comboink.com/)'s combo packs of [HP 564XL cartridges](https://www.comboink.com/hp-564xl-ink-cartridges-4-pk).
 

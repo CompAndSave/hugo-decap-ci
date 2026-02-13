@@ -11,6 +11,9 @@ tags:
   - Printer Ink
   - compatible ink cartridges
 ---
+
+## Save With HP PhotoSmart 1000 Compatible Ink
+
 The HP PhotoSmart 1000 printer is a state of the art image printing item of hardware. It is capable of printing up to 9 pages of quality images per minute if printing in colour and 11 pages per minute if printing in black and white. It is compatible with any windows system and come to you with intergrade smart media or Compact Flash options, to retrieve your images from your camera.
 
 In the market of photography today, you can now purchase camera with a wireless option. If your camera comes with this option then you can use it to print your images using this wireless function with the HP PhotoSmart 1000 printer. This is a quality service; as it means that there is no PC required, and if you do not own a PC or have access to a PC then you can still be able to print high quality images.

@@ -11,6 +11,8 @@ tags:
 ---
 [![new lower price sign](/blog/images/cheap-printer.jpg)](/blog/images/cheap-printer.jpg)
 
+## Cheap Printer Prices Often Mean Expensive Ink Refills
+
 Most manufacturers do not earn profit from printers, but they earn it from cartridges. They successfully cash in on the consumer psychology. They count on the user to play safe and pay top dollar for their trusty brand name ink jet cartridge. Most of the consumer-based industries use this marketing tactic. The original instrument is sold at cost price or some times even lower and the profits are made only in the aftermarket.
 
 The consumer feels ecstatic to have bought the printer at a great deal from the local office supplier. He realizes the trap only when the new inkjet printer runs out of ink. That inexpensive inkjet printer now seems to be a burden on the pocket! The ink usually runs out very fast in new printers since they are only half or even less filled. With this, the manufacturer ensures that the customer needs to buy the expensive [ink cartridges](https://www.comboink.com/) very soon. They make a lot of money with this.

@@ -21,7 +21,7 @@ You can print as many or as few as you need to; you don't have to pay for the le
 
 You can personalize your wedding invites and add special messages for special invitees (personal messages for family and close friends etc). You can also include printed maps or directions to the venue and an RSVP card along with the invite. Plus you can also create Save the Date notes, Thank You Cards, Tags for Wedding Favors and even some cute personal invites for the Best Man and the Maid /Matron of honor.
 
-#### Tips for Affordable and Elegant Wedding Invitations
+## Tips for Affordable and Elegant Wedding Invitations
 
 * Choose the paper with care. Pure cotton paper, papers made from bamboo and other handmade options are very elegant but also expensive. Paper with metallic or shinier finishes cost less. You could also opt for brown recycled paper – make an earth friendly gesture and save money at the same time! Also remember that some paper types tend to be heavier than others, so if you're going to be posting the cards, take postage into account.
 * Check out free templates for wedding invites online. You can choose something traditional and heartfelt or funny and cute. Just select and alter available designs to suit your requirements and to match your color scheme or wedding theme. (Check out some of these great[ free Pinterest wedding invite templates](https://www.pinterest.com/michellequitos/wedding-invitation-templates-free/)).
@@ -29,7 +29,7 @@ You can personalize your wedding invites and add special messages for special in
 * Triple check the wording, design and color scheme before you take your printouts; you don't want to waste any of the paper you picked out so painstakingly.
 * Keep the design simple and clutter free to the extent possible. Don't make it too busy. Not only does it look better that way; you will be using up less ink and toner. Also consider whether you want to keep the background plain or colored; obviously the latter option will use up much more ink and toner. Thick borders, large or dense colored designs will also use up more ink and toner.
 
-#### **Say, "I Do" to our Affiliate Program**
+## **Say, "I Do" to our Affiliate Program**
 
 We hope you say yes! Signing up to our [free affiliate program](https://www.comboink.com/become-an-affiliate/) helps you earn commission and gives you that little bit extra to work with as you plan an undoubtedly expensive wedding! Plus you get to use our exclusive coupon codes and also have our banners to share. We offer signing up via ShareASale and Commission Junction. So don't forget to sign up with just a few clicks!
 

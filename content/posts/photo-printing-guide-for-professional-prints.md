@@ -24,7 +24,7 @@ Using regular printer paper isn't recommended for photos. The quality won't be v
 
 Plus, you can have a lot of fun editing, adding text and photo-shopping your images to suit your requirements, and can even create collages of your images. Photo papers are of different dimensions and finishes. Here are some photo paper types to choose from:
 
-### Types of Photo Paper
+## Types of Photo Paper
 
 Depending upon the resolution of the images and the size of the photo prints you want, you can pick photo papers of the following dimensions and can most typically be bought in convenient 20 sheet packages, 100 sheet packages and so on:
 
@@ -33,7 +33,7 @@ Depending upon the resolution of the images and the size of the photo prints you
 * [8.5 x 11 Photo Paper](https://www.comboink.com/paper?paper_size=3) – this photo-paper dimension is great for printing detailed landscapes or quality, high resolution portraits
 * [11 x 17 Photo Paper](https://www.comboink.com/paper?paper_size=4) – this photo paper size gives you extra large sized pictures or fair sized posters that you can frame and put up on your walls, use for school projects or for in house advertising purposes
 
-### Photo Paper Finishes
+## Photo Paper Finishes
 
 Each of the above dimensions can be opted for in various different paper finishes –
 

@@ -12,17 +12,17 @@ tags:
 ---
 [![Soybeans](/blog/images/spray-soy-insulation-foam.jpg)](/blog/images/spray-soy-insulation-foam.jpg)
 
-**Soy Ink Cartridges for Eco-friendly Printing**
+## **Soy Ink Cartridges for Eco-friendly Printing**
 
 If you want to contribute to saving our environment, you should use soy ink cartridges as an environment-friendly alternative to petroleum-based cartridges. It is one of the effective ways to encourage environment-friendly practices in the workplace.
 
-**What Are Soy Ink Cartridges?**
+## **What Are Soy Ink Cartridges?**
 
 Soy ink is used in [toner cartridges](https://www.comboink.com/) in printers by using powder made from soybeans. Many companies use soy ink to manufacture printing inks.
 
 Soy ink is similar to normal printing inks and is available in vibrant colors. Even though soybean oil is edible, soy ink is not. Soybean oil is blended with some pigments, waxes, and resins to make a non-edible ink for printer cartridges.
 
-**Advantages Of Soy Ink**
+## **Advantages Of Soy Ink**
 
 Soy ink cartridges are now increasingly being used in offices and homes for printers, instead of normal cartridges. There are many advantages as well as a few disadvantages of using this eco-friendly alternative. The recyclability of paper is more using soy ink; because paper can be more easily broken down to pulp as de-inking of paper is easier. Less ink residue means more effective recycling of paper products.
 
@@ -34,7 +34,7 @@ Soy [ink cartridges](https://www.comboink.com/) are capable of printing the same
 
 The cartridges are easy to install in your printer just like normal cartridges and produce the same results. The colors produced are brighter and sharper than normal ink cartridges, so less ink is used and it proves to be cost effective. Soy ink has rub resistance and is laser proof, as it can withstand the heat of a laser printer. Soy ink has lithographic stability and produces superior quality prints.
 
-**Disadvantages**
+## **Disadvantages**
 
 Soy ink may take longer to dry than normal inks, so don't stack freshly printed paper on top of another. If you are printing glossy magazines, the inks take a long time to dry, which may result in delay and damage. You cannot use soy ink for ballpoint pens and it is not suited for all aspects of printing. As soy ink is based on a crop product, there are chances of crop failure due to natural causes, which may affect the required production.
 

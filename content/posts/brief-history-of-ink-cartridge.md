@@ -8,6 +8,8 @@ authors: Andrew Yeung
 tags: [compatible ink cartridges,inkjet cartridges]
 ---
 
+## Ink Cartridges Through The Years
+
 Ink Cartridges-What would we do without them? They certainly have made all our lives a lot easier. If your job involves printing, you understand that all too well. What once took days or even weeks to print now can be done in a few minutes-thanks to ink cartridges.
 
 Ink cartridges, or more specifically, [inkjet cartridges](https://www.comboink.com/), is a small replaceable component that is used in a printer. Such ink cartridges can last for months before being replaced. In some places the ink can even be refilled so that it can be used over and over again. Ink cartridges can contain one or more partitioned reservoirs, or compartments, that can be connected with an electric contact and a chip that interacts with the printer that one is using.

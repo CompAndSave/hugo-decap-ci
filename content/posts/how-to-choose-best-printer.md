@@ -12,7 +12,7 @@ tags: [best printer,inkjet cartridges,Laserjet Printer,inkjet printer,laser tone
 
 When considering office supplies, one of the big decisions you will have to make is selecting a printer that will fit your needs. But with so many options out there, how can you be sure you choose the one that's right for your business? Between numerous manufacturers and countless models, the options will seem overwhelming. To simplify this process, start with just two choices: laser or inkjet.
 
-### What's the Difference?
+## What's the Difference?
 
 First off, it's important to understand the difference between laser and inkjet printers. An inkjet printer requires ink cartridges and sprays this liquid ink through microscopic nozzles. Laser printers, on the other hand, utilize toner cartridges and a fuser unit that bonds the toner to the paper. But just how do they compare in other respects? Let's take a look…
 
@@ -28,7 +28,7 @@ Laser printers print at a noticeably faster pace than their inkjet counterparts.
 
 Because they use liquid ink rather than powder, inkjet cartridges will leak more often. Ink will stain almost anything it comes in contact with and it is no easy task to clean-up. For that matter, inkjet printers themselves are subject to clogging and require more [maintenance and regular cleaning](https://www.comboink.com/) than laser printers. With toner cartridges, you still run a risk of experiencing a mess due to the fine powder particles, but it does not stain like ink.
 
-### Other Factors To Consider
+## Other Factors To Consider
 
 Once you've decided what type of printer (laser or inkjet) will work best for your needs, you still need to decide between a basic document printer, photo printer and an All-in-One printer. Depending on your needs, this should be a fairly easy decision. If you have a smaller company and know you will know be printing a high volume of documents regularly, you would probably be better off saving on those upfront cost and getting an inkjet printer. If you have a large company that prints documents regularly, a laser printer will be the better option.
 

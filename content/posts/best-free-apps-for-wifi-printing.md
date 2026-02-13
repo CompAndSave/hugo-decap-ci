@@ -24,7 +24,7 @@ All of us come equipped with the latest in gadgets these days – our smart phon
 
 Printing things wirelessly from your phone or tablet can make life a lot easier. Obviously you do need to have a Wi-Fi (wireless) enabled printer, which receives radio (rather like Bluetooth) to start printing. In other words your printer should have a Wi-Fi transceiver built into it. You would have to install the printer to the network so that your phone or tablet can locate the printer. Once your device is connected, it can send print jobs to the printer. Today we look at some free apps to get you started on Wi-Fi printing.
 
-#### Top 5 Wi-Fi printing apps for Android
+## Top 5 Wi-Fi printing apps for Android
 
 | [![Free App for Wifi Printing ](/blog/images/unnamed.png "Samsung Mobile Print App Screenshot ")](/blog/images/unnamed.png) |
 | --------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ Printing things wirelessly from your phone or tablet can make life a lot easier.
 4. **[Samsung Mobile Print](https://play.google.com/store/apps/details?id=com.sec.print.mobileprint)** is a free app that lets you print from any Android device to practically any Samsung laser printer. You can fax or print office documents, images, emails, PDD files and even the social network content.
 5. **[Epson iPrint ](https://play.google.com/store/apps/details?id=epson.print&hl=en)**lets you print, scan and share directly from your Android device from anywhere in the world to an Epson printer with remote print functionality. Print word files, pictures, PDFs, Power Point presentations and more.
 
-#### Top 5 Wi-Fi printing apps for Apple devices
+## Top 5 Wi-Fi printing apps for Apple devices
 
 | [![Photo editing](/blog/images/screen320x480.jpeg)](/blog/images/screen320x480.jpeg)       |
 | ----------------------------------------------------------------------------- |

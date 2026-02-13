@@ -8,7 +8,7 @@ authors: Alexa Bigornia
 tags: [business,creativity,work,graphic design,tips]
 ---
 
-#### "_Think outside the box," they say. "I want it the same but different," they say._
+## "_Think outside the box," they say. "I want it the same but different," they say._
 
 As a graphic designer, these are words that usually precede a headache, caffeine overdose, and a lot of angry typing, but the more and more I hear them, the more they become fuel for me to push myself. Finding a good creative solution and sticking with it may be effective, but it falls into a routine; maintenance at most. This is why keeping my work fresh and creativity ablaze is so important.
 
@@ -22,7 +22,7 @@ Outside of the office, I do side projects like chalk signage, commissioned drawi
 
 _All images are all rights reserved Alexa Bigornia and/or ComboInk.com._
 
-#### _Wait, what?…you add more work to your work so that that work works better?_
+## _Wait, what?…you add more work to your work so that that work works better?_
 
 Exactly. In doing so, I'm able to try new typography treatments like tactile text made of flowers or candy for holiday email promotions, add flexibility to our landing pages with pattern design, and even use some of my own drawings as artwork for emails. Staying inspired and hungry to learn more is what allows me to break the boundaries of that box a little more each day.
 

@@ -11,6 +11,8 @@ tags:
 ---
 Do you own a printer that has just given up on you? If you answer yes to this question then you will now be forced into making a rather quick decision. Do you simply buy a new printer or do you look at getting your old printer fixed. Owning a printer in today's world is a must, and many of us will be lost if we do not have access to one when we need it. We use our printers for a wide variety of tasks which include printing images and documents, and also using our printers for tasks such as faxing if we are lucky enough to own an all in one printer.
 
+## Fix Your Printer Or Buy New
+
 Many things have to be considered when deciding which is the better option. Depending on the age of the printer and availability of parts, fixing an old printer may not be an option. When choosing whether or not to buy new or fix your existing printer you first need to decide what you want your printer to do .There are many different printers available in today's market significantly varying in price depending on what make, model and specifications it has. So before making up your mind on which option is cheaper you may also want to weigh up the pros and cons to which is more time consuming, after all if fixing your old printer is going to be cheaper but take you a century to fix is it really worth it?
 
 If you have used one of the PhotoSmart series which are made by HP, then it is highly unlikely that you will encounter any problems. However all printers have a lifespan and sooner or later the day will come when the printer just seems to stop working for you. This is not a flaw in the design of the printer; it is simply just a sign of the constant wear and tear that the printer has been subjected to over the years.

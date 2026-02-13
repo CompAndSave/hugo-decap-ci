@@ -14,7 +14,7 @@ tags:
 
 Workplace fatigue is a problem that not only leaves you yawning and unenthusiastic about your work, but it can also lead to lower productivity or poor work quality. In many cases, workplace fatigue could be an actual workplace hazard, leading to injury or accidents, because it can hamper one's thinking and judgment. Here are some tips to lower fatigue in the workplace:
 
-### Tips to control/lower workplace fatigue
+## Tips to control/lower workplace fatigue
 
 [![Image of a woman falling asleep on a stack of papers](/blog/images/82556782.jpg)](/blog/images/82556782.jpg)
 

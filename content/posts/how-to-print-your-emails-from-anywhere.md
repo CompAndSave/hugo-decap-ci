@@ -9,15 +9,14 @@ tags:
   - emails
   - wifi printing
 ---
-[](/blog/images/07-22-2015-300x600.jpg)
 
-[![image banner](/blog/images/07-22-2015-300x600.jpg)](/blog/images/07-22-2015-300x600.jpg)
+[![image banner](/blog/images/07-22-2015-300x600.jpg)](/blog/images/07-22-2015-300x600.jpg "image banner")
 
 More than anything else, you might spend online time over your email! With good reason, too! Sure, we have Facebook to keep us connected with friends and family. YouTube keeps us entertained with anything from cute cat videos to informative documentaries. We find out if we need an umbrella or not by checking the weather online. Then find out the news via your favorite newspaper's ePaper.
 
 However, the things that we treasure the most are personal. One-to-one emails that a daughter or a grandson wrote is just one example. If it comes down to the items that you want to save and print, it would have to be your emails. These contain our personal messages, online payment confirmations, invoices of email shopping, acknowledgements of bills paid, email statements of your credit card bills or checking account statements and more.
 
-#### Some Do's and Don'ts about Printing Emails
+## Some Do's and Don'ts about Printing Emails
 
 To save paper, ink and other resources, you should consider going paperless. At least, to the extent of only printing necessary items. Print only those emails that you really need a hard copy of.
 
@@ -31,7 +30,7 @@ Secondly, printout only the relevant part of the email. You don't want the links
 
 Thirdly, print only the message that you need.Consider taking monochrome printouts only if color is not strictly necessary. They will use up less ink. Do you really need to print out the pictures, images and graphics in the e-mail? Or can you do without them?
 
-#### How to Print Email messages, Attachments, Images and More
+## How to Print Email messages, Attachments, Images and More
 
 Nowadays, you can print from almost any device. With wireless printing now enabled on so many modern printers, you can connect more than one device to your printer. For example, your PC, laptop and your mobile phones. If you have never used mobile printing don't worry. It's easier than you think!
 

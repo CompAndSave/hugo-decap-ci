@@ -10,6 +10,9 @@ tags:
   - PhotoSmart Ink
   - reviews
 ---
+
+## PhotoSmart C6150 Printer
+
 If you are looking for a new modern printer to replace your older type, then you should take a look at the HP PhotoSmart range of printer, before you make up your mind. There are several printers which have been made available from HP as a part of this range and although many of them are similar the latest models such as the C6150 printer, contains improved internal working components.
 
 The HP PhotoSmart C6150 printer is an all in one printer, which means that it is able to help you with variety of everyday office and printing tasks. With this printer you can use it as not only a printer but a photocopier, scanner and even a fax machine. These are all well sought after features, of the printer of the modern era. Not many other brands if printers are able to compete with the level of expertise which HP place into their products.

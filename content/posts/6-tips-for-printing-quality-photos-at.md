@@ -13,7 +13,7 @@ tags:
 [![Canon printer](/blog/images/canon-printer.jpg)](/blog/images/canon-printer.jpg)Taking pictures is a great way to save and share memories. But what happens after you take the\
 picture? Today, it is more common to share it online or save it to your computer rather than print them out. But printing out pictures is a great way to keep those memories you cherish on display at all times. So what's the trick to getting quality, affordable prints? You can start out by making sure you have the right supplies!
 
-### Choosing A Printer
+## Choosing A Printer
 
 There are many factors you should keep in mind when printing pictures, but first and foremost, you need to make sure you have a printer that has photo printing capabilities. All printer manufacturers have some great options, so do your research beforehand so you choose a printer that best fits your needs. In general, inkjet printers will produce higher quality prints with vivid color and high contrasts.
 
@@ -25,7 +25,7 @@ Here are a few top printers you may want to check out:
 
 Epson SureColor P600
 
-### Picking Your Paper
+## Picking Your Paper
 
 Next, you want to make sure you are printing on the right kind of [photo paper](https://www.comboink.com/paper). There are several types you can choose from, so here's a rundown of each type and it's purpose:
 

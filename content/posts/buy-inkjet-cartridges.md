@@ -20,7 +20,7 @@ The cartridges are classified into different types.
 * Reservoir-only or combination reservoir/print head
 * Uncoloured or multicolour
 
-**Benefits Of Quality Printing Cartridges**
+## **Benefits Of Quality Printing Cartridges**
 
 Whether you want to print business documents or personal photos you need quality ink for the printing work. Using cheaper ink will create problems for you, and therefore you should go for **inkjet cartridges** of superior quality.
 
@@ -30,15 +30,15 @@ The top quality cartridges will be water resistant and there will be no smudges 
 
 A lot of research and development is done before manufacturing the cartridges and the prices are not that expensive. These ink cartridges produce better print quality than any other normal brands. They last longer and have to be replaced lesser number of times than ordinary cartridges. The color that runs out can be substituted instead of replacing the entire cartridge. This way the other colors will not be lost and can be used to the maximum.
 
-**Remanufactured Or Refilled Cartridges**
+## **Remanufactured Or Refilled Cartridges**
 
 Discarded cartridges will take thousands of years to decompose and so it is not good for the environment. It makes sense to recharge and reuse ink and toner cartridges. Some companies offer recharged or [refilled ink cartridges](https://www.comboink.com/) with hundred percent money back guarantees. As environmental awareness grows, purchase of [remanufactured cartridges](https://www.comboink.com/) has become a common practice throughout the world.
 
-**Advantages**
+## **Advantages**
 
 The advantages of these cartridges are that it costs fifty percent less than regular cartridges. You can easily order these from the companies specialising in these types of cartridges. You reduce the carbon footprint and help save the environment. These remanufactured cartridges won't ruin your printer if it does not have a print head. The circuitry and print head is on the cartridge, not in the printer. Recycled **inkjet cartridges** are now done by leading manufacturers in their environmental programs. This can save resources.
 
-**Disadvantages**
+## **Disadvantages**
 
 The disadvantages of **refilling your inkjet cartridges** are that if you try to do it yourself, it can turn into a mess and you will spill some of the ink. Keep the ink out of reach from kids and pets. The ink is not toxic but can make you sick if you drink enough. Some may be allergic to the ink which could cause reactions. In addition it should not get into anyone's eyes. Another disadvantage may be the cartridges.
 

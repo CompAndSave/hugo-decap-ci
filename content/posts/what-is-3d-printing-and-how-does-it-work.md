@@ -12,11 +12,11 @@ The entire concept of a 3D Printer seems rather like something you would see in 
 
 The applications of 3D printing are many: data visualization, product development, rapid prototyping, and specialized manufacturing. These can be applied in various spaces such as architecture & industrial design, healthcare, entertainment, construction, education, fashion, jewelry, geographic information systems and more. But how does something like this even work?
 
-### [![3D printer](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)How did the concept of 3D printers come about?
+## [![3D printer](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)](/blog/images/20120625-Printxel-3D-Printer-Kickstarter.jpeg)How did the concept of 3D printers come about?
 
 It was way back in 1984 that a fledgling 3D printing concept was visualized by Chuck Hull of 3D Systems Corp: a process called stereo-lithography was developed using UV lasers and photopolymers. It was in the 1990's that the term 3D printing was first used when MIT developed a process where inkjet deposition of liquid binder on powder was employed.
 
-### Technology used for 3D printers
+## Technology used for 3D printers
 
 Additive Layering is the key to creating 3D printouts. There are different methods but mainly it's about layers being used to create objects; typically the softening or the melting of selected materials to create those layers. The most commonly used protocol in 3D printing is **Selective laser sintering (SLS)** and **Fused Deposition Modeling (FDM**). Liquids may also be used and then cured to create objects using **Stereo-Lithography (SLA)**.
 
@@ -26,7 +26,7 @@ Using a 3D modeling program, an object is scanned and a design is generated. **T
 
 **SLA technology** uses liquids to create solid objects using the process of photo-polymerization. With this method liquid ultraviolet curable photopolymer resin is used along with an ultraviolet laser to generate the layers that translate into a 3D object. UV light helps consolidate and solidify the object created.
 
-### The future of 3D printers
+## The future of 3D printers
 
 3D printing is a fascinating subject and it is only a matter of time before the concept catches with the general population at large –the possible applications in schools, places of businesses and even homes is only now being realized. The 3D printer space has seen astonishing growth in recent times; the market for **3D printers and services was worth $2.2 billion worldwide in 2012** according to some estimates.
 

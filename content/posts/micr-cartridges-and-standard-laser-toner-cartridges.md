@@ -16,7 +16,7 @@ MICR cartridges contain magnetic components, especially iron oxide. This technol
 
 Other industries such as insurance, airlines, and activities ticketing also use this technology. This is because magnetic printing allows the characters to be read easily and clearly even if they have been overprinted. In addition to this, the error rate while reading or scanning magnetic printed checks and other documents is extremely low.
 
-**Difference between Regular Laser Toner Cartridges and MICR Cartridges**
+## **Difference between Regular Laser Toner Cartridges and MICR Cartridges**
 
 A [laser toner](https://www.comboink.com/) is fine carbon-based powder mixed with a polymer. It is absolutely dry and is stored in a hopper chamber of the laser printer, whereas MICR toner contains a high percentage of ferrous oxide. It is a specially formulated toner mixture that is designed to be used for a specific laser printer. It is similar to laser toner, but requires 50 to 60 percent iron oxide preservative content.
 

@@ -12,7 +12,7 @@ There's much you can do with your inkjet printer, and DIY sources will tell you 
 
 [![Printinf Clear Labels with Your Laser Printer](/blog/images/DIY-labels-1-The-Proper-Pinwheel.jpg)](/blog/images/DIY-labels-1-The-Proper-Pinwheel.jpg)One of those DIY projects that you will need a laser printer for is the printing of labels for jars, bottles and so on – for preserves & sauce containers pickle jars, kids' projects and assignments.
 
-### So here's what you'll need to print your labels:
+## So here's what you'll need to print your labels:
 
 * A laser jet printer (an inkjet will not work for this project) with sufficient amount of **[toner](https://www.comboink.com/)** if printing multiple labels
 * Printing paper
@@ -21,7 +21,7 @@ There's much you can do with your inkjet printer, and DIY sources will tell you 
 * A bowl of warm water
 * Mason's jar or clear glass jar (such as a jam jar properly cleaned out and dried)
 
-### What to do:
+## What to do:
 
 * First print your label in the color, font and size required. The label should be only as wide as the width of the packing tape you have. Fix the packing tape over the label's printed area. Pat down and smooth the two surfaces together. Now cut along the edge of the label's printed area in the desired shape and trim away any excess.
 * Fill a bowl with warm water and put the label, with the packing tape stuck to it, in the water. Ensure that it is fully submerged. If it tries to float to the top, weight it down with something, but ensure that the label stays fully submerged for about 5 to 6 minutes.

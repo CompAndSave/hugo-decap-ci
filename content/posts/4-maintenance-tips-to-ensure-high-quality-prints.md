@@ -10,7 +10,7 @@ tags: [ComboInk.com,Remanufactured Cartridges,Technology,inkjet cartridges insta
 
 If there's one thing more frustrating than running out of ink at the most inconvenient time, it's having the ink and STILL not being able to print. There are a few reasons as to why your printer may be producing sub par pages. When you see the paper is skipping, banding or producing no print at all, it is likely that your [ink cartridge](https://www.comboink.com/blog/posts/where-printers-printer-cartridges-are-headed-in-the-next-decade.html) is clogged, blocked or dried up. Although situations like this can cause some project delays, there are some relatively easy fixes. Here are a few tips for getting your printer to start producing high-quality prints again:
 
-### 1\. Try running a self-cleaning program on your printer:
+## 1\. Try running a self-cleaning program on your printer:
 
 Sometimes, the fix is as easy as running the self-cleaning program from you printer control panel. Directions will vary between different printers, but in most cases, these are the general steps you should follow:
 
@@ -30,7 +30,7 @@ _Note: Specific functions may vary among printer models, for further instruction
 
 If you have ran the self-cleaning program multiple times and the print quality is still unsatisfactory, you may have a clogged or blocked [printhead](https://www.comboink.com/blog/posts/clean-your-printers-printhead-in-seconds.html) (the part that actually applies the ink onto the paper). Printer models vary and some ink cartridges and printheads are separate, whereas some come as a single unit.
 
-### 2\. When your printhead is in the printer:
+## 2\. When your printhead is in the printer:
 
 1\. Remove the cartridge from the printer.
 
@@ -45,7 +45,7 @@ If you have ran the self-cleaning program multiple times and the print quality i
 5\. Reinsert the cartridge and run the printhead self-cleaning program.
 
 
-### 3\. When your printhead is in the cartridge (like most Inkjet printers):
+## 3\. When your printhead is in the cartridge (like most Inkjet printers):
 
 1\. Remove cartridge/printhead.
 
@@ -73,7 +73,7 @@ Follow steps 1-2 above.
 
 6\. Reinstall printhead, turn on printer, run the printhead cleaning utility, and print a test page to check results.
 
-### 4\. If you want to avoid using water, you can also use compressed air:
+## 4\. If you want to avoid using water, you can also use compressed air:
 
 1\. Remove the cartridge from the printer.
 

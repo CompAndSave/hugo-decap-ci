@@ -20,7 +20,7 @@ A [**Dot Matrix Printer**](https://www.comboink.com/blog/posts/dot-matrix-printi
 
 The prints can be produced in varied fonts and arbitrary graphics in the form of dots. These dots are produced by tiny metal pins or wires driven back and forth or up and down by the power of a tiny electromagnet or solenoid. The printer head continuously moves and prints only one vertical text line at a time.
 
-### **Advantages**
+## **Advantages**
 
 1. The Dot matrix printers are cheap and easily available in the market.
 2. They can make carbon copies of the print out unlike non-impact printers.
@@ -30,7 +30,7 @@ The prints can be produced in varied fonts and arbitrary graphics in the form of
 6. The maintenance cost is low as compared to other printers.
 7. They tolerate dirty and hot conditions as are found in industrial environments.
 
-### **Disadvantages**
+## **Disadvantages**
 
 1. The output is not high resolution. Color printout is limited and the print speed is also lesser as compared to non-impact printers. Therefore, the quality of print out in general is not very good. This affects the scanner readability of the print out.
 2. The printer creates great deal of noise while the pins strike the ribbon to the paper.

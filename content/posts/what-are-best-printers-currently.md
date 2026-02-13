@@ -11,6 +11,8 @@ tags:
   - printer
   - reviews
 ---
+## How To Choose The Best Printer For You
+
 If you are looking for your first printer, or if you have owned several printers in your family household before, then you will no doubt understand just how hard it is to choose a printer, which is right for you. There are so many brands and types of printer on the market today that it really can get hard to find the right one for you. There are many factors that come into play, which you should be thinking about when you are looking for a new printer.
 
 How much is the printer?

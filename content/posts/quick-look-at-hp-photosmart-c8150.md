@@ -11,6 +11,10 @@ tags:
   - reviews
   - HP
 ---
+
+## PhotoSmart C8150: Features At A Glance
+
+
 The HP PhotoSmart C8150 printer is one of the latest models of printer, which has been made available by HP. It boasts a fantastic range of additions, which we have not yet seen before on other brands of printer. If you are looking for a new printer for either your home or your workplace then this is a printer that should be high on your list of potential solutions. It is an all in one printer that is able to cater for a variety of needs, such as being used as a fax machine or a scanner. HP always seem to deliver us products that include the latest in technology and the C8150 printer follows along these same principles.
 
 If you use this printer, then you can expect to receive prints of your latest images which will last for generations. This is because HP have integrated their new photo fading settings, which mean that you really can print images that will seem to resist fading forever. There is also the option to directly print from a memory card or USB device; you will not actually need to connect this printer to a computer to enable the device to work. If you use a SD card with your latest digital camera, then you can simply take out the SD card or memory card from your camera and place into one of the 5 memory card slots, which has been built into this printer. Another point worth noting is that these memory slots are built to cater for 11 different formats.

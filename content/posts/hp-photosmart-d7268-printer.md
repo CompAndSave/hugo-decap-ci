@@ -10,6 +10,9 @@ tags:
   - PhotoSmart Ink
   - reviews
 ---
+
+## PhotoSmart D7268: High‑Speed Photo Printing
+
 In the age of the modern day digital camera, there have been a growing number of people, who now wish to print their own memories through the use of their household printers. Taking the memory card of your digital camera to a professional photo developer can turn out to be an expensive affair; however with the development in recent printing technologies, it is now possible to save yourself money through the use of your own printer.
 
 The HP PhotoSmart range was designed especially for printing images, and uses the very latest in technology to ensure you receive only the very best images time after time. The pictures you take on your camera will hold a certain amount of sentimental value to you, and with this you will want to preserve that memory in the very best way that you can.

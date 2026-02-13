@@ -12,7 +12,7 @@ tags: [DIY,wedding invitations,save money]
 
  According to the Association of Bridal Consultants, February is observed as National Wedding Month. The reason is obvious of course – February is the month in which Valentine's Day falls and love seems to be all round at this time. A lot of couples look to get hitched on the 14th of February or that rarest of dates; 29 February which comes only once every four years. For National Wedding Month, we decided to bring you some DIY wedding invite ideas.
 
-### Why You Should Do DIY Wedding Invitations
+## Why You Should Do DIY Wedding Invitations
 
 So why is it a good idea to create your own wedding invites? For starters, because you can! Put that home printer of yours to good use and get started.
 
@@ -22,7 +22,7 @@ Third, you can save money by printing your own wedding invitations. Getting your
 
 Another reason to create your own wedding cards is that you can personalize them for each of your invitees if you so wish: and could also decide who among your friends and family receives a special message in or along with their invite. Besides, printing your own wedding invites can be such a fun and special thing to do together as a couple!
 
-### Tips to Make Your Own Wedding Invites
+## Tips to Make Your Own Wedding Invites
 
 Decide on the wording, the text or font you want to use, the color scheme (will your wedding have a color scheme or theme and do you want your invites to reflect this?) that you want to use for your invites. Personalize your invites by using text that is personal to you both, or by using a picture or two that means a lot to you (how about an engagement picture!). If you're not quite sure what you'd like, check out some [DIY wedding invite templates](http://www.weddingchicks.com/freebies/invitation-suites/). You can get some great [ideas for DIY invites from Pinterest](http://www.pinterest.com/michellequitos/wedding-invitation-templates-free/) as well.
 

@@ -18,7 +18,7 @@ tags:
 
 If you are getting environmentally conscious these days, try eco-friendly fonts which are designed to save [ink and toner](https://www.comboink.com/). Along with recycled paper and soy inks, these fonts are purposely punctuated with holes so that they use less of printing ink. It generally enables you to use 20 percent less ink.
 
-**Benefits Of Eco-Friendly Fonts**
+## **Benefits Of Eco-Friendly Fonts**
 
 Eco-friendly fonts are a great leap forward as they are designed to save paper and ink. They are a saving for both your wallet and the environment. These are natural and splendid-looking organic fonts which you can use with the popular and well-known word-processing applications.
 
@@ -28,7 +28,7 @@ Printing ink is a highly polluting substance and very expensive, so using the ec
 
 Going green and saving the environment is not a luxury, but it is your corporate social responsibility. Your office is following the principles of people, planet, and profit by using the fonts. Make the resource saving magic a part of your workplace procedures. It is widely accepted that business printing should be minimized for environmental and economic reasons. so why not switch to these typefaces? It is a positive step toward the right direction.
 
-**How To Use The Fonts**
+## **How To Use The Fonts**
 
 The fonts are very striking to look at, but the typeface is completely readable. It is widely believed that the fonts save up to 20 percent ink. The process of downloading the fonts is quite simple.
 
@@ -39,7 +39,7 @@ The fonts are very striking to look at, but the typeface is completely readable.
 
 The fonts are good for business as well as personal use. Sustainable printing can be vital to your corporate social responsibility role.
 
-**Variety Of Fonts**
+## **Variety Of Fonts**
 
 Eco-friendly fonts are available in a variety of styles and are very economically priced. Mentioned below are some different fonts:
 

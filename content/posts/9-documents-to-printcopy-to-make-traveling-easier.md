@@ -16,7 +16,7 @@ Travel experiences often leave us "richer" in many ways. If you ever have the op
 
 Whether you like to explore more of this vast and fascinating country of ours or whether you like to venture out further afield, we tell you how you can be a better organized traveler. We have a list of travel documents, printouts and copies you need to make your next vacation stress free.
 
-### Printouts to Take Before Traveling
+## Printouts to Take Before Traveling
 
 ####  1\. Airline Tickets, Reservation Confirmations, Etc.
 
@@ -34,7 +34,7 @@ List out the destinations that form a part of your trip and the dates you're goi
 
 Do your research from before (Trip Advisor is an excellent resource of user generated content and reviews), read about the attractions of the places you're visiting, and shortlist those that sound most interesting to you; your must-visit points of interest. Take printouts of relevant Trip Advisor pages to help you work out the most time effective way to cover them and so you don't miss out anything that you mean to see.
 
-### Copies & Printouts for When You're Traveling Abroad
+## Copies & Printouts for When You're Traveling Abroad
 
 When you travel abroad you need to be much better prepared because the country you're visiting may not have the familiar services and facilities that you take for granted back home. The phone network may be iffy and the internet connection could be unreliable. Remember in some countries, some websites may be blocked as well. So you need to do your better research beforehand and may have to carry more printouts and more info in hard copy form. You should also have extra copies of all important documents.
 
@@ -50,7 +50,7 @@ If you plan to hire a car, be sure to carry your international drivers' license 
 
 Take printouts of addresses, contact numbers, names of officials and so on. Also make a list of emergency contact numbers and names that you can get in touch with if the need arises.
 
-### Printouts if You're Traveling With Kids
+## Printouts if You're Traveling With Kids
 
 If you're doing a family vacation that involves kids and/or grandkids, you should prepare for this beforehand. Kids are easily tired, bored and upset when traveling so it is best to keep them entertained and engaged (and out of your hair, it must be added).
 
@@ -66,7 +66,7 @@ Mazes, connect the dots, puzzles, word search games, crosswords – taking a few
 
 Tic tac toe, travel scavenger hunt, car bingo, and printable board games will also keep them occupied.
 
-### Have Any Travel Plans Coming Soon?
+## Have Any Travel Plans Coming Soon?
 
 You can find some great ideas for travel printouts for kids on this [Fun for Kids](https://www.minitime.com/trip-tips/) page, these [travel printables](http://www.momsminivan.com/printables.html), these[Pinterest ideas](https://in.pinterest.com/continentalkids/printable-travel-entertainment/) and these [travel game worksheets](http://www.education.com/worksheets/travel-games/).
 

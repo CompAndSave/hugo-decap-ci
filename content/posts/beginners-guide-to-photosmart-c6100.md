@@ -10,6 +10,9 @@ tags:
   - PhotoSmart Ink
   - printer
 ---
+
+## All About PhotoSmart C6100 Printer
+
 If you are looking for a printer to introduce you into the world of computing then the HP PhotoSmart C6100 printer, may be the printer you have been looking for. The HP PhotoSmart range of printers have been available on the market for several years now, and they are likely to continue to keep setting the standard for many more years to come.
 
 The HP PhotoSmart C6100 printer is one of the larger variants available from HP, this is only because there have been several additions to this product, which have not been used on any of the other printers in the range. There is now a wireless capability on this printer, and the C6100 printer was the first of the series to introduce this aspect of printing into the range. It also comes with several other features that have been well respected from the users of HP printers worldwide.

@@ -11,6 +11,9 @@ tags:
   - PhotoSmart Ink
   - inkjet printer
 ---
+
+## The HP PhotoSmart D6160
+
 The all in one printer has started to make an appearance in many family homes in recent years; we have to wonder why this is, and just how has the all in one printer been able to take its place as the printer to have this year. The HP PhotoSmart D6160 is a type of all in one printer, and in this article we will take a look at just how this all in one printer, is a must have item of computer hardware. Many all in one printer are printers of the laser jet type, if you walk into any office or workplace in the modern world we live in, you will find a huge bulky printer in the corner of the room.
 
 The PhotoSmart D6160 is an all in one printer of the ink jet variety, this makes it very unique. Many other brands of printer have struggled to make an efficient all in one ink jet printer, and the brands of which have been successful have been very unsuccessful in the sales front. HP has long been known to consistently produce only the very best printers and always use the latest in printing technology. This is a printer of which is very simple to use, and even the computer beginner will have no problem using the printer for the first time.

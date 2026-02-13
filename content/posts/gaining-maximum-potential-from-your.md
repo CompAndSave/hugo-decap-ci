@@ -10,6 +10,9 @@ tags:
   - printer
   - PhotoSmart Ink
 ---
+
+## Maximize Your PhotoSmart Printer Performance
+
 If you own a PhotoSmart printer, then you will have no doubt have become a little attached to it over the time it has been in your home. They are the printer of the future, and they have ben recognised as some of the best printers in the industry. They have seen many sales and have been on the receiving end of some very positive feedback. If you are new to using printers with your computer, you will have no problems using a printer from the PhotoSmart series. They have all been designed with durability and reliability in mind and will be able to provide you with the very best high quality prints. The quality that is able to be obtained from this printer is exceptional; however the quality can depend on certain factors.
 
 One of these factors is the quality of the ink cartridges that you use with your printer. There are certain different types of ink cartridges that you can use, and there are different options available to you when the time comes to replenish your ink supply. You have the option to either refill the ink cartridges on your own, however this will can be a lengthy and frustrating process, and it is not recommended that you try to complete this process if you have no experience in the methods used. Genuine manufacturer ink cartridges are a good option, however they are overpriced and if you use your printer on a regular basis, then the cost of keeping your printer working can become expensive.
