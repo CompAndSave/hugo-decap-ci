@@ -14,7 +14,7 @@ A printer is a hardware device that is connected to computer to obtain output. N
 
 Apart from printers, there are other output devices also like monitor, plotter, speakers, headphones, projectors, and so on. Printers are generally classified into two categories – impact and non-impact. [Impact printers](https://www.comboink.com/blog/posts/history-of-computer-printing.html) print by establishing a direct physical contact with the paper, but non-impact printer's work otherwise.
 
-[![Okidata Dot Matrix](/blog/images/3122515976_116811493d_m.jpg)](https://www.comboink.com/v/mp/save10/special%5Fink%5Fdeal.asp)
+[![Okidata Dot Matrix](/blog/images/3122515976_116811493d_m.jpg)](https://www.comboink.com)
 
 A [**Dot Matrix Printer**](https://www.comboink.com/blog/posts/dot-matrix-printing-history-how-it-works.html) is the oldest type of printer and one of the good examples of computer printer that prints by direct impact of an ink-soaked cloth ribbon against the paper. Much like the print mechanism of a typewriter, the printer head moves in an up and down motion or runs back and forth on the paper. These are called impact printers because printing involves the use of mechanical pressure where the pins against the ink ribbon strike on the paper.
 
